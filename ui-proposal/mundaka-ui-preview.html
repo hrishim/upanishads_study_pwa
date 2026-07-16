@@ -1,0 +1,684 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mundaka Upanishad UI Preview</title>
+  <style>
+    :root {
+      --paper: #f8f4ec;
+      --ink: #1f211e;
+      --muted: #6d685f;
+      --line: #ded4c2;
+      --panel: #fffdf8;
+      --panel-2: #f2eadf;
+      --saffron: #a75232;
+      --saffron-dark: #743625;
+      --green: #2d6b5a;
+      --blue: #2f557f;
+      --gold: #c49a4e;
+      --shadow: 0 24px 70px rgba(44, 34, 22, 0.14);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      margin: 0;
+      background:
+        linear-gradient(115deg, rgba(167, 82, 50, 0.12), transparent 34%),
+        linear-gradient(245deg, rgba(45, 107, 90, 0.11), transparent 38%),
+        var(--paper);
+      color: var(--ink);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    }
+
+    button,
+    input {
+      font: inherit;
+    }
+
+    .app-frame {
+      display: grid;
+      grid-template-columns: 280px minmax(0, 1fr);
+      min-height: 100vh;
+    }
+
+    .library {
+      display: flex;
+      flex-direction: column;
+      gap: 22px;
+      padding: 22px;
+      border-right: 1px solid rgba(72, 57, 36, 0.16);
+      background: rgba(255, 253, 248, 0.78);
+      backdrop-filter: blur(20px);
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .mark {
+      display: grid;
+      width: 52px;
+      height: 52px;
+      place-items: center;
+      border: 1px solid rgba(167, 82, 50, 0.28);
+      border-radius: 12px;
+      background: #fff2df;
+      color: var(--saffron-dark);
+      font-family: Georgia, serif;
+      font-size: 28px;
+    }
+
+    .eyebrow {
+      margin: 0 0 5px;
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0;
+      text-transform: uppercase;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    p {
+      margin-top: 0;
+    }
+
+    h1 {
+      margin-bottom: 0;
+      font-size: 23px;
+      line-height: 1.05;
+    }
+
+    h2 {
+      margin-bottom: 0;
+      font-size: clamp(30px, 4.5vw, 54px);
+      line-height: 0.98;
+    }
+
+    h3 {
+      margin-bottom: 0;
+      font-size: 25px;
+      line-height: 1.08;
+    }
+
+    h4 {
+      margin-bottom: 10px;
+      color: var(--saffron-dark);
+      font-size: 12px;
+      letter-spacing: 0;
+      text-transform: uppercase;
+    }
+
+    .library-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .library-item {
+      display: grid;
+      gap: 5px;
+      padding: 13px;
+      border: 1px solid transparent;
+      border-radius: 10px;
+      background: transparent;
+      text-align: left;
+    }
+
+    .library-item.active {
+      border-color: rgba(167, 82, 50, 0.28);
+      background: #fff7eb;
+      box-shadow: 0 12px 28px rgba(63, 43, 20, 0.08);
+    }
+
+    .library-item strong,
+    .library-item span {
+      display: block;
+    }
+
+    .library-item strong {
+      font-size: 14px;
+    }
+
+    .library-item span,
+    .build-note,
+    .source-line {
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.4;
+    }
+
+    .build-note {
+      margin-top: auto;
+      padding: 14px;
+      border: 1px solid rgba(45, 107, 90, 0.22);
+      border-radius: 10px;
+      background: rgba(239, 248, 242, 0.7);
+    }
+
+    .build-note strong {
+      display: block;
+      margin-bottom: 6px;
+      color: var(--green);
+      font-size: 13px;
+    }
+
+    .workspace {
+      display: grid;
+      grid-template-rows: auto auto minmax(0, 1fr);
+      gap: 14px;
+      min-width: 0;
+      padding: 24px;
+    }
+
+    .topbar {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(280px, 420px);
+      gap: 18px;
+      align-items: end;
+    }
+
+    .search {
+      display: grid;
+      gap: 7px;
+    }
+
+    .search label {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .search input {
+      height: 44px;
+      padding: 0 14px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      outline: none;
+      background: rgba(255, 253, 248, 0.9);
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 8px;
+    }
+
+    .stat {
+      min-height: 70px;
+      padding: 12px;
+      border: 1px solid rgba(72, 57, 36, 0.12);
+      border-radius: 10px;
+      background: rgba(255, 253, 248, 0.84);
+    }
+
+    .stat strong {
+      display: block;
+      color: var(--ink);
+      font-size: 22px;
+    }
+
+    .stat span {
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .reader-shell {
+      display: grid;
+      grid-template-columns: 260px minmax(0, 1fr) 320px;
+      gap: 14px;
+      min-height: 0;
+    }
+
+    .panel {
+      min-width: 0;
+      border: 1px solid rgba(72, 57, 36, 0.13);
+      border-radius: 12px;
+      background: rgba(255, 253, 248, 0.9);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .panel-header {
+      display: flex;
+      min-height: 54px;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 13px 14px;
+      border-bottom: 1px solid rgba(72, 57, 36, 0.11);
+    }
+
+    .panel-header strong {
+      font-size: 13px;
+    }
+
+    .toc-list,
+    .results-list {
+      padding: 10px;
+    }
+
+    .toc-group {
+      margin-bottom: 12px;
+    }
+
+    .toc-title {
+      padding: 8px 10px;
+      color: var(--saffron-dark);
+      font-size: 12px;
+      font-weight: 900;
+      text-transform: uppercase;
+    }
+
+    .toc-row,
+    .result-row {
+      display: grid;
+      width: 100%;
+      gap: 4px;
+      margin-bottom: 6px;
+      padding: 10px;
+      border: 1px solid transparent;
+      border-radius: 9px;
+      background: transparent;
+      color: var(--ink);
+      text-align: left;
+    }
+
+    .toc-row.active,
+    .result-row.active {
+      border-color: rgba(47, 85, 127, 0.28);
+      background: #edf4fa;
+    }
+
+    .toc-row strong,
+    .result-row strong {
+      font-size: 13px;
+    }
+
+    .toc-row span,
+    .result-row span {
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.35;
+    }
+
+    .read-pane {
+      display: grid;
+      grid-template-rows: auto auto minmax(0, 1fr);
+    }
+
+    .read-toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 18px 20px 14px;
+    }
+
+    .mode-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      padding: 0 20px 15px;
+      border-bottom: 1px solid rgba(72, 57, 36, 0.11);
+    }
+
+    .mode-tabs button,
+    .tool-btn {
+      min-height: 36px;
+      padding: 0 12px;
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      background: #fffdf8;
+      color: var(--ink);
+      font-size: 13px;
+      font-weight: 800;
+    }
+
+    .mode-tabs .active {
+      border-color: rgba(45, 107, 90, 0.32);
+      background: #edf6ef;
+      color: var(--green);
+    }
+
+    .read-content {
+      overflow: auto;
+      padding: 22px;
+    }
+
+    .verse-block {
+      display: grid;
+      gap: 18px;
+      max-width: 980px;
+    }
+
+    .sanskrit {
+      color: #17130f;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(28px, 3.2vw, 43px);
+      line-height: 1.85;
+      white-space: pre-wrap;
+    }
+
+    .translit {
+      color: var(--blue);
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 18px;
+      line-height: 1.65;
+      white-space: pre-wrap;
+    }
+
+    .translation {
+      padding: 18px;
+      border-left: 4px solid rgba(167, 82, 50, 0.44);
+      background: #fbf6ee;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 20px;
+      line-height: 1.65;
+    }
+
+    .layer-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(260px, 0.82fr);
+      gap: 14px;
+    }
+
+    .meaning-box,
+    .notes-box {
+      padding: 16px;
+      border: 1px solid rgba(72, 57, 36, 0.12);
+      border-radius: 10px;
+      background: #fffaf2;
+      color: #3f3932;
+      font-size: 14px;
+      line-height: 1.7;
+    }
+
+    .notes-box {
+      background: #f6f1e9;
+    }
+
+    .tools {
+      display: flex;
+      gap: 7px;
+    }
+
+    .result-row strong {
+      color: var(--saffron-dark);
+    }
+
+    .right-panel {
+      display: grid;
+      grid-template-rows: auto minmax(0, 1fr);
+    }
+
+    .results-list {
+      overflow: auto;
+    }
+
+    .approval-ribbon {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 12px 14px;
+      border: 1px solid rgba(196, 154, 78, 0.28);
+      border-radius: 12px;
+      background: rgba(255, 249, 231, 0.8);
+      color: #67512a;
+      font-size: 13px;
+      line-height: 1.4;
+    }
+
+    .approval-ribbon strong {
+      color: #6b441f;
+    }
+
+    @media (max-width: 1180px) {
+      .app-frame {
+        grid-template-columns: 1fr;
+      }
+
+      .library {
+        min-height: auto;
+        border-right: 0;
+        border-bottom: 1px solid rgba(72, 57, 36, 0.16);
+      }
+
+      .library-list {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .reader-shell {
+        grid-template-columns: 230px minmax(0, 1fr);
+      }
+
+      .right-panel {
+        grid-column: 1 / -1;
+        max-height: 330px;
+      }
+    }
+
+    @media (max-width: 760px) {
+      .workspace,
+      .library {
+        padding: 15px;
+      }
+
+      .topbar,
+      .reader-shell,
+      .layer-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .stats,
+      .library-list {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .read-toolbar,
+      .approval-ribbon {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .sanskrit {
+        font-size: 28px;
+      }
+
+      .translation {
+        font-size: 18px;
+      }
+    }
+
+    @media (max-width: 430px) {
+      .stats,
+      .library-list {
+        grid-template-columns: 1fr;
+      }
+
+      .library {
+        gap: 14px;
+      }
+
+      h2 {
+        font-size: 34px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="app-frame">
+    <aside class="library">
+      <section class="brand">
+        <div class="mark">ॐ</div>
+        <div>
+          <p class="eyebrow">Study Workspace</p>
+          <h1>Upanishads Study</h1>
+        </div>
+      </section>
+
+      <nav class="library-list" aria-label="Available Upanishads">
+        <button class="library-item active" type="button">
+          <strong>Mundaka Upanishad</strong>
+          <span>Atharva Veda · downloaded from Shlokam</span>
+        </button>
+        <button class="library-item" type="button">
+          <strong>Isha Upanishad</strong>
+          <span>Next dataset slot</span>
+        </button>
+        <button class="library-item" type="button">
+          <strong>Kena Upanishad</strong>
+          <span>Next dataset slot</span>
+        </button>
+        <button class="library-item" type="button">
+          <strong>Katha Upanishad</strong>
+          <span>Next dataset slot</span>
+        </button>
+      </nav>
+
+      <div class="build-note">
+        <strong>Approval preview</strong>
+        This UI is not wired to the JSON yet. After approval, the downloaded Mundaka data will drive these panes.
+      </div>
+    </aside>
+
+    <section class="workspace">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Mundaka Upanishad</p>
+          <h2>Full Text Study Workspace</h2>
+          <p class="source-line">Sanskrit · transliteration · English · translation · word meanings · notes</p>
+        </div>
+        <div class="search">
+          <label for="search">Search the full text</label>
+          <input id="search" value="para vidya" aria-label="Search preview" readonly>
+        </div>
+      </header>
+
+      <section class="stats" aria-label="Downloaded source summary">
+        <div class="stat"><strong>64</strong><span>source entries</span></div>
+        <div class="stat"><strong>7</strong><span>sections</span></div>
+        <div class="stat"><strong>6</strong><span>text layers</span></div>
+        <div class="stat"><strong>1</strong><span>source page</span></div>
+      </section>
+
+      <div class="approval-ribbon">
+        <span><strong>Design intent:</strong> Not a card reader. This is a robust text workspace like the Lalithasahasranam project: source library, structured navigation, search, continuous reading, and commentary.</span>
+        <span>Mac · iPad · iPhone responsive</span>
+      </div>
+
+      <section class="reader-shell">
+        <aside class="panel">
+          <div class="panel-header">
+            <strong>Structure</strong>
+            <span class="source-line">3 Mundakas</span>
+          </div>
+          <div class="toc-list">
+            <div class="toc-group">
+              <div class="toc-title">Mundaka 1</div>
+              <button class="toc-row" type="button"><strong>Invocation</strong><span>1.0 · opening shanti mantra</span></button>
+              <button class="toc-row active" type="button"><strong>Section 1.1</strong><span>9 entries · higher and lower knowledge</span></button>
+              <button class="toc-row" type="button"><strong>Section 1.2</strong><span>13 entries · ritual and its limits</span></button>
+            </div>
+            <div class="toc-group">
+              <div class="toc-title">Mundaka 2</div>
+              <button class="toc-row" type="button"><strong>Section 2.1</strong><span>10 entries · Brahman as source</span></button>
+              <button class="toc-row" type="button"><strong>Section 2.2</strong><span>11 entries · the inner Self</span></button>
+            </div>
+            <div class="toc-group">
+              <div class="toc-title">Mundaka 3</div>
+              <button class="toc-row" type="button"><strong>Section 3.1</strong><span>10 entries · two birds teaching</span></button>
+              <button class="toc-row" type="button"><strong>Section 3.2</strong><span>10 entries · realization</span></button>
+            </div>
+          </div>
+        </aside>
+
+        <article class="panel read-pane">
+          <div class="read-toolbar">
+            <div>
+              <p class="eyebrow">Mundaka 1.1.4</p>
+              <h3>Selected Verse Workspace</h3>
+            </div>
+            <div class="tools">
+              <button class="tool-btn" type="button">A-</button>
+              <button class="tool-btn" type="button">A+</button>
+              <button class="tool-btn" type="button">Bookmark</button>
+            </div>
+          </div>
+
+          <div class="mode-tabs" role="tablist" aria-label="Text layers">
+            <button class="active" type="button">Study</button>
+            <button type="button">Sanskrit</button>
+            <button type="button">Translation</button>
+            <button type="button">Word Meanings</button>
+            <button type="button">Notes</button>
+          </div>
+
+          <div class="read-content">
+            <div class="verse-block">
+              <div class="sanskrit">तस्मै स होवाच । द्वे विद्ये वेदितव्ये इति ह स्म
+यद्ब्रह्मविदो वदन्ति परा चैवापरा च ॥ ४॥</div>
+
+              <div class="translit">tasmai sa hovāca . dve vidye veditavye iti ha sma
+yadbrahmavido vadanti parā caivāparā ca .. 4..</div>
+
+              <div class="translation">To him he said: Two kinds of knowledge must be known, as indeed the knowers of Brahman declare, the higher and the lower.</div>
+
+              <div class="layer-grid">
+                <section class="meaning-box">
+                  <h4>Word Meanings</h4>
+                  तस्मै · to him<br>
+                  सः · he<br>
+                  उवाच · said<br>
+                  द्वे विद्ये · two knowledges<br>
+                  परा · higher<br>
+                  अपरा · lower
+                </section>
+
+                <section class="notes-box">
+                  <h4>Notes</h4>
+                  The teaching distinguishes lower knowledge from the higher knowledge that points toward the imperishable.
+                </section>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <aside class="panel right-panel">
+          <div class="panel-header">
+            <strong>Search Results</strong>
+            <span class="source-line">preview</span>
+          </div>
+          <div class="results-list">
+            <button class="result-row active" type="button">
+              <strong>1.1.4</strong>
+              <span>Two kinds of knowledge: higher and lower.</span>
+            </button>
+            <button class="result-row" type="button">
+              <strong>1.1.5</strong>
+              <span>Lower knowledge includes the Vedas and auxiliary disciplines.</span>
+            </button>
+            <button class="result-row" type="button">
+              <strong>1.2.12</strong>
+              <span>Having examined the worlds gained by action...</span>
+            </button>
+            <button class="result-row" type="button">
+              <strong>2.2.8</strong>
+              <span>The knot of the heart is cut asunder.</span>
+            </button>
+          </div>
+        </aside>
+      </section>
+    </section>
+  </main>
+</body>
+</html>

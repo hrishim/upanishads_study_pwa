@@ -1,0 +1,37 @@
+{
+  "slug": "kaivalya-upanishad",
+  "title": "Kaivalya Upanishad",
+  "shortTitle": "Kaivalya",
+  "sourceUrl": "https://shlokam.org/text/kaivalya-upanishad.htm",
+  "fileBase": "kaivalya_upanishad_full",
+  "downloadedAt": "2026-07-15T15:24:52.872Z",
+  "response": {
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+      "access-control-allow-origin": "*",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cache-control": "no-cache, no-store, must-revalidate",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "a1b9c6d02e4749d1-SIN",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Wed, 15 Jul 2026 15:24:53 GMT",
+      "link": "<https://fonts.googleapis.com>; rel=\"preconnect\"",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "pragma": "no-cache",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=1WrNqG%2Fq9%2BAzh7lV17tLm1Sxm9%2BqtN49AaT5P7ekNL9N143cQJ%2FQxLT2y13zVOLblo0RYfzyvkz2ZSPPSG2Y2DS8MrqXJDhnsOw4NHHXLVZGYcyvY3yrThJCdwsZsA%3D%3D\"}]}",
+      "server": "cloudflare",
+      "transfer-encoding": "chunked",
+      "vary": "accept-encoding",
+      "x-content-type-options": "nosniff"
+    }
+  },
+  "counts": {
+    "entries": 26,
+    "numberedVerses": 25,
+    "sections": 1
+  }
+}

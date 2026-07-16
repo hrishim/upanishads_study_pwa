@@ -1,0 +1,36 @@
+{
+  "slug": "chandogya-upanishad",
+  "title": "Chandogya Upanishad",
+  "shortTitle": "Chandogya",
+  "sourceUrl": "https://shlokam.org/text/chandogya-upanishad.htm",
+  "fileBase": "chandogya_upanishad_full",
+  "downloadedAt": "2026-07-15T15:24:53.700Z",
+  "response": {
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+      "access-control-allow-origin": "*",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cache-control": "no-cache, no-store, must-revalidate",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "a1b9c6d70a6325ca-NRT",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Wed, 15 Jul 2026 15:24:54 GMT",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "pragma": "no-cache",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=8WXn3wxYFwXA0yh3EJ1yPfxVBw7HnBzB%2Ft6ESiD3U8f8pImSEWQhixRowr%2FYSiZ0XYY3PnHIwBBMXcEZ%2B04o6sLnBz5dOAbfsKiSgSlOiN1fXjrtviz2q0dpkOMrjQ%3D%3D\"}]}",
+      "server": "cloudflare",
+      "transfer-encoding": "chunked",
+      "vary": "accept-encoding",
+      "x-content-type-options": "nosniff"
+    }
+  },
+  "counts": {
+    "entries": 621,
+    "numberedVerses": 620,
+    "sections": 154
+  }
+}

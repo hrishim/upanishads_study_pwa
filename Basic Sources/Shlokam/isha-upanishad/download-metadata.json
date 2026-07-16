@@ -1,0 +1,37 @@
+{
+  "slug": "isha-upanishad",
+  "title": "Isha Upanishad",
+  "shortTitle": "Isha",
+  "sourceUrl": "https://shlokam.org/text/isha-upanishad.htm",
+  "fileBase": "isha_upanishad_full",
+  "downloadedAt": "2026-07-15T15:24:50.978Z",
+  "response": {
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+      "access-control-allow-origin": "*",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cache-control": "no-cache, no-store, must-revalidate",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "a1b9c6c518487ae1-SIN",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Wed, 15 Jul 2026 15:24:51 GMT",
+      "link": "<https://fonts.googleapis.com>; rel=\"preconnect\"",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "pragma": "no-cache",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=QdwbZ%2Fhfiq%2BSM0bgUo2uWTABIbdEw7Eck3D3MiCSIdvjElQEoGc%2FOk%2FPOJWP3wxb7Zkoa%2BIpLgmy%2FkIyQ4cRclbgi9rKlrtE8uTvT05uK9yJspfr5s9JjWp6q5GOAg%3D%3D\"}]}",
+      "server": "cloudflare",
+      "transfer-encoding": "chunked",
+      "vary": "accept-encoding",
+      "x-content-type-options": "nosniff"
+    }
+  },
+  "counts": {
+    "entries": 19,
+    "numberedVerses": 18,
+    "sections": 1
+  }
+}

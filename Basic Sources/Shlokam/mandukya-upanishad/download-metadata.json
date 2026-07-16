@@ -1,0 +1,37 @@
+{
+  "slug": "mandukya-upanishad",
+  "title": "Mandukya Upanishad",
+  "shortTitle": "Mandukya",
+  "sourceUrl": "https://shlokam.org/text/mandukya-upanishad.htm",
+  "fileBase": "mandukya_upanishad_full",
+  "downloadedAt": "2026-07-15T15:24:50.234Z",
+  "response": {
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+      "access-control-allow-origin": "*",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cache-control": "no-cache, no-store, must-revalidate",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "a1b9c6c1bda7e355-NRT",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Wed, 15 Jul 2026 15:24:50 GMT",
+      "link": "<https://fonts.googleapis.com>; rel=\"preconnect\"",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "pragma": "no-cache",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=kPCJnjdkHfuiQf%2FcGGNXGpOJajrpwF8P5bRn3Yj%2F7J8RfHf0TPZhje%2BpVHbo%2BXE7jotXuMxPvHbAojS2KVyJkR5sjdZxtNIl32gUwsWtzm9WAzzopyA6tYgvyoF5Dw%3D%3D\"}]}",
+      "server": "cloudflare",
+      "transfer-encoding": "chunked",
+      "vary": "accept-encoding",
+      "x-content-type-options": "nosniff"
+    }
+  },
+  "counts": {
+    "entries": 13,
+    "numberedVerses": 12,
+    "sections": 1
+  }
+}

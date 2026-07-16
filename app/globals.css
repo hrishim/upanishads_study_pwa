@@ -1,0 +1,651 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #f8f4ec;
+  --ink: #1f211e;
+  --muted: #6d685f;
+  --line: #ded4c2;
+  --panel: #fffdf8;
+  --saffron: #a75232;
+  --saffron-dark: #743625;
+  --green: #2d6b5a;
+  --blue: #2f557f;
+  --shadow: 0 24px 70px rgba(44, 34, 22, 0.14);
+}
+
+@theme inline {
+  --color-background: var(--paper);
+  --color-foreground: var(--ink);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@font-face {
+  font-family: "Noto Sans Devanagari Local";
+  src: url("/fonts/NotoSansDevanagari-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Noto Sans Devanagari Local";
+  src: url("/fonts/NotoSansDevanagari-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Noto Sans Devanagari Local";
+  src: url("/fonts/NotoSansDevanagari-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+  background: var(--paper);
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  background:
+    linear-gradient(115deg, rgba(167, 82, 50, 0.12), transparent 34%),
+    linear-gradient(245deg, rgba(45, 107, 90, 0.11), transparent 38%),
+    var(--paper);
+  color: var(--ink);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: default;
+}
+
+.study-app {
+  --reader-scale: 1;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  min-height: 100vh;
+}
+
+.library-topbar {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 14px;
+  align-items: center;
+  padding: 14px 24px;
+  border-bottom: 1px solid rgba(72, 57, 36, 0.16);
+  background: rgba(255, 253, 248, 0.78);
+  backdrop-filter: blur(20px);
+}
+
+.eyebrow {
+  margin: 0 0 5px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  margin-bottom: 5px;
+  font-size: clamp(29px, 4.4vw, 53px);
+  line-height: 0.98;
+}
+
+h2 {
+  margin-bottom: 0;
+  font-size: clamp(29px, 4.4vw, 53px);
+  line-height: 0.98;
+}
+
+h3 {
+  margin-bottom: 0;
+  font-size: 25px;
+  line-height: 1.08;
+}
+
+h4 {
+  margin-bottom: 10px;
+  color: var(--saffron-dark);
+  font-size: 12px;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.library-list {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(8, minmax(130px, 1fr));
+  gap: 8px;
+  min-width: 0;
+}
+
+.app-heading {
+  grid-column: 1 / -1;
+}
+
+.library-book {
+  display: grid;
+  gap: 5px;
+  min-width: 0;
+  padding: 11px 12px;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  background: transparent;
+  color: var(--ink);
+  text-align: left;
+}
+
+.library-book.active {
+  border-color: rgba(167, 82, 50, 0.28);
+  background: #fff7eb;
+  box-shadow: 0 12px 28px rgba(63, 43, 20, 0.08);
+}
+
+.library-book:not(.active) {
+  opacity: 0.58;
+}
+
+.library-book strong,
+.library-book span {
+  display: block;
+}
+
+.library-book strong {
+  font-size: 13px;
+}
+
+.library-book span,
+.source-note span,
+.source-line,
+.panel-header span {
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+.source-note {
+  margin-top: auto;
+  padding: 14px;
+  border: 1px solid rgba(45, 107, 90, 0.22);
+  border-radius: 10px;
+  background: rgba(239, 248, 242, 0.7);
+}
+
+.source-note strong,
+.source-note span {
+  display: block;
+}
+
+.source-note strong {
+  margin-bottom: 6px;
+  color: var(--green);
+  font-size: 13px;
+}
+
+.study-main {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  gap: 14px;
+  min-width: 0;
+  padding: 18px 24px 24px;
+}
+
+.topbar {
+  display: block;
+}
+
+.search-box {
+  display: grid;
+  gap: 7px;
+}
+
+.search-box span {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.search-box input {
+  height: 44px;
+  padding: 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  outline: none;
+  background: rgba(255, 253, 248, 0.9);
+  color: var(--ink);
+}
+
+.search-box input:focus {
+  border-color: rgba(167, 82, 50, 0.55);
+  box-shadow: 0 0 0 3px rgba(167, 82, 50, 0.12);
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.stat {
+  min-height: 70px;
+  padding: 12px;
+  border: 1px solid rgba(72, 57, 36, 0.12);
+  border-radius: 10px;
+  background: rgba(255, 253, 248, 0.84);
+}
+
+.stat strong {
+  display: block;
+  color: var(--ink);
+  font-size: 22px;
+}
+
+.stat span {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.reader-layout {
+  display: grid;
+  grid-template-columns: 230px minmax(0, 1fr);
+  gap: 14px;
+  min-height: 0;
+}
+
+.reader-layout:has(.results-panel) {
+  grid-template-columns: 230px minmax(0, 1fr) 280px;
+}
+
+.panel {
+  min-width: 0;
+  border: 1px solid rgba(72, 57, 36, 0.13);
+  border-radius: 12px;
+  background: rgba(255, 253, 248, 0.9);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.panel-header {
+  display: flex;
+  min-height: 54px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 13px 14px;
+  border-bottom: 1px solid rgba(72, 57, 36, 0.11);
+}
+
+.panel-header strong {
+  font-size: 13px;
+}
+
+.toc-list,
+.results-list {
+  padding: 10px;
+}
+
+.toc-list {
+  max-height: calc(100vh - 236px);
+  overflow: auto;
+}
+
+.results-list {
+  max-height: calc(100vh - 236px);
+  overflow: auto;
+}
+
+.toc-group {
+  margin-bottom: 12px;
+}
+
+.toc-title {
+  padding: 8px 10px;
+  color: var(--saffron-dark);
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.toc-row,
+.result-row {
+  display: grid;
+  width: 100%;
+  gap: 4px;
+  margin-bottom: 6px;
+  padding: 10px;
+  border: 1px solid transparent;
+  border-radius: 9px;
+  background: transparent;
+  color: var(--ink);
+  text-align: left;
+}
+
+.toc-row.active,
+.result-row.active {
+  border-color: rgba(47, 85, 127, 0.28);
+  background: #edf4fa;
+}
+
+.toc-row strong,
+.result-row strong {
+  font-size: 13px;
+}
+
+.toc-row span,
+.result-row span {
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+.result-row strong {
+  color: var(--saffron-dark);
+}
+
+.read-panel {
+  display: grid;
+  grid-template-rows: auto auto minmax(0, 1fr);
+}
+
+.read-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 18px 20px 14px;
+}
+
+.tools {
+  display: flex;
+  gap: 7px;
+}
+
+.mode-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+  padding: 0 20px 15px;
+  border-bottom: 1px solid rgba(72, 57, 36, 0.11);
+}
+
+.mode-tabs button,
+.tool-button {
+  min-height: 36px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: #fffdf8;
+  color: var(--ink);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.mode-tabs button.active,
+.tool-button.marked {
+  border-color: rgba(45, 107, 90, 0.32);
+  background: #edf6ef;
+  color: var(--green);
+}
+
+.text-size {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  margin-left: auto;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.text-size input {
+  width: 108px;
+  accent-color: var(--saffron);
+}
+
+.read-content {
+  overflow: auto;
+  padding: 22px;
+}
+
+.study-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.95fr);
+  gap: 14px;
+}
+
+.main-text,
+.side-layers {
+  min-width: 0;
+}
+
+.side-layers {
+  display: grid;
+  align-content: start;
+  gap: 14px;
+}
+
+.sanskrit-text,
+.transliteration-text,
+.plain-english-text,
+.translation-text,
+.meaning-text,
+.notes-text,
+.intro-text {
+  white-space: pre-wrap;
+}
+
+.sanskrit-text {
+  color: #17130f;
+  font-family: "Noto Sans Devanagari Local", "Noto Sans Devanagari", "Devanagari Sangam MN", Georgia, serif;
+  font-size: calc(36px * var(--reader-scale));
+  line-height: 1.85;
+}
+
+.section-heading {
+  margin-bottom: 16px;
+  padding: 12px 14px;
+  border: 1px solid rgba(47, 85, 127, 0.16);
+  border-radius: 10px;
+  background: #edf4fa;
+  color: var(--blue);
+  font-size: 15px;
+  font-weight: 900;
+}
+
+.transliteration-text {
+  margin-top: 18px;
+  color: var(--blue);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: calc(18px * var(--reader-scale));
+  line-height: 1.65;
+}
+
+.plain-english-text {
+  margin-top: 16px;
+  color: var(--muted);
+  font-size: calc(15px * var(--reader-scale));
+  line-height: 1.6;
+}
+
+.translation-box {
+  margin-top: 18px;
+  padding: 18px;
+  border-left: 4px solid rgba(167, 82, 50, 0.44);
+  background: #fbf6ee;
+}
+
+.translation-text {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: calc(20px * var(--reader-scale));
+  line-height: 1.65;
+}
+
+.meaning-box,
+.notes-box {
+  padding: 16px;
+  border: 1px solid rgba(72, 57, 36, 0.12);
+  border-radius: 10px;
+  background: #fffaf2;
+  color: #3f3932;
+  font-size: calc(14px * var(--reader-scale));
+  line-height: 1.7;
+}
+
+.notes-box {
+  background: #f6f1e9;
+}
+
+.meaning-box {
+  font-family: "Noto Sans Devanagari Local", "Noto Sans Devanagari", "Devanagari Sangam MN", Arial, Helvetica, sans-serif;
+}
+
+.notes-box {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.intro-content {
+  max-width: 980px;
+  overflow: auto;
+  padding: 24px;
+}
+
+.intro-content h3 {
+  margin-bottom: 18px;
+  font-size: 32px;
+}
+
+.intro-text {
+  color: #3f3932;
+  font-size: 15px;
+  line-height: 1.75;
+}
+
+.source-link {
+  display: inline-block;
+  margin-top: 18px;
+  color: var(--saffron-dark);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.source-link:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 1180px) {
+  .library-topbar {
+    grid-template-columns: 1fr;
+  }
+
+  .library-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .reader-layout {
+    grid-template-columns: 230px minmax(0, 1fr);
+  }
+
+  .results-panel {
+    grid-column: 1 / -1;
+  }
+
+  .results-list {
+    max-height: 330px;
+  }
+}
+
+@media (max-width: 760px) {
+  .study-main,
+  .library-topbar {
+    padding: 15px;
+  }
+
+  .topbar,
+  .reader-layout,
+  .study-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .stats,
+  .library-list {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .read-toolbar {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .tools {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .text-size {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .text-size input {
+    flex: 1;
+  }
+
+  .toc-list,
+  .results-list {
+    max-height: 340px;
+  }
+
+  .sanskrit-text {
+    font-size: calc(28px * var(--reader-scale));
+  }
+
+  .translation-text {
+    font-size: calc(18px * var(--reader-scale));
+  }
+}
+
+@media (max-width: 430px) {
+  .stats,
+  .library-list {
+    grid-template-columns: 1fr;
+  }
+
+  .library-topbar {
+    gap: 14px;
+  }
+
+  h2 {
+    font-size: 33px;
+  }
+
+  h1 {
+    font-size: 33px;
+  }
+
+  .mode-tabs button,
+  .tool-button {
+    flex: 1;
+  }
+}

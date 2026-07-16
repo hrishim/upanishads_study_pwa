@@ -1,0 +1,2955 @@
+Mundaka Upanishad
+https://shlokam.org/text/mundaka-upanishad.htm
+
+INTRODUCTION
+The Mundaka Upanishad is embedded in the Atharva Veda. It is a Mukhya upanishad and listed as #5 in the Muktika canon of 108 Upanishads.
+
+The Mundaka Upanishad contains three Mundakams (parts), each with two sections. The first Mundakam defines the science of "Higher Knowledge" and "Lower Knowledge", and then asserts that acts of oblations and pious gifts are foolish, and do nothing to reduce unhappiness in current life or next, rather it is knowledge that frees. The second Mundakam describes the nature of the Brahman, the Self, the relation between the empirical world and the Brahman, and the path to know Brahman. The third Mundakam expands the ideas in the second Mundakam and then asserts that the state of knowing Brahman is one of freedom, fearlessness, complete liberation, self-sufficiency and bliss.
+
+The word mundaka denotes a shaving razor and a person with a shaven head i.e. a monk. The explanation for naming the Upanishad thus is that the one who comprehends its teaching is shaved or liberated from error and ignorance of higher wisdom and also that such teachings are razor sharp leaving no possibility of any ambiguity.
+Introduction to Mundaka Upanishad by Adi Shankaracharya
+
+Adoration to the Brahman. The mantra beginning with "Brahma Devanam" is one of the Atharvana Upanishads. The Upanishad at its very commencement says how the knowledge therein contained was transmitted from preceptor to disciple and does this for the purpose of praising it. By showing how and with what great labour this knowledge was acquired by great sages as a means to secure the highest consummation, it extols knowledge to create a taste for it, in the minds of the hearers; for, it is only when a taste for knowledge is created by praising it, they would eagerly seek to acquire it. How this knowledge is related to emancipation, as a means to its end, will be subsequently explained in the passages commencing with ‘Bhidyate,’ etc. Having first stated here that the knowledge, denoted by the word "Apara Vidya" such as Rig Veda, etc., and consisting merely of mandatory and prohibitory injunctions, cannot remove faults like ignorance, etc., which are the cause of Samsara, i.e., embodied existence and having, by the passages beginning with "Avidyayam antar vartamana", etc., shown a (marked) division of Vidya into Para and Apara, it explains in the passages beginning with ‘Parikshya lokan,’ etc., the knowledge of Brahman (Brahmavidya) which is a means to the attainment of the highest (Para) and which can be attained only by the grace of the preceptor, after a renunciation of the desire for all objects whether as means or ends. It also declares often the fruits of this knowledge in the passages "He who knows Brahman becomes Brahman itself" and "Having become Brahman while yet alive, all are freed." Although knowledge is permitted to all in any order of life, it is the knowledge of Brahman in a Sannyasin that becomes the means of emancipation; not the knowledge combined with karma. This is shown by such passages as "Living the life of a mendicant" and "Being in the order of the Sannyasin," etc. This also follows from the antagonism between knowledge and karma; it is well-known to be impossible that the knowledge of the identity of self with Brahman can be made to co-exist, even in a dream with karma (i.e., action). Knowledge being independent of time and not being the effect of definite causes cannot be limited by time.
+
+MUNDAKA 1.0.0
+Sanskrit
+मुण्डकोपनिषत्
+ॐ भद्रं कर्णेभिः श्रुणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः ।
+स्थिरैरङ्गैस्तुष्टुवाꣳसस्तनूभिर्व्यशेम देवहितं यदायुः ।
+स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।
+स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु।
+॥ ॐ शान्तिः शान्तिः शान्तिः ॥
+
+Transliteration
+Muṇḍakopaniṣat
+oṃ bhadraṃ karṇebhiḥ śruṇuyāma devā bhadraṃ paśyemākṣabhiryajatrāḥ .
+sthirairaṅgaistuṣṭuvāgͫsastanūbhirvyaśema devahitaṃ yadāyuḥ .
+svasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ .
+svasti nastārkṣyo ariṣṭanemiḥ svasti no bṛhaspatirdadhātu.
+.. oṃ śāntiḥ śāntiḥ śāntiḥ ..
+
+English
+mundakopanishat ..
+om bhadram karnebhih shrunuyaama devaa bhadram pashyemaakshabhiryajatraah .
+sthirairangaistushtuvaagͫsastanuubhirvyashema devahitam yadaayuh .
+svasti na indro vriddhashravaah svasti nah puushaa vishvavedaah .
+svasti nastaarkshyo arishtanemih svasti no brihaspatirdadhaatu.
+.. om shaantih shaantih shaantih ..
+
+Translation
+Om. May we, O gods, hear with our ears what is auspicious! May we, O worshipful gods, see with our eyes what is good! May we, strong in limbs and body, sing your praise and enjoy the life allotted to us by Prajapati!
+
+Om. Peace! Peace! Peace!
+
+Word Meanings
+भद्रं (bhadraṃ) – auspicious
+कर्णेभिः (karṇebhiḥ) – by ears
+श्रृणुयाम् (śrṛṇuyām) – may we hear
+देवाः (devāḥ) – Oh ! Gods
+भद्रं (bhadraṃ) – auspicious
+पश्येम (paśyema) – may we see
+अक्षभिः (akṣabhiḥ) – by eyes
+यजत्राः (yajatrāḥ) – Oh! worshipped ones
+स्थिरैः (sthiraiḥ) – hale and hearty
+अङ्गैः (aṅgaiḥ) – by the limbs
+तुष्टुवाꣳसः (tuṣṭuvāgͫsaḥ) – may we live offering our praises (Unto Thee)
+तनूभिः (tanūbhiḥ) – by the body
+व्यशेम (vyaśema) – may we have
+देवहितं (devahitaṃ) – for the benefit of the devas
+यत्-आयुः (yat-āyuḥ) – entire span of life
+स्वस्ति (svasti) – blessing
+नः (naḥ) – to us
+इन्द्रः (indraḥ) – indra
+वृद्धश्रवाः (vṛddhaśravāḥ) – ancient and famous
+स्वस्ति (svasti) – blessings
+नः (naḥ) – to us
+पूषा (pūṣā) – sun
+विश्ववेदाः (viśvavedāḥ) – the all – knowing
+स्वस्ति (svasti) – blessings
+न (na) – to us
+तार्क्ष्यः (tārkṣyaḥ) – garūḍa
+अरिष्टनेमिः (ariṣṭanemiḥ) – who saves (us) from harm
+स्वस्ति (svasti) – blessing
+नः (naḥ) – to us
+बृहस्पतिः (bṛhaspatiḥ) –Bṛhaspati (Protector of the spiritual wealth in us)
+दधातु (dadhātu) – may (He) give
+ओम् (om) – symbol of Para-brahman
+शान्तिः (śāntiḥ) – peace be
+शान्तिः (śāntiḥ) – peace be
+शान्तिः (śāntiḥ) – peace be
+
+MUNDAKA 1.1.1
+Sanskrit
+ॐ ब्रह्मा देवानां प्रथमः सम्बभूव विश्वस्य कर्ता
+भुवनस्य गोप्ता । स ब्रह्मविद्यां सर्वविद्याप्रतिष्ठामथर्वाय
+ज्येष्ठपुत्राय प्राह ॥ १॥
+
+Transliteration
+oṃ brahmā devānāṃ prathamaḥ sambabhūva viśvasya kartā
+bhuvanasya goptā . sa brahmavidyāṃ sarvavidyāpratiṣṭhāmatharvāya
+jyeṣṭhaputrāya prāha .. 1.. 1.1.1
+
+English
+om brahmaa devaanaam prathamah sambabhuuva vishvasya kartaa
+bhuvanasya goptaa . sa brahmavidyaam sarvavidyaapratishthaamatharvaaya
+jyeshthaputraaya praaha .. 1..
+
+Translation
+1 Om. Brahma, the Maker of the universe and the Preserver of the world, was the first among the devas. He told His eldest son Atharva about the Knowledge of Brahman, the foundation of all knowledge.
+
+Word Meanings
+ॐ ब्रह्मा (oṃ brahmā) – om Brahmā
+देवानां (devānāṃ) – of the Gods
+प्रथमःसन् (prathamaḥsan) – being the first
+बभूव (babhūva) – born
+विश्वस्य (viśvasya) – of the universe
+कर्ता (kartā) – creator
+भुवनस्य (bhuvanasya) – of the world
+गोप्ता (goptā) – protector
+सः (saḥ) – He
+ब्रह्मविद्याम् (brahmavidyām) – knowledge of Reality
+सर्वविद्याप्रतिष्ठाम् (sarvavidyāpratiṣṭhām) – the Knowledge of all knowledges, the foundation for all sciences
+अथर्वाय (atharvāya) – to Atharvā
+ज्येष्ठपुत्राय (jyeṣṭhaputrāya) – to his eldest son
+प्राह (prāha) – said (gave out)
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+The word “Brahma” means “much grown,” “great”, as excelling all others in virtue, knowledge, freedom from desires and power. The word Devanam means Indra and others, literally, those possessing “enlightenment.” The word ‘Prathama’ means “preeminent by attributes” or “at first.” Sambahhava means “became manifest well,” i.e., of free choice not like mortals who are born in Samsara, in consequence of their good and bad deeds; for, the Smriti says “He who is beyond the reach of the senses and cannot be grasped, etc.” Visvasya means “of the whole universe.” Karta, ‘creator Bhuvanasya, ‘of the world’ so created; gopta, ‘protector the epithets for Brahma are for eulogising the knowledge. He, i.e., Brahma whose greatness is thus celebrated. Brahma Vidyâm, ‘knowledge of the Brahman or the Paramatmam’ because it is described as knowledge ‘by which one knows the undecaying and the true Purusha that knowledge is of the Paramatman; or Brahma vidya may mean “knowledge taught by Brahma the first born.” Savva vidya pratishtam means “that on which all knowledge rests for support”; because it is the cause of the manifestation of all other knowledge; or, it may he, because the one entity to he cognized by all knowledge is only known by this; for the Sruti says “by which, what is not heard becomes heard; what is not thought of becomes thought of; and what is not known becomes known.” The expression “on which all knowledge depends” is also eulogy. He taught this knowledge to his eldest son; as Atharva was created at the beginning, in one of the numerous creations made by Brahma, he is said to be his eldest son. To him, his eldest son, he taught.
+
+MUNDAKA 1.1.2
+Sanskrit
+अथर्वणे यां प्रवदेत ब्रह्माऽथर्वा तं
+पुरोवाचाङ्गिरे ब्रह्मविद्याम् ।
+स भारद्वाजाय सत्यवाहाय प्राह
+भारद्वाजोऽङ्गिरसे परावराम् ॥ २॥
+
+Transliteration
+atharvaṇe yāṃ pravadeta brahmā'tharvā taṃ
+purovācāṅgire brahmavidyām .
+sa bhāradvājāya satyavāhāya prāha
+bhāradvājo'ṅgirase parāvarām .. 2.. 1.1.2
+
+English
+atharvane yaam pravadeta brahmaa'tharvaa tam
+purovaachaangire brahmavidyaam .
+sa bhaaradvaajaaya satyavaahaaya praaha
+bhaaradvaajo'ngirase paraavaraam .. 2..
+
+Translation
+2 The Knowledge of Brahman about which Brahma told Atharva, Atharva, in olden times, told Angir. Angir taught it to Satyavaha, belonging to the clan of Bharadvaja and the latter taught it, in succession, to Angiras
+
+Word Meanings
+अथर्वणे (atharvaṇe) – to Atharvā
+यां (yāṃ) – which
+प्रवदेत (pravadeta) – taught
+ब्रह्मा (brahmā) – Brahmā
+अथर्वा (atharvā) – Atharvā
+तां (tāṃ) – that
+पुरा (purā) – in ancient days
+उवाच (uvāca) – said
+अङ्गिरे (aṅgire) – to Aṅgi
+ब्रह्मविद्याम् (brahmavidyām) – knowledge of Reality
+सः (saḥ) – he
+भारद्वाजाय (bhāradvājāya) – of Bhāradvāja family
+सत्यवहाय (satyavahāya) – to Satyavaha
+प्राह (prāha) – said
+भारद्वाज (bhāradvāja) – Bhāradvāja (one born in Bhāradvāja family clan)
+अङ्गिरसे (aṅgirase) – to Aṅgirā
+परावराम् (parāvarām) – from greater to lesser (Guru to śiṣya)
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—That knowledge of Brahman, which Brahma taught to Atharva, the same knowledge thus acquired from Brahma, Atharva in ancient days taught to one named Angih; and this Angih taught it to one named Satyavaha of the line of the Bharadvaja; and Bharadvaja taught it to Angiras, his disciple or his son. Paravaram, because it was acquired from superior by inferior sages; or, because it permeates the subject of all knowledge, great and small; the term Praha, i.e., taught should be read into the last clause.
+
+MUNDAKA 1.1.3
+Sanskrit
+शौनको ह वै महाशालोऽङ्गिरसं विधिवदुपसन्नः पप्रच्छ ।
+कस्मिन्नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवतीति ॥ ३॥
+
+Transliteration
+śaunako ha vai mahāśālo'ṅgirasaṃ vidhivadupasannaḥ papraccha .
+kasminnu bhagavo vijñāte sarvamidaṃ vijñātaṃ bhavatīti .. 3.. 1.1.3
+
+English
+shaunako ha vai mahaashaalo'ngirasam vidhivadupasannah papraccha .
+kasminnu bhagavo vijnaate sarvamidam vijnaatam bhavatiiti .. 3..
+
+Translation
+3 Saunaka, the great householder, approached Angiras in the proper manner and said: Revered sir, what is that by the knowing of which all this becomes known?
+
+Word Meanings
+शौनकः (śaunakaḥ) – Śaunaka
+ह वै महाशालः (ha vai mahāśālaḥ) – great householder indeed
+अङ्गिरसं (aṅgirasaṃ) – Aṅgirā
+विधिवत् (vidhivat) – in the prescribed manner
+उपसन्नः (upasannaḥ) – approaching
+पप्रच्छ (papraccha) – asked
+कस्मिन् नु (kasmin nu) – what is that which
+भगवो (bhagavo) – O! Lord
+विज्ञाते (vijñāte) – having known
+सर्वम् (sarvam) – all
+इदं (idaṃ) – these
+विज्ञातम् (vijñātam) – known
+भवति (bhavati) – becomes
+इति (iti) – that
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Saunaka, the male issue of Sunaka. Mahasalah means “the great house-holder”; Angiras, i.e., the disciple of Bharadvaja and his own preceptor; Vidhivat means ‘duly i.e., according to the sastras; Upasannah means ‘having approached Paprachha means ‘questioned from “the approaching duly” mentioned just after the connection between Saunaka and Angiras, it should be inferred that in resect of the manner of approaching, there was no established rule among the ancients, before him. The attribute “duly” might have been intended either to fix a limit, or to apply to all alike, on the analogy of a lamp placed amidst a house; for the rule about “the manner of approaching” is intended in the case of persons like us also. What did he say? “What is that? Oh Bhagavan, etc.” The particle ‘nu’ expresses doubt. Bhagavo means ‘O Bhagavan.’ “All this” means “everything knowable.” Vijnatam means ‘specially known or understood.’ [Oh Bhagavan what is that which being known everything knowable becomes well-known]. Saunaka having heard the saying of good men that “when one is known, he becomes the knower of all,” and being desirous of knowing that one in particular, asked in doubt “what is that, etc.”; or, having seen merely from a popular view, questioned. There are in the world varieties of pieces of gold, etc., which, though different are know n by people in the world by the knowledge of the unity of the substance (gold, etc.); similarly “Is there one cause of all the varieties in the world, which cause being known, all will be well-known?” It may be said that when the existence of the thing is not known, the question “what is that, etc.,” is not appropriate and the question in the form “is there, etc.,” would then he appropriate; if the existence is established, the question may well be “what is that, etc.,” as in the expression, “With whom shall it be deposited.” The objection is unsound; the question in this form is appropriate from fear of troubling by verbosity.
+
+MUNDAKA 1.1.4
+Sanskrit
+तस्मै स होवाच ।
+द्वे विद्ये वेदितव्ये इति ह स्म
+यद्ब्रह्मविदो वदन्ति परा चैवापरा च ॥ ४॥
+
+Transliteration
+tasmai sa hovāca .
+dve vidye veditavye iti ha sma
+yadbrahmavido vadanti parā caivāparā ca .. 4.. 1.1.4
+
+English
+tasmai sa hovaacha .
+dve vidye veditavye iti ha sma
+yadbrahmavido vadanti paraa chaivaaparaa cha .. 4..
+
+Translation
+4 To him he said: Two kinds of knowledge must be known-that is what the knowers of Brahman tell us. They are the Higher Knowledge and the lower knowledge.
+
+Word Meanings
+तस्मै (tasmai) – to him
+सः (saḥ) – He (Aṅgirā)
+ह उवाच (ha uvāca) – said
+द्वे (dve) – two
+विद्ये (vidye) – knowledges
+वेदितव्ये (veditavye) – to be acquired
+इति (iti) – that
+ह यत् (ha yat) – which
+ब्रह्मविदाः (brahmavidāḥ) – those who know Brahman (the great seers of Upaniṣads)
+वदन्ति स्म (vadanti sma) – usually say
+परा (parā) – higher
+च (ca) – and
+एव (eva) – also
+अपरा (aparā) – lower
+च (ca) – also
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Angiras said to Saunaka. What did he say? (He said) that there were two sorts of knowledge to he known. So indeed, do those who know the import of the Vedas and who see the absolute truth, say what these two sorts are; he says: Para is the knowledge of the Paramatman and Apara is that which deals with the means and the results of good and bad actions. It may be asked how, having to say what it was that Saunaka asked about in the question—“What being known one becomes omniscient,’ Angiras stated what he was not asked about, by the passage “there are two sorts of knowledge, etc.” This is no fault; for the reply requires this order of statement. Apara vidya is ignorance and that ought to be dispelled. When what is known is Apara vidya, i.e., the subject of ignorance, nothing can be known as it is. The rule is that after thus refuting the faulty theory, the true conclusion should be stated.
+
+MUNDAKA 1.1.5
+Sanskrit
+तत्रापरा ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेदः
+शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमिति ।
+अथ परा यया तदक्षरमधिगम्यते ॥ ५॥
+
+Transliteration
+tatrāparā ṛgvedo yajurvedaḥ sāmavedo'tharvavedaḥ
+śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣamiti .
+atha parā yayā tadakṣaramadhigamyate .. 5.. 1.1.5
+
+English
+tatraaparaa rigvedo yajurvedah saamavedo'tharvavedah
+shikshaa kalpo vyaakaranam niruktam chando jyotishamiti .
+atha paraa yayaa tadaksharamadhigamyate .. 5..
+
+Translation
+5 Of these two, the lower knowledge is the Rig-Veda, the Yagur-Veda, the Sama-Veda, the Atharva-Veda, siksha (phonetics), kalpa (rituals), vyakaranam (grammar), nirukta (etymology), chhandas (metre) and jyotis (astronomy); and the Higher Knowledge is that by which the Imperishable Brahman is attained.
+
+Word Meanings
+तत्र (tatra) – there
+अपरा (aparā) – to lower knowledges
+ऋग्वेदः (ṛgvedaḥ) – Ṛg-veda
+यजुर्वेदः (yajurvedaḥ) – Yajur-veda
+सामवेदः (sāmavedaḥ) – Sāma-veda
+अथर्ववेदः (atharvavedaḥ) – Atharva-veda
+शिक्षा (śikṣā) – phonetics
+कल्पः (kalpaḥ) – code of rituals
+व्याकरणं (vyākaraṇaṃ) – grammar
+निरुक्तं (niruktaṃ) – etymology
+छन्दः (chandaḥ) – metrics
+ज्योतिषम् (jyotiṣam) – astrology
+इति (iti) – that
+अथ (atha) – now
+परा (parā) – the (higher) Knowledge
+यया (yayā) – by which
+तत् (tat) – that
+अक्षरम् (akṣaram) – that beyond the word–meaning in languages or to immortality
+अधिगम्यते (adhigamyate) – leads
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Of these, what Apara vidya is, is explained. Rig Veda, Yajur Veda, Sama Veda, and the Atharva Veda, these four Vedas, the siksha, the code of rituals, grammar, nirukta, chhandas and astrology, these six angas (of Vedas), all this is knowledge called Apara; now, knowledge called Para is explained. It is that by which the “immortal” as hereafter described is reached; for, the root gam, with adhi before it, generally means reach. Nor is the attainment of the highest, different from the sense of knowledge. The attainment of the highest is merely the removal of ignorance. They mean the same thing. It may he asked how that Vidya could be called para and a help to emancipation, if such Vidya be excluded by the Rig Veda, etc; for, the Smriti says “Those Smritis which are excluded by the Vedas, etc.” It will become unacceptable, because it sees wrongly and leads to no good results; and again the Upanishads will become excluded by the Rig Veda, etc., but if they are included in the Rig Veda, etc., a separate classification is useless. How then can it be called para? The objection has no force; for by the term “Vidya” is here meant the knowledge of a subject; by the term “Para vidya” is meant primarily in this context, that knowledge of the immortal which could be known through the Upanishads and not the mere assemblage of words in them; but by the term vidya is always understood the assemblage of words forming it. As the immortal cannot be realised by a mere mastery of the assemblage of words without other efforts, such as the approaching a preceptor and spurning all desires, etc., the separate classification of the knowledge of Brahman and its designation as Para vidya are proper.
+
+MUNDAKA 1.1.6
+Sanskrit
+यत्तदद्रेश्यमग्राह्यमगोत्रमवर्ण-
+मचक्षुःश्रोत्रं तदपाणिपादम् ।
+नित्यं विभुं सर्वगतं सुसूक्ष्मं
+तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः ॥ ६॥
+
+Transliteration
+yattadadreśyamagrāhyamagotramavarṇa-
+macakṣuḥśrotraṃ tadapāṇipādam .
+nityaṃ vibhuṃ sarvagataṃ susūkṣmaṃ
+tadavyayaṃ yadbhūtayoniṃ paripaśyanti dhīrāḥ .. 6.. 1.1.6
+
+English
+yattadadreshyamagraahyamagotramavarna-
+machakshuhshrotram tadapaanipaadam .
+nityam vibhum sarvagatam susuukshmam
+tadavyayam yadbhuutayonim paripashyanti dhiiraah .. 6..
+
+Translation
+6 By means of the Higher Knowledge the wise behold everywhere Brahman, which otherwise cannot be seen or seized, which has no root or attributes, no eyes or ears, no hands or feet; which is eternal and omnipresent, all-pervading and extremely subtle; which is imperishable and the source of all beings.
+
+Word Meanings
+यत् (yat) – which
+तत् (tat) – that
+अद्रेश्यम् (adreśyam) – invisible
+अग्राह्यम् (agrāhyam) – ungraspable
+अगोत्रम् (agotram) – un-originated
+अवर्णम् (avarṇam) – attributeless
+अचक्षुः श्रोत्रं (acakṣuḥ śrotraṃ) – that which has neither eyes nor ears (devoid of senses)
+तत् (tat) – that
+अपाणिपादम् (apāṇipādam) – (which has) neither hands nor legs
+नित्यं (nityaṃ) – Eternal
+विभुं (vibhuṃ) – full of manifestation, of manifold expressions
+सर्वगतं (sarvagataṃ) – all-pervading
+सुसूक्ष्मं (susūkṣmaṃ) – subtlest of the subtle
+तत् (tat) – that
+अव्ययं (avyayaṃ) – imperishable (Being)
+यत् (yat) – which
+भूतयोनिं (bhūtayoniṃ) – the source of all creation
+परिपश्यन्ति (paripaśyanti) – behold everywhere, perceive
+धीराः (dhīrāḥ) – the wise
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—As in the matter of an injunction (vidhi) there is something to be clone, as of the nature of Agnihotra, etc., subsequent to the realization of its import, with the aid of many requisites (karaka.), such as the doer, etc., there is nothing here to be done in the matter of the knowledge of the Brahman. It is accomplished simultaneously with the realization of the import of the text; for, there is nothing here except being centred in the knowledge revealed by mere words. Therefore, the Para vidya is here explained with reference to Brahman, as described in the text “that which cannot be perceived, etc.”; what is to be explained is realized in the mind and referred to, as what is already known by the expression “that which”; Adresyam means ‘that cannot be perceived’, invisible, i.e., beyond the reach of all the intellectual senses; for, vision externally directed is the medium for the working of the five senses. Agrahyam means ‘that cannot be seized,’ i.e., not an object for the organs of action. Gôtram means ‘line or source’; therefore Agotram means ‘unconnected with anything,’ for it has no source with which it can be connected. Varnah means “those which are described, i.e., properties of objects such as bigness, etc., whiteness, etc.; avarnam, ‘that which has no properties’; the eye and the ear are organs found in all animals perceiving name and form. It is said to be achakshu srotram, becaus it has not these organs. From the attribute of intelligence, as inferred from the text “who knows all and everything of each”, it may be thought that it accomplishes its purpose, like people in samsara, with the aid of organs such as the eye, the ear, etc. This supposition is here avoided by the expression “having neither eye nor ear”; for the texts “he sees without eyes” and “hears without ears”, etc., are found; moreover, it has neither hands nor feet, i.e., has no organs of action; thus as it is neither grasped nor grasps, it is nitya, i.e., immortal. Vibhum, because it is diversely manifested in the form of living things from Brahma down to the immovable. Sarvagatam, i.e., all-pervading like the akas. Susukshmam, i.e., extremely subtle, because there is no cause like sound to make it gross; for, it is sound and the rest that are the causes seriatim of the greater and greater grossness of the akas, wind and the rest; as they do not exist here, it is very subtle; again, it is avyayam, i.e., undecaying, because of its being what it was just stated to be; it does not decay, therefore, it is undecaying; for decay consisting in the diminution of limbs, as in the case of a body, is not possible in what has no limbs; nor is ‘decay’ consisting in the diminution of treasure possible as in the case of a king; nor is ‘decay’ in respect of attributes possible, because it has no attributes and is itself all. Yat, answering to this description. Bhutayonim, the source of all created things or elements, as earth is of all that is immovable and movable. Paripasyanti, see everywhere the Atman of all, i.e., the immortal Dhirah, the intelligent, i.e., those possessed of discernment; that knowledge by which this immortal Brahman is known is what is called Para vidya; this is the drift of the whole.
+
+MUNDAKA 1.1.7
+Sanskrit
+यथोर्णनाभिः सृजते गृह्णते च
+यथा पृथिव्यामोषधयः सम्भवन्ति ।
+यथा सतः पुरुषात् केशलोमानि
+तथाऽक्षरात् सम्भवतीह विश्वम् ॥ ७॥
+
+Transliteration
+yathorṇanābhiḥ sṛjate gṛhṇate ca
+yathā pṛthivyāmoṣadhayaḥ sambhavanti .
+yathā sataḥ puruṣāt keśalomāni
+tathā'kṣarāt sambhavatīha viśvam .. 7.. 1.1.7
+
+English
+yathornanaabhih srijate grihnate cha
+yathaa prithivyaamoshadhayah sambhavanti .
+yathaa satah purushaat keshalomaani
+tathaa'ksharaat sambhavatiiha vishvam .. 7..
+
+Translation
+7 As the spider sends forth and draws in its thread, as plants grow on the earth, as hair grows on the head and the body of a living man-so does everything in the universe arise from the Imperishable.
+
+Word Meanings
+यथा (yathā) – as
+ऊर्णनाभिः (ūrṇanābhiḥ) – the spider
+सृजते (sṛjate) – creates, projects
+गृह्णते (gṛhṇate) – withdraws
+च (ca) – and
+यथा (yathā) – as
+पृथिव्याम् (pṛthivyām) – from the earth
+ओषधयः (oṣadhayaḥ) – herbs, plants
+सम्भवन्ति (sambhavanti) – sprout out
+यथा (yathā) – as
+सतः (sataḥ) – living
+पुरुषात् (puruṣāt) – on man
+केशलोमानि (keśalomāni) – hairs
+तथा (tathā) – so
+अक्षरात् (akṣarāt) – from the Imperishable
+सम्भवति (sambhavati) – comes out
+इह (iha) – here
+विश्वम् (viśvam) – the universe
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+It was said the immortal is the source of all created things. How it is the source is explained by well-known analogies; as is well-known in the world, the spider without requiring any other cause itself creates, i. e., sends out threads not distinct from its own body and again absorbs them itself, i. e., draws them into itself or makes them part of itself; as medicinal plants, i. e., from the corn plant to the immovable, not distinct from the earth, proceed from the earth, and as from the living person the hairs proceed different in nature from him; as in these illustrations, so here, i. e., in the circle of samsara, all the universe of the same and different nature proceeds from the akshara above described, without requiring any other cause; the statement of many analogies is to facilitate easy understanding of the meaning; universe which proceeds from the Brahman proceeds in this order and not all at once, like the throwing of a handful of apples.
+
+MUNDAKA 1.1.8
+Sanskrit
+तपसा चीयते ब्रह्म ततोऽन्नमभिजायते ।
+अन्नात् प्राणो मनः सत्यं लोकाः कर्मसु चामृतम् ॥ ८॥
+
+Transliteration
+tapasā cīyate brahma tato'nnamabhijāyate .
+annāt prāṇo manaḥ satyaṃ lokāḥ karmasu cāmṛtam .. 8.. 1.1.8
+
+English
+tapasaa chiiyate brahma tato'nnamabhijaayate .
+annaat praano manah satyam lokaah karmasu chaamritam .. 8..
+
+Translation
+8 Brahman expands by means of austerity and from It primal matter is produced; from matter, Prana; from Prana, mind; from mind, the elements; from the elements, the worlds; thence works and from the works, their immortal fruits.
+
+Word Meanings
+तपसा (tapasā) – by concentrated thinking
+चीयते (cīyate) – swells
+ब्रह्म (brahma) – Brahmā (total creative urge)
+ततः (tataḥ) – then (from Him)
+अन्नम् (annam) – food (the primal matter)
+अभिजायते (abhijāyate) – is produced
+अन्नात् (annāt) – from food
+प्राणः (prāṇaḥ) – prāṇa
+मनः (manaḥ) – the mind
+सत्यं (satyaṃ) – (the five elements) bhūtas
+लोकाः (lokāḥ) – the worlds
+कर्मसु (karmasu) – in karma
+च (ca) – and अमृतम् – (literally immortal) fruits of actions
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—This mantra is begun for the purpose of stating the fixed order of creation. ‘By tapas,’ by knowledge of how to create the Brahman which is the source of all created things; ‘increases,’ i. e., becomes distended, being desirous to create the world as a seed when sending out the sprout, or as a father desirous of begetting a son dilates with joy; from the Brahman thus extended by its omniscience, i. e., by its knowledge and its power of creation, preservation and destruction of the universe; Annam means ‘that which is eaten or enjoyed’, i.e., the unmanifested (avyakritam) common to all in samsara is produced in the state fit for emancipation; and from “the unmanifested”, i. e., the “Annam” in the state fit for manifestation. Prana, i. e., Hiranyagarhha, the common cosmic entity, endowed with the power of knowledge and activity of the Brahman, the sprouting seed, as it were, of the totality of cosmic ignorance, desire, karma, and creatures and the Atman of the universe. “Is produced”, should be supplied. From that prana that which is called “mind” whose characteristic is volition, deliberation, doubt, determination, etc., is produced; and from that mind whose essence is volition, etc., what is called satyam, i.e., the five elements such as the akas, etc., are produced and from the five elements called satya, the seven worlds, the earth, etc., are produced in the order of the globes; and in them karma, for the living beings, man, etc., according to caste and the order of life, is produced; and with karma as the cause, its fruits. As long as karma is not destroyed, even by hundreds of millions of kalpa, so long is its fruit not destroyed. Hence it is called Amritam.
+
+MUNDAKA 1.1.9
+Sanskrit
+यः सर्वज्ञः सर्वविद्यस्य ज्ञानमयं तापः ।
+तस्मादेतद्ब्रह्म नाम रूपमन्नं च जायाते ॥ ९॥
+॥ इति मुण्डकोपनिषदि प्रथममुण्डके प्रथमः खण्डः ॥
+
+Transliteration
+yaḥ sarvajñaḥ sarvavidyasya jñānamayaṃ tāpaḥ .
+tasmādetadbrahma nāma rūpamannaṃ ca jāyāte .. 9..
+.. iti muṇḍakopaniṣadi prathamamuṇḍake prathamaḥ khaṇḍaḥ .. 1.1.9
+
+English
+yah sarvajnah sarvavidyasya jnaanamayam taapah .
+tasmaadetadbrahma naama ruupamannam cha jaayaate .. 9..
+.. iti mundakopanishadi prathamamundake prathamah khandah ..
+
+Translation
+9 For him who knows all and understands everything, whose austerity consists of knowledge-from Him, the Imperishable Brahman, are born Brahma, name, form and food.
+
+Word Meanings
+यः (yaḥ) – he
+सर्वज्ञः (sarvajñaḥ) – all-knowing, aware of all
+सर्वविद् (sarvavid) – all-wise, knower of all
+यस्य (yasya) – whose
+ज्ञानमयम् (jñānamayam) – full of knowledge
+तपः (tapaḥ) – concentrated thought
+तस्मात् (tasmāt) – from that
+एतद् (etad) – these
+ब्रह्म (brahma) – the creator
+नाम (nāma) – names
+रूपम् (rūpam) – forms
+अन्नम् (annam) – nourishment
+च (ca) – also
+जायते (jāyate) – is produced
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—By way of concluding what was already stated the mantra says as follows: ‘Yah,’ above described and named akshara; Sarvajna means he who knows all, who knows all things as a class. Sarvavid, i.e., who knows everything in particular; whose tapas is only a modification of knowledge, consists in omniscience and is not in the nature of modification. From him so described, omniscient, this, i.e., manifested Brahman by name Hiranyagarbha, is produced. Again name, such as ‘This is Devadatta and Yajnadatta, etc.’; and form such as this is white, blue, etc., and food such as corn, yava, etc., are produced in the order stated in the last text; thus there is no inconsistency.
+
+ ॥ इति मुण्डकोपनिषदि प्रथममुण्डके प्रथमः खण्डः ॥
+ || iti muṇḍakopaniṣadi prathamamuṇḍake prathamaḥ khaṇḍaḥ ||[
+
+MUNDAKA 1.2.1
+Sanskrit
+तदेतत् सत्यं मन्त्रेषु कर्माणि कवयो
+यान्यपश्यंस्तानि त्रेतायां बहुधा सन्ततानि ।
+तान्याचरथ नियतं सत्यकामा एष वः
+पन्थाः सुकृतस्य लोके ॥ १॥
+
+Transliteration
+tadetat satyaṃ mantreṣu karmāṇi kavayo
+yānyapaśyaṃstāni tretāyāṃ bahudhā santatāni .
+tānyācaratha niyataṃ satyakāmā eṣa vaḥ
+panthāḥ sukṛtasya loke .. 1.. 1.2.1
+
+English
+tadetat satyam mantreshu karmaani kavayo
+yaanyapashyamstaani tretaayaam bahudhaa santataani .
+taanyaacharatha niyatam satyakaamaa esha vah
+panthaah sukritasya loke .. 1..
+
+Translation
+1 This is the Truth: The sacrificial works which were revealed to the rishis in the hymns have been described in many ways in the three Vedas. Practice them, being desirous to attain their true results. This is your path leading to the fruits of your works.
+
+Word Meanings
+तत् (tat) – that
+एतत् (etat) – this
+सत्यं (satyaṃ) – true
+मन्त्रेषु (mantreṣu) – in the mantras
+कर्माणि (karmāṇi) – karmas, deeds (ritualistic)
+कवयः (kavayaḥ) – seers
+यानि (yāni) – which
+अपश्यन् (apaśyan) – practised
+तानि (tāni) – those
+त्रेतायाम् (tretāyām) – in the Tretā1 age (or in the three Vedas)
+बहुधा (bahudhā) – much
+सन्ततानि (santatāni) – continued
+तानि (tāni) – those
+आचरथ (ācaratha) – practised
+नियतम् (niyatam) – always
+सत्यकामाः (satyakāmāḥ) – with desire for the true results of karma
+,एषः (,eṣaḥ) – this
+वः (vaḥ) – your
+पन्थाः (panthāḥ) – way
+सुकृतस्य (sukṛtasya) – fruits of karma
+लोके (loke) – in the world
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+By the text the Rig Veda, the Yajur Veda, etc., all Vedas with their angas (appendages) have been stated to be apara vidya; and para vidya has been specifically stated to be that knowledge by which the akshara described in the text beginning with “That which cannot be perceived, etc,.” and ending with “Name, form and food are produced”, is known. Hereafter, the next text is begun to distinguish between the bondage of samsara and emancipation, the subjects of these two sorts of knowledge respectively. Of these, the subject of apara viyda is samsara which consists in the variety of action, its means such as doer, etc., and its results, is without beginning or end, and being misery in its nature, should be discarded by every embodied being; and in its entirety it is of an unbroken connection like the stream of a river. The subject of para vidya is emancipation which consists in the cessation of samsara, which is beginningless, endless, undecaying, immortal, deathless, fearless, pure and clear and is nothing but being centred in self and transcendant bliss without a second; first it is attempted to elucidate the subject of apara vidya; for, it is only when it is seen that it is possible to get disgusted with it; accordingly it will be said later on “Having examined the world attained by karma”; and as there can be no examination of what is not presented to the view, the text shows what it is. ‘Satyam.’ True.” What is that? Mantreshu, in the Vedas known as Rig, Yajur, etc. ‘Karmani’, Agnihotra and the rest disclosed by texts of the Vedas; ‘Kavayah,’ ‘seers like Vasishtha and ‘others’. Apasyan have seen. This is true because they are the unfailing means of accomplishing the objects of man. These enjoined by the Vedas and seen by the Rishis were done in diverse ways by the followers of karma. Tretayam, i.e., wherein there is the combination of the three Vedas of the three inodes of rites performed with the aid of a hota, adhvaryu and udgata, or it may mean that they were generally performed in the Treta age. Therefore, you should do them always; ‘Satyakamah’ ‘wishing for those fruits which they can bear.’ This is your route for the attainment of the fruits of Karma. Sukritasya, performed by you; Loka is what is found, or enjoyed; hence the fruits of Karma are denoted by the word “LoJca.” The meaning is that, to attain them, this is the route. These Karma, Agnihotra and the rest enjoined in the Vedas form the road, i.e., the means for the attainment of the necessary fruits.
+
+MUNDAKA 1.2.2
+Sanskrit
+यदा लेलायते ह्यर्चिः समिद्धे हव्यवाहने ।
+तदाऽऽज्यभागावन्तरेणाऽऽहुतीः प्रतिपादयेत् ॥ २॥
+
+Transliteration
+yadā lelāyate hyarciḥ samiddhe havyavāhane .
+tadā''jyabhāgāvantareṇā''hutīḥ pratipādayet .. 2.. 1.2.2
+
+English
+yadaa lelaayate hyarchih samiddhe havyavaahane .
+tadaa''jyabhaagaavantarenaa''hutiih pratipaadayet .. 2..
+
+Translation
+2 When the fire is well lighted and the flames flicker, let a man offer his oblations in the space between the two portions of melted butter.
+
+Word Meanings
+यदा (yadā) – when
+लेलायते (lelāyate) – kindled
+हि-अर्चिः or ह्यर्चिः (hi-arciḥ or hyarciḥ) – fire
+समिद्धे (samiddhe) – when flames begin to move (well-ignited)
+हव्यवाहने (havyavāhane) – in the sacred fire
+तदा (tadā) – then
+आज्यभागौ अन्तरेण (ājyabhāgau antareṇa) – on the space between the two portions of the fire
+आहुतीः (āhutīḥ) – the oblations (of ghī)
+प्रतिपादयेत् (pratipādayet) – should be offered
+(श्रद्धयाहुतम् ((śraddhayāhutam) – offered with faith)
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Of the various kinds of karma, agnihotra is first explained to show what it is, because it is the first of all karma. How is that to be performed? When the flame moves, the five being well fed by fuel, then in the flame so moving between the portions where quantities of ghee are poured on either side, i.e., in the place called avapasthana one should throw the oblations intending them for the devata. As the same has to be done during many days the plural oblations is used. This karma marga which consists in properly offering the oblations, etc., is the road to the attainment of good worlds but it is not easy to do that properly and the impediments are many.
+
+MUNDAKA 1.2.3
+Sanskrit
+यस्याग्निहोत्रमदर्शमपौर्णमास-
+मचातुर्मास्यमनाग्रयणमतिथिवर्जितं च ।
+अहुतमवैश्वदेवमविधिना हुत-
+मासप्तमांस्तस्य लोकान् हिनस्ति ॥ ३॥
+
+Transliteration
+yasyāgnihotramadarśamapaurṇamāsa-
+macāturmāsyamanāgrayaṇamatithivarjitaṃ ca .
+ahutamavaiśvadevamavidhinā huta-
+māsaptamāṃstasya lokān hinasti .. 3.. 1.2.3
+
+English
+yasyaagnihotramadarshamapaurnamaasa-
+machaaturmaasyamanaagrayanamatithivarjitam cha .
+ahutamavaishvadevamavidhinaa huta-
+maasaptamaamstasya lokaan hinasti .. 3..
+
+Translation
+3 If a man's Agnihotra sacrifice is not accompanied by the Darsa and the Paurnamasa sacrifice, by the Four Months' sacrifice and the Autumnal sacrifice; if it is unattended by hospitality to guests or if the oblations are not offered at the right time; or if the sacrifice is unaccompanied by the Vaisvadeva ceremony or is improperly performed-then it destroys his seven worlds.
+
+Word Meanings
+यस्य (yasya) – whose
+अग्निहोत्रम् (agnihotram) – agnihotra sacrifice
+अदर्शम् (adarśam) – not accompanied by darśa – rights and sacrifices to be performed on new moon
+अपौर्णमासम् (apaurṇamāsam) – not accompanied by sacrificial rites to be performed on full moon day
+अचातुर्मास्याम् (acāturmāsyām) – not accompanied by sacrificial rights to be performed during the four months of autumn season
+अनाग्रयणम् (anāgrayaṇam) – not accompanied by first fruit offerings at harvest time
+अतिथि- वर्जितं (atithi- varjitaṃ) – unattended by guests
+च (ca) – and
+अहुतम् (ahutam) – without offerings
+अवैश्वदेवम् (avaiśvadevam) – without the worship of Vaiśvadevas
+(which includes feeding of birds and animals) अविधिना ((which includes feeding of birds and animals) avidhinā) – not according to scriptural injunctions
+हुतम् (hutam) – performed
+आसप्तमान् (āsaptamān) – upto the seventh
+तस्य (tasya) – his
+लोकान् (lokān) – worlds
+हिनस्ति (hinasti) – destroys
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—How is that so? ‘Without Darsa’, without ritual named Darsa; for, one who performs agnihotra should necessarily perform Darsa; though connected with agnihotra (as a part of it) it becomes as it were an attribute of agnihotra. The drift is Agnihotra, without Darsa performed. The expressions “without paurnamasa, etc., as attributes of agnihotra should be similarly noted; for, all are equally the angas (parts) of agnihotra. ‘Without Paurnamasa,’ devoid of the Paurnamasa ritual. ‘Without Chaturmasya,’ devoid of the Chaturmasya ritual. ‘Without agrayana’, devoid of the agrayana ritual which is to he performed in autumn, etc.; similarly ‘without atithi’, devoid of the daily propitiation of guests; ‘ahutam’, oblation not offered well by himself at the time for agnihotra. “Without vaisvadeva”, like “without Darsa”, means devoid of the vaisvadeva ritual. Is ‘irregularly performed,’ oblation though offered, not offered in the proper manner. What such karma, as agnihotra ill-performed or not performed at all, leads to, is stated immediately after. ‘Till the seventh’, inclusive of the seventh. ‘His,’ of the doer. ‘Destroys the seven worlds of the doer’, seems to destroy; because only the trouble taken is the fruit; for, it is only when karma is properly performed, the seven worlds beginning with Bhu and ending with satya are obtained as result, according to the fruition of the karma. These worlds are not obtainable by agnihotra and other karma, performed as just above stated and they are therefore said to be as it were destroyed; but the mere trouble is ever present; or, it may be construed to mean that the three ancestors (the father, the grand-father and the great-grand-father) and the three descendants (the son, the grandson and the great-grandson) connected by the offer of oblations do not confer any benefit on his soul by virtue of the agnihotra and the rest, performed as above stated.
+
+MUNDAKA 1.2.4
+Sanskrit
+काली कराली च मनोजवा च
+सुलोहिता या च सुधूम्रवर्णा ।
+स्फुलिङ्गिनी विश्वरुची च देवी
+लेलायमाना इति सप्त जिह्वाः ॥ ४॥
+
+Transliteration
+kālī karālī ca manojavā ca
+sulohitā yā ca sudhūmravarṇā .
+sphuliṅginī viśvarucī ca devī
+lelāyamānā iti sapta jihvāḥ .. 4.. 1.2.4
+
+English
+kaalii karaalii cha manojavaa cha
+sulohitaa yaa cha sudhuumravarnaa .
+sphulinginii vishvaruchii cha devii
+lelaayamaanaa iti sapta jihvaah .. 4..
+
+Translation
+4 Kali (the Black), Karali (the Terrific), Manojava (the Swift as thought), Sulohita (the Very red), Sudhumravarna (of the colour of bright smoke; purple), Splulingini (the Scintillating) and the luminous Visvaruchi (the All-gleaming, all- formed)-these seven, flickering about, form the seven tongues of the fire.
+
+Word Meanings
+काली (kālī) – kālī (black one)
+कराली (karālī) – karālī (the terrific one)
+च (ca) – and
+मनोजवा (manojavā) – as swift as mind
+च (ca) – also
+सुलोहिता (sulohitā) – a deep red coloured
+या (yā) – who
+च (ca) – and
+सुधूम्रवर्णा (sudhūmravarṇā) – the smoke coloured
+स्फुलिङ्गिनी (sphuliṅginī) – the sparkling
+विश्वरुची देवी (viśvarucī devī) – the variegated, the bright, all shining
+च (ca) – and
+लेलायमाना (lelāyamānā) – flickering
+इति (iti) – that
+सप्त (sapta) – seven
+जिह्वाः (jihvāḥ) – tongues
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—The seven tongues of the (flaming) fire, from kali down to visvaruchi, are intended to swallow the oblations thrown on it.
+
+MUNDAKA 1.2.5
+Sanskrit
+एतेषु यश्चरते भ्राजमानेषु यथाकालं
+चाहुतयो ह्याददायन् ।
+तं नयन्त्येताः सूर्यस्य रश्मयो यत्र
+देवानां पतिरेकोऽधिवासः ॥ ५॥
+
+Transliteration
+eteṣu yaścarate bhrājamāneṣu yathākālaṃ
+cāhutayo hyādadāyan .
+taṃ nayantyetāḥ sūryasya raśmayo yatra
+devānāṃ patireko'dhivāsaḥ .. 5.. 1.2.5
+
+English
+eteshu yashcharate bhraajamaaneshu yathaakaalam
+chaahutayo hyaadadaayan .
+tam nayantyetaah suuryasya rashmayo yatra
+devaanaam patireko'dhivaasah .. 5..
+
+Translation
+5 A man who performs the sacrifices when these flames are shining and offers oblations at the right time, is carried by these oblations on the rays of the sun to where dwells the sole sovereign of the gods.
+
+Word Meanings
+एतेषु (eteṣu) – into these
+यः (yaḥ) – he (who)
+चरते (carate) – moves
+भ्राजमानेषु (bhrājamāneṣu) – shining
+यथाकालं (yathākālaṃ) – in proper time
+च (ca) – and
+आहुतयः (āhutayaḥ) – oblations
+हि (hi) – verily
+आददायन् (ādadāyan) – offers
+तं (taṃ) – him
+नयन्ति (nayanti) – lead
+एताः (etāḥ) – these
+सूर्यस्य (sūryasya) – of the sun
+रश्मयः (raśmayaḥ) – rays
+यत्र (yatra) – where
+देवानां (devānāṃ) – of the devas
+पतिः (patiḥ) – Lord
+एकः (ekaḥ) – one
+अधिवासः (adhivāsaḥ) – dwelling place
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—The agnihotri who performs the karma, agnihotra and the rest, in these different bright tongues of the fire, at the time fixed for the performance of the karma, these oblations (performed by him) becoming so many rays of the sun conduct him to Heaven, where Indra, Lord of the Devas, singly rules over all. ‘Adadayan,’ taking (the sacrificer).
+
+MUNDAKA 1.2.6
+Sanskrit
+एह्येहीति तमाहुतयः सुवर्चसः
+सूर्यस्य रश्मिभिर्यजमानं वहन्ति ।
+प्रियां वाचमभिवदन्त्योऽर्चयन्त्य
+एष वः पुण्यः सुकृतो ब्रह्मलोकः ॥ ६॥
+
+Transliteration
+ehyehīti tamāhutayaḥ suvarcasaḥ
+sūryasya raśmibhiryajamānaṃ vahanti .
+priyāṃ vācamabhivadantyo'rcayantya
+eṣa vaḥ puṇyaḥ sukṛto brahmalokaḥ .. 6.. 1.2.6
+
+English
+ehyehiiti tamaahutayah suvarchasah
+suuryasya rashmibhiryajamaanam vahanti .
+priyaam vaachamabhivadantyo'rchayantya
+esha vah punyah sukrito brahmalokah .. 6..
+
+Translation
+6 The luminous oblations say to the sacrifiers: Come hither! Come hither! And lead him on the rays of the sun, worshipping him all the while and greeting him with the pleasant words: This is the holy heaven of Brahma, earned by your good deeds.
+
+Word Meanings
+एहि (ehi) – come hither
+एहि (ehi) – come hither
+इति (iti) – that
+तम् (tam) – to him
+आहुतयः (āhutayaḥ) – oblations
+सुवर्चसः (suvarcasaḥ) – brilliant
+सूर्यस्य (sūryasya) – of the sun
+रश्मिभिः (raśmibhiḥ) – through the rays
+यजमानं (yajamānaṃ) – the sacrifice
+वहन्ति (vahanti) – carry
+प्रियां (priyāṃ) – pleasant
+वाचम् (vācam) – words
+अभिवदन्तिः (abhivadantiḥ) – addressing
+अर्चयन्तिः (arcayantiḥ) – praise
+यः (yaḥ) – he
+एषः (eṣaḥ) – this
+वः (vaḥ) – thy
+पुण्यः (puṇyaḥ) – virtue (holy)
+सुकृतः (sukṛtaḥ) – gained by good works
+ब्रह्मलोकः (brahmalokaḥ) – the world of Brahmā
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—How these carry the sacrificer through the sun’s rays is now explained; calling “come, come,” these bright oblations greeting him with pleasant words, i.e., with words of praise, etc., and propitiating him, i.e., addressing him with such pleasing words, as “this is your virtuous and well-laid road to Brahmaloka, the fruits of your deeds.” The word Brahmaloka by the force of the context means “Svarga or Heaven.”
+
+MUNDAKA 1.2.7
+Sanskrit
+प्लवा ह्येते अदृढा यज्ञरूपा
+अष्टादशोक्तमवरं येषु कर्म ।
+एतच्छ्रेयो येऽभिनन्दन्ति मूढा
+जरामृत्युं ते पुनरेवापि यन्ति ॥ ७॥
+
+Transliteration
+plavā hyete adṛḍhā yajñarūpā
+aṣṭādaśoktamavaraṃ yeṣu karma .
+etacchreyo ye'bhinandanti mūḍhā
+jarāmṛtyuṃ te punarevāpi yanti .. 7.. 1.2.7
+
+English
+plavaa hyete adridhaa yajnaruupaa
+ashtaadashoktamavaram yeshu karma .
+etacchreyo ye'bhinandanti muudhaa
+jaraamrityum te punarevaapi yanti .. 7..
+
+Translation
+7 But frail indeed are those rafts of sacrifices, conducted by eighteen persons, upon whom rests the inferior work; therefore they are destructible. Fools who rejoice in them as the Highest Good fall victims again and again to old age and death.
+
+Word Meanings
+प्लवा (plavā) – boats
+एते (ete) – these
+अदृढा (adṛḍhā) – undependable, frail
+यज्ञरूपा (yajñarūpā) – form (or boat) of yajña
+अष्टादश उक्तम् (aṣṭādaśa uktam) – is said to be manned by eighteen (supporters)
+अवरं (avaraṃ) – the inferior, lower
+यः (yaḥ) – he
+एषु (eṣu) – on whom
+कर्म (karma) – ceremonial
+एतत् (etat) – this
+श्रेयः (śreyaḥ) – (as) the highest
+ये (ye) – these
+अभिनन्दन्ति (abhinandanti) – delight
+मूढाः (mūḍhāḥ) – the ignorant persons
+जरा (jarā) – old age
+मृत्युं (mṛtyuṃ) – death
+ते (te) – they
+पुनः (punaḥ) – again and again
+एव (eva) –alone
+अपि (api) – even
+यन्ति (yanti) – go (are subject to)
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—This karma, devoid of knowledge, bears but this much fruit and being accomplished by ignorance, desire and action, is sapless and is the source of misery. Therefore it is condemned. “Plava” means ‘ephemeral’ because these are adridha, i.e., not permanent. Yajnarupa, the forms of sacrifice, i.e., necessary for the performance of the sacrifice. Eighteen in number, consisting of the sixteen Ritviks, the sacrificer and his wife. Karma stated in the sastras depends on these. Avaramkarma, i.e., mere karma devoid of knowledge; and as the performance of karma which is inferior depends on these eighteen who are not permanent. The karma done by them and its fruit are ephemeral, as, when the pot is destroyed, the destruction of milk, curd, etc., in it, follows. This being so, those ignorant persons who delight in this karma as the means of bliss, fall again into decay and death, after staying some time in Heaven.
+
+MUNDAKA 1.2.8
+Sanskrit
+अविद्यायामन्तरे वर्तमानाः
+स्वयं धीराः पण्डितं मन्यमानाः ।
+जङ्घन्यमानाः परियन्ति मूढा
+अन्धेनैव नीयमाना यथान्धाः ॥ ८॥
+
+Transliteration
+avidyāyāmantare vartamānāḥ
+svayaṃ dhīrāḥ paṇḍitaṃ manyamānāḥ .
+jaṅghanyamānāḥ pariyanti mūḍhā
+andhenaiva nīyamānā yathāndhāḥ .. 8.. 1.2.8
+
+English
+avidyaayaamantare vartamaanaah
+svayam dhiiraah panditam manyamaanaah .
+janghanyamaanaah pariyanti muudhaa
+andhenaiva niiyamaanaa yathaandhaah .. 8..
+
+Translation
+8 Fools, dwelling in darkness, but wise in their own conceit and puffed up with vain scholarship, wander about, being afflicted by many ills, like blind men led by the blind.
+
+Word Meanings
+अविद्यायाम् (avidyāyām) – in ignorance
+अन्तरे (antare) – in the midst of
+वर्तमानाः (vartamānāḥ) – existing
+स्वयम् (svayam) – themselves
+धीराः (dhīrāḥ) – wise
+पण्डितं (paṇḍitaṃ) – learned
+मन्यमानाः (manyamānāḥ) – fancying themselves
+जड्·घन्यमानाः (jaḍaghanyamānāḥ) – oppressed and miserable
+परियन्ति (pariyanti) – go round and round
+मूढाः (mūḍhāḥ) – the ignorant beings
+अन्धेन एव (andhena eva) – by the blind
+नीयमानाः (nīyamānāḥ) – when led
+यथा (yathā) – as
+अन्धाः (andhāḥ) – the blind people
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Moreover, being in the midst of ignorance, i.e., being utterly ignorant and thinking in their own minds “we alone are intelligent and have known all that should be known.” Thus flattering themselves, the ignorant wander much afflicted by old age, sickness and a lot of their troubles, being devoid of vision as the blind in this world, going the way pointed out by persons, themselves blind, fall into ditch and brambles.
+
+MUNDAKA 1.2.9
+Sanskrit
+अविद्यायं बहुधा वर्तमाना वयं
+कृतार्था इत्यभिमन्यन्ति बालाः ।
+यत् कर्मिणो न प्रवेदयन्ति रागात्
+तेनातुराः क्षीणलोकाश्च्यवन्ते ॥ ९॥
+
+Transliteration
+avidyāyaṃ bahudhā vartamānā vayaṃ
+kṛtārthā ityabhimanyanti bālāḥ .
+yat karmiṇo na pravedayanti rāgāt
+tenāturāḥ kṣīṇalokāścyavante .. 9.. 1.2.9
+
+English
+avidyaayam bahudhaa vartamaanaa vayam
+kritaarthaa ityabhimanyanti baalaah .
+yat karmino na pravedayanti raagaat
+tenaaturaah kshiinalokaashchyavante .. 9..
+
+Translation
+9 Children, immersed in ignorance in various ways, flatter themselves, saying: We have accomplished life's purpose. Because these performers of karma do not know the Truth owing to their attachment, they fall from heaven, misery- stricken, when the fruit of their work is exhausted.
+
+Word Meanings
+अविद्यायां (avidyāyāṃ) – in the ways of the ignorant
+बहुधा (bahudhā) – many
+वर्तमानाः (vartamānāḥ) – present (being)
+वयं (vayaṃ) – we
+कृतार्थाः (kṛtārthāḥ) – reached the goal
+इति (iti) – that
+अभिमन्यन्ति (abhimanyanti) – think
+बालाः (bālāḥ) – people of childish nature
+यत् (yat) – because
+कर्मिणः (karmiṇaḥ) – men of actions (the sacrificers)
+न (na) – not
+प्रवेदयन्ति (pravedayanti) – attain knowledge
+रागात् (rāgāt) – by passion and attachment
+तेन (tena) – by that
+आतुरा (āturā) – dejected, wretched
+क्षीणलोकाः (kṣīṇalokāḥ) – (when) the fruit of their good deeds are exhausted
+च्यवन्ते (cyavante) – (they) fall down
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+The ignorant acting diversely according to ignorance, flatter themselves that they have achieved what they should. This being so, the followers of karma do not learn the truth as they are assailed with the desire for the fruits of karma; they grow miserable for that reason and fall from heaven after the fruits of their karma are consumed.
+
+MUNDAKA 1.2.10
+Sanskrit
+इष्टापूर्तं मन्यमाना वरिष्ठं
+नान्यच्छ्रेयो वेदयन्ते प्रमूढाः ।
+नाकस्य पृष्ठे ते सुकृतेऽनुभूत्वेमं
+लोकं हीनतरं वा विशन्ति ॥ १०॥
+
+Transliteration
+iṣṭāpūrtaṃ manyamānā variṣṭhaṃ
+nānyacchreyo vedayante pramūḍhāḥ .
+nākasya pṛṣṭhe te sukṛte'nubhūtvemaṃ
+lokaṃ hīnataraṃ vā viśanti .. 10.. 1.2.10
+
+English
+ishtaapuurtam manyamaanaa varishtham
+naanyacchreyo vedayante pramuudhaah .
+naakasya prishthe te sukrite'nubhuutvemam
+lokam hiinataram vaa vishanti .. 10..
+
+Translation
+10 Ignorant fools, regarding sacrifices and humanitarian works as the highest, do not know any higher good. Having enjoyed their reward on the heights of heaven, gained by good works, they enter again this world or a lower one.
+
+Word Meanings
+इष्टापूर्तम् (iṣṭāpūrtam) – sacrificial and charitable acts
+मन्यमानाः (manyamānāḥ) – regarding
+वरिष्ठं (variṣṭhaṃ) – most important
+न (na) – not
+अन्यत् (anyat) – any other thing
+श्रेयः (śreyaḥ) – bliss
+वेदयन्ते (vedayante) – know
+प्रमूढाः (pramūḍhāḥ) – these ignorant men
+नाकस्य (nākasya) – in the heights of heaven (the abode of pleasure)
+पृष्ठे (pṛṣṭhe) – in the side of
+ते (te) – they
+सुकृते (sukṛte) – good deeds
+अनुभूत्वा (anubhūtvā) – having enjoyed
+इमम् (imam) – this
+लोकं (lokaṃ) –world
+हीनतरं (hīnataraṃ) – inferior
+वा (vā) – or
+विशन्ति (viśanti) – enter
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Ishtam” karma enjoined by the Srutis as sacrifices, etc. “Purtam” karma enjoined by Smritis such as the digging of pools, wells, tanks, etc. Regarding these alone as the most important aids to the attainment of human objects, these ignorant men, being infatuated with attachment to their sons, cattle and relatives, do not know the other called ‘knowledge of self’ which is the help to bliss. Having enjoyed in the top of heaven—the place of pleasures—the fruits of their karma, they enter again into this world of men or even inferior world, such as the world of horizontal beings, hell, etc., according to the residue of their karma.
+
+MUNDAKA 1.2.11
+Sanskrit
+तपःश्रद्धे ये ह्युपवसन्त्यरण्ये
+शान्ता विद्वांसो भैक्ष्यचर्यां चरन्तः ।
+सूर्यद्वारेण ते विरजाः प्रयान्ति
+यत्रामृतः स पुरुषो ह्यव्ययात्मा ॥ ११॥
+
+Transliteration
+tapaḥśraddhe ye hyupavasantyaraṇye
+śāntā vidvāṃso bhaikṣyacaryāṃ carantaḥ .
+sūryadvāreṇa te virajāḥ prayānti
+yatrāmṛtaḥ sa puruṣo hyavyayātmā .. 11.. 1.2.11
+
+English
+tapahshraddhe ye hyupavasantyaranye
+shaantaa vidvaamso bhaikshyacharyaam charantah .
+suuryadvaarena te virajaah prayaanti
+yatraamritah sa purusho hyavyayaatmaa .. 11..
+
+Translation
+11 But those wise men of tranquil minds who lives in the forest on alms, practising penances appropriate to their stations of life and contemplating such deities as Hiranyagarbha, depart, freed from impurities, by the Path of the Sun, to the place where that immortal Person dwells whose nature is imperishable.
+
+Word Meanings
+तपःश्रद्धे (tapaḥśraddhe) – austerity, penance (tapas) and devout worship (śraddhā)
+ये (ye) – they who
+हि (hi) –verily
+उपवसन्ति (upavasanti) – live
+अरण्ये (araṇye) – in the forests (solitude)
+शान्ताः (śāntāḥ) – having control over their senses
+विद्वांसः (vidvāṃsaḥ) – the learned
+भैक्ष्यचर्यां (bhaikṣyacaryāṃ) – life of a mendicant
+चरन्तः (carantaḥ) – (moves about) living
+सूर्यद्वारेण (sūryadvāreṇa) – through the orb of the sun
+ते (te) – they
+विरजाः (virajāḥ) – (their) good and bad deeds consumed
+प्रयान्ति (prayānti) – go
+यत्र (yatra) – where
+अमृतः (amṛtaḥ) – immortal
+सः (saḥ) –That
+पुरुषः (puruṣaḥ) – Puruṣa
+हि (hi) – verily
+अव्ययात्मा (avyayātmā) –undecaying
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+But those who possess the knowledge contrary to that of persons previously mentioned, i.e., the hermits of the forest and the Sanyasins. ‘Tapah,’ the karma enjoined on one’s order of life. ‘Sraddha,’ the worship of the Hiranyagarbha and other deities. ‘Upavasanti,’ follow: ‘Aranye,’ living in the forest. ‘Santah,’ having control over the group of senses. ‘Learned’ includes also house-holders who possess chiefly knowledge, living by begging; because, they have nothing to call their own. ‘Living on alms’ is connected with ‘living in the forest.’ ‘Through the orb of the sun,’ through the northern route indicated by the sun. ‘Virajah,’ their good and bad deeds being consumed. ‘Prayanti,’ go with excellence. ‘Where,’ to Satyaloka where the immortal Purusha, the first born, undecaying Hiranyagarbha is. ‘Undecaying,’ because he lives to the end of samsara. With this, end the movements within the pale of samsara attainable, through apara vidya. If it be said that some regard this as emancipation, we say it is not so, because of the Srutis, ‘All his desires are even here absorbed’ and ‘those intelligent persons whose mind is concentrated reach the all-pervading, on all sides and enter into everything, etc.,’ and because of the mention of emancipation being irrelevant in this context; for, in the course of treating of the apara vidya, there is no pertinency of emancipation being brought in. The consumption of karma spoken of is only relative; all the result of the apara vidya being in the nature of ends and means and diversified by the difference of acts, requisites and fruits and partaking of duality is only this much, which ends with reaching Hiranyagarbha. Accordingly also it has been said by Manu speaking of the various stages within samsara from the immovable upwards: ‘The wise consider this a high and pure stage to attain the world of Brahma, the Prajapatis (creators), virtue, mahat and avyakta.
+
+MUNDAKA 1.2.12
+Sanskrit
+परीक्ष्य लोकान् कर्मचितान् ब्राह्मणो
+निर्वेदमायान्नास्त्यकृतः कृतेन ।
+तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत्
+समित्पाणिः श्रोत्रियं ब्रह्मनिष्ठम् ॥ १२॥
+
+Transliteration
+parīkṣya lokān karmacitān brāhmaṇo
+nirvedamāyānnāstyakṛtaḥ kṛtena .
+tadvijñānārthaṃ sa gurumevābhigacchet
+samitpāṇiḥ śrotriyaṃ brahmaniṣṭham .. 12.. 1.2.12
+
+English
+pariikshya lokaan karmachitaan braahmano
+nirvedamaayaannaastyakritah kritena .
+tadvijnaanaartham sa gurumevaabhigacchet
+samitpaanih shrotriyam brahmanishtham .. 12..
+
+Translation
+12 Let a brahmin, after having examined all these worlds that are gained by works, acquire freedom from desires: nothing that is eternal can be produced by what is not eternal. In order that he may understand that Eternal, let him, fuel in hand, approach a guru who is well versed in the Vedas and always devoted to Brahman.
+
+Word Meanings
+परीक्ष्य (parīkṣya) – after examining
+लोकान् (lokān) – worlds of experiences
+कर्मचितान् (karmacitān) – gained by karma
+ब्राह्मणः (brāhmaṇaḥ) – a Brāhmaṇa (an aspirant)
+निर्वेदम् (nirvedam) – freedom from all desires
+आयात् (āyāt) – reflecting
+न अस्ति (na asti) – cannot be had
+अकृतः (akṛtaḥ) –that which is Eternal
+कृतेन (kṛtena) – by karma
+तत् (tat) – that
+विज्ञानार्थं (vijñānārthaṃ) – in order to obtain the Knowledge
+सः (saḥ) – he
+गुरुम् (gurum) – preceptor
+एव (eva) – alone
+अभिगच्छेत् (abhigacchet) – (let him) approach
+समित्पाणिः (samitpāṇiḥ) – with sacrificial fuel in hands
+श्रोत्रियं (śrotriyaṃ) – (he who is) well versed in the Vedas
+ब्रह्मनिष्ठम् (brahmaniṣṭham) – established in Brahman
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Now, this is said for the purpose of showing that only the person thoroughly disgusted with all samsara which is in the nature of ends and means, is entitled to acquire the para vidya. ‘Parikshya,’ well knowing that the subject of apara vidya consisting of the Rig, and other Vedas, performable by a person tainted with the defects of natural ignorance, desires and karma has been intended for a person possessed of such defects and after examining those worlds which are the fruits of such karma performed, attainable by the northern and southern routes and these others such as Hell, the world of beasts and the world of departed spirits, which are the result of the vices of not performing the prescribed karma and performing the forbidden karma; after having examined these worlds with the aid of experience, inference, analogies and agamas, i.e.. determined the true nature of all these worlds attainable by one, within the pale of samsara, beginning from the avyakta down to the immovable, manifested and unmanifested in their nature, productive of each other like the seed and its sprout, agitated by a hundred thousand troubles, fragile like the womb of the plantain, similar in kind to illusion, the waters of the mirage, the shape of cities formed by the clouds in the sky, dreams, water-bubbles and foam and destroyed every moment and discarding all these as being produced by good and bad deeds and acquired by karma induced by the faults of ignorance and desire.
+
+ The word ‘Brahmana’ is here used because the Brahmin is specially competent to acquire the knowledge of Brahman through wholesale renunciation. What he should do after examining these worlds is explained. ‘Nirvedam,’ the root vid with the prefix nih is here used in the sense of freedom from desires. The meaning is that he will get disgusted. The mode of disgust is thus shown: ‘Here,’ in samsara there is nothing which is not made; for, all worlds produced by karma are transitory. The meaning is: there is nothing eternal; for all karma is help to what is merely transitory. All that is produced by karma is one of four kinds, that which is produced, that which is reached, that which is refined and that which is modified; beyond this nothing can be done by karma. Hut I am a seeker after that consummation which is eternal, immortal, fearless, changeless, immovable and constant; but not after one of a contrary nature; of what use therefore is karma which is full of trouble and which leads to misery? Thus disgusted, the Brahmin should, for knowing that abode which is fearless, full of bliss, not made, and eternal, only approach a preceptor, possessing attributes such as control of mind, control of the external senses and mercy, etc., (the force of the word ‘alone’ is to show that even one versed in the recital of the sastras should not independently by himself seek the knowledge of the Brahman) with a load of Samid in his hand.
+
+ ‘Srotriyam,’ versed in the recital of the Vedas and the knowledge of its import. ‘Brahmanishtham’; like japanishtha and taponishtha, this word means ‘one who is centred in the Brahman devoid of attributes and without a second, after renouncing all karma; for, one performing karma cannot be centred in the Brahman on account of the antagonism between karma and the knowledge of the Atman. Having duly approached the guru, let the Brahmin propitiate him and question him about the true and immortal Pursha.
+
+MUNDAKA 1.2.13
+Sanskrit
+तस्मै स विद्वानुपसन्नाय सम्यक्
+प्रशान्तचित्ताय शमान्विताय ।
+येनाक्षरं पुरुषं वेद सत्यं प्रोवाच
+तां तत्त्वतो ब्रह्मविद्याम् ॥ १३॥
+॥ इति मुण्डकोपनिषदि प्रथममुण्डके द्वितीयः खण्डः ॥
+
+Transliteration
+tasmai sa vidvānupasannāya samyak
+praśāntacittāya śamānvitāya .
+yenākṣaraṃ puruṣaṃ veda satyaṃ provāca
+tāṃ tattvato brahmavidyām .. 13..
+.. iti muṇḍakopaniṣadi prathamamuṇḍake dvitīyaḥ khaṇḍaḥ .. 1.2.13
+
+English
+tasmai sa vidvaanupasannaaya samyak
+prashaantachittaaya shamaanvitaaya .
+yenaaksharam purusham veda satyam provaacha
+taam tattvato brahmavidyaam .. 13..
+.. iti mundakopanishadi prathamamundake dvitiiyah khandah ..
+
+Translation
+13 To that pupil who has duly approached him, whose mind is completely serene and whose senses are controlled, the wise teacher should indeed rightly impart the Knowledge of Brahman, through which one knows the immutable and the true Purusha.
+
+Word Meanings
+तस्मै (tasmai) – to that ( pupil)
+सः (saḥ) – that
+विद्वान् (vidvān) – wise Teacher
+उपसन्नाय (upasannāya) – (to him) who has approached
+सम्यक् (samyak) – in a proper manner
+प्रशान्तचित्ताय (praśāntacittāya) – to him whose mind is at rest
+शमान्विताय (śamānvitāya) – to him whose senses are subdued
+येन (yena) – by which
+अक्षरं (akṣaraṃ) – immortal
+पुरुषं (puruṣaṃ) – Puruṣa
+वेद (veda) – is known
+सत्यं (satyaṃ) – true
+प्रोवाच (provāca) – let (his teacher) teach
+तां (tāṃ) – that
+तत्त्वतः (tattvataḥ) – truly
+ब्रह्मविद्याम् (brahmavidyām) – science of Brahman
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—‘He,’ the learned preceptor who knows the Brahman; ‘Upasannaya ' who has approached him. ‘Samyak, i.e., well, according to the sastras; ‘Prasanta chittâya,’ i.e., whose heart is subdued, who is free from such faults as pride, etc. ‘Samanvitaya,’ who has control also over the external senses, i.e., who has turned away from everything in the world. ‘By which knowledge,’ by the para vidya, ‘Aksharam’ that which has been described as imperceivable, etc., and denoted by the word Parasha, because it is all pervading; or, because it is seated in the city of the body. ‘Satyam,’ the same, because it is truth in its nature. ‘Akshara,’ because it knows no decay, because it is scathless, and because it knows no destruction. ‘Veda’ means ‘know.’ The meaning is ‘let him teach that knowledge of the Brahman, as it should be taught. This is the duty of also the preceptor, that he should make the good pupil duly approaching him, cross the sea of ignorance.
+
+ || इति मुण्डकोपनिषदि प्रथममुण्डके द्वितीयः खण्डः ||
+ || iti muṇḍakopaniṣadi prathamamuṇḍake dvitīyaḥ khaṇḍaḥ ||
+Here ends the commentary on the second part of the First Mundaka.
+
+MUNDAKA 2.1.1
+Sanskrit
+तदेतत् सत्यं
+यथा सुदीप्तात् पावकाद्विस्फुलिङ्गाः
+सहस्रशः प्रभवन्ते सरूपाः ।
+तथाऽक्षराद्विविधाः सोम्य भावाः
+प्रजायन्ते तत्र चैवापि यन्ति ॥ १॥
+
+Transliteration
+tadetat satyaṃ
+yathā sudīptāt pāvakādvisphuliṅgāḥ
+sahasraśaḥ prabhavante sarūpāḥ .
+tathā'kṣarādvividhāḥ somya bhāvāḥ
+prajāyante tatra caivāpi yanti .. 1.. 2.1.1
+
+English
+tadetat satyam
+yathaa sudiiptaat paavakaadvisphulingaah
+sahasrashah prabhavante saruupaah .
+tathaa'ksharaadvividhaah somya bhaavaah
+prajaayante tatra chaivaapi yanti .. 1..
+
+Translation
+1 This is the Truth: As from a blazing fire, sparks essentially akin to it fly forth by the thousand, so also, my good friend, do various beings come forth from the imperishable Brahman and unto Him again return.
+
+Word Meanings
+तत् (tat) – that
+एतत् (etat) – this
+सत्यं (satyaṃ) – truth
+यथा (yathā) – as
+सुदीप्तात् (sudīptāt) – from the flaming
+पावकाद् (pāvakād) – (from) fire
+विस्फुलिङ्गाः (visphuliṅgāḥ) – sparks
+सहस्रशः (sahasraśaḥ) – by thousands
+प्रभवन्ते (prabhavante) – issue forth, spring out
+सरूपाः (sarūpāḥ) – of the same form
+तथा (tathā) – as
+अक्षरात् (akṣarāt) – from the Immortal (Brahman)
+विविधाः (vividhāḥ) – various, diverse
+सोम्य (somya) – beloved youth
+भावाः (bhāvāḥ) – jīvas, beings
+प्रजायन्ते (prajāyante) – originate, are born
+तत्र (tatra) – there
+च (ca) – and
+एव (eva) – verily
+अपि (api) – again
+यन्ति (yanti) – go (find way into)
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Everything made, as the result of apara vidya has already been stated. That entity known as Purusha from which samsara derives its strength, from which, as its immortal source, it proceeds and into which it is again absorbed is true; the subsequent portion of the book is begun for the purpose of explaining him, who being known, all will become known and who is the subject of ‘Brahinavidya.’ The satyam or truth which is the subject of the apara vidya and which is in the nature of the fruits of karma is only relatively true; but this which is the subject of para vidya is absolutely true, being defined as absolute existence. This satyam is real, being the subject of knowledge; the other mtyam is false, being the subject of ignorance. How could men directly cognize the immortal and real Purusha, seeing that it is altogether beyond the reach of direct perception. To this end, the Sruti gives an example: ‘As from the fire well-fed sparks, i.e., particles of fire issue forth by thousands like fire in their form; so, from the immortal abode described, diverse jivas, diverse because of the difference of conditions, i.e., in their various bodies, come into existence. Just as from akas, the spaces enclosed as it were within the limits of a pot, etc.’ As these spaces undergo varieties corresponding to the varieties of their conditions such as pot, etc., so also the jivas according to the varieties of their bodies created by names and forms. Th e jivas are absorbed into the immortal purusha when the bodies conditioning them cease to exist, as the various cavities cease to exist, when the pot, etc., cease to exist. As the origin and destruction of the various cavities in the akas are due to its being enclosed in a pot, etc., so also the cause and the absorption of the jiva are due to the akshara, being conditioned by bodies bearing names and forms.
+
+MUNDAKA 2.1.2
+Sanskrit
+दिव्यो ह्यमूर्तः पुरुषः स बाह्याभ्यन्तरो ह्यजः ।
+अप्राणो ह्यमनाः शुभ्रो ह्यक्षरात् परतः परः ॥ २॥
+
+Transliteration
+divyo hyamūrtaḥ puruṣaḥ sa bāhyābhyantaro hyajaḥ .
+aprāṇo hyamanāḥ śubhro hyakṣarāt parataḥ paraḥ .. 2.. 2.1.2
+
+English
+divyo hyamuurtah purushah sa baahyaabhyantaro hyajah .
+apraano hyamanaah shubhro hyaksharaat paratah parah .. 2..
+
+Translation
+2 He is the self-luminous and formless Purusha, uncreated and existing both within and without. He is devoid of prana, devoid of mind, pure and higher than the supreme Imperishable.
+
+Word Meanings
+दिव्यः (divyaḥ) – self-resplendent
+हि (hi) – verily
+अमूर्तः (amūrtaḥ) – formless
+पुरुषः (puruṣaḥ) – the puruṣa
+सबाह्याभ्यन्तरः (sabāhyābhyantaraḥ) – (that all-pervading Being) is both within and without
+हि (hi) – verily
+अजः (ajaḥ) –unoriginated
+अप्राणः (aprāṇaḥ) – anterior to life
+अमनाः (amanāḥ) – without mind
+शुभ्र : (śubhra :) – pure
+हि (hi) – verily
+अक्षरात् (akṣarāt) – from the indestructible
+परतः परः (parataḥ paraḥ) – He transcends even the transcendent
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+With a view to describe the nature of that akshara, i.e., which is beyond what is known as avyakrita (the unmanifested), the seed of all name and form and transcending its own modifications which is devoid of all varieties of conditions and bereft of all forms like the akas and which is capable of being only negatively defined, the text says thus. ‘Divyah,’ bright, being self-resplendent, or born of itself or distinct from all that is wordly. ‘Hi’, because; ‘amurtah,’ having no form of any kind. ‘Parusha,’ all-pervading or seated in the city of the body. ‘Sabahyabhyantarah’ means ‘existing both without and within.’ ‘Unborn’ is ‘not born of anything,’ i.e., neither from itself nor from any other, there being no other, from which it could be born. As wind, etc., in the case of water bubbles, and as the pot, etc., in the case of the different cavities of akas, so modifications of things, have birth for their source, and all these modifications are denied when birth is denied. The drift is that he is both without and within, unborn and therefore undecaying, immortal, changeless, constant and fearless. Though he appears to be in the various bodies with prana, with mind, with senses and with their objects owing to the ignorance of those who perceive difference of conditions, such as bodies, etc., as they see in the akas the colour etc., of the surface; but still to those who see the reality, he is without prana, etc.; he is without prana, i.e., in whom the mind, which has various active powers and whose characteristic is motion, does not exist. He is without mind because in him the mind with its various powers of knowledge and with its characteristics of voltion, etc., does not exist. It should he understood that of him are denied the varieties of winds such as prana, the active sensory organs, their objects and accordingly intelligence, mind, the organs of knowledge and their objects. Accordingly, another Sruti says ‘It seems to think and move.’ He is suhhra or pure, because both these conditions are thus denied of him. The Akshara which is beyond all, the Avyakrita whose nature is indicated as the seed condition of all name and form, as it is known to be the seed of all effects and causes; ‘param’ because the akshara known as avyakrita is in its condition above all its modifications. The Purusha is beyond even this unmanifested akshara, i.e., not subject to any conditions. In whom is the akshara known as akas with all the objects of duality strung together as warp and woof. How then could it be said to be without prana, etc? It prana, etc., existed as such in their own forms before their creation like the purusha. then the purusha can be said to be with prana because of their then existence; but they, the prana, etc., do not, like the purusha, exist in their own forms, before their creation. So the highest purusha is without prana, etc.
+
+MUNDAKA 2.1.3
+Sanskrit
+एतस्माज्जायते प्राणो मनः सर्वेन्द्रियाणि च ।
+खं वायुर्ज्योतिरापः पृथिवी विश्वस्य धारिणी ॥ ३॥
+
+Transliteration
+etasmājjāyate prāṇo manaḥ sarvendriyāṇi ca .
+khaṃ vāyurjyotirāpaḥ pṛthivī viśvasya dhāriṇī .. 3.. 2.1.3
+
+English
+etasmaajjaayate praano manah sarvendriyaani cha .
+kham vaayurjyotiraapah prithivii vishvasya dhaarinii .. 3..
+
+Translation
+3 From Him are born prana, mind, all the sense-organs, Akasa, air, fire, water and earth, which supports all.
+
+Word Meanings
+एतस्मात् (etasmāt) – from It (Him)
+जायते (jāyate) – are born
+प्राणः (prāṇaḥ) – prāṇa
+मनः (manaḥ) – the mind
+सर्व-इन्द्रियाणि (sarva-indriyāṇi) – all the sense organs
+च (ca) – and
+खं (khaṃ) – sky (ākāśa)
+वायुः (vāyuḥ) – the wind
+ज्योतिः (jyotiḥ) – the fire
+आपः (āpaḥ) – the water
+पृथिवी (pṛthivī) – the earth
+विश्वस्य (viśvasya) – of all (the universe)
+धारिणी (dhāriṇī) – supporter (that which supports)
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—As Devadatta is said to be ‘aputra’ when a ‘putra’ is not born to him, so it is explained how it is said in this connection that in the case of the purusha the prana, etc., do not exist; because from this purusha alone viewed as conditioned by the seed of name and form is born the prana, the modification of the object of ignorance, a mere name and in its nature a non-entity; for, another Sruti says ‘The name is mere speech, a modification and a falsehood’; by prana, which is an object of ignorance and a falsehood, the highest cannot be said to be possessed of it (prana), as a sonless man cannot be said to have a son, by a son seen in dreams; similarly the mind, all the sensory organs and their objects are born of this. Therefore, that he is really without prana, etc., is established. It should be known that just as these prana, etc., did not really exist before the creation, so, even after absorption as the organs, the mind and the senses, so the bhutas which are the causes of the bodies and objects. ‘Kham,’ the aka s, the air internal and external, o various kinds such as avaha, etc.; ‘Jotihi’, fire. ‘Apah’, water. ‘Prithivi,’ earth. ‘Visvasya,’ o all. All these whose attributes are sound, touch, form, taste and smell and which are respectively formed by the combination of the latter with the previous attributes are born of him. Having briefly stated the immortal, unconditioned, eternal Purusha, the object of para vidya, by the text ‘Bright, formless, etc.,’ the Sruti next proceeded to explain his nature in detail and at length. It is only when a thing is explained briefly and at length it becomes capable of being easily understood as if explained by Sutras and by their commentaries.
+
+MUNDAKA 2.1.4
+Sanskrit
+अग्नीर्मूर्धा चक्षुषी चन्द्रसूर्यौ
+दिशः श्रोत्रे वाग् विवृताश्च वेदाः ।
+वायुः प्राणो हृदयं विश्वमस्य पद्भ्यां
+पृथिवी ह्येष सर्वभूतान्तरात्मा ॥ ४॥
+
+Transliteration
+agnīrmūrdhā cakṣuṣī candrasūryau
+diśaḥ śrotre vāg vivṛtāśca vedāḥ .
+vāyuḥ prāṇo hṛdayaṃ viśvamasya padbhyāṃ
+pṛthivī hyeṣa sarvabhūtāntarātmā .. 4.. 2.1.4
+
+English
+agniirmuurdhaa chakshushii chandrasuuryau
+dishah shrotre vaag vivritaashcha vedaah .
+vaayuh praano hridayam vishvamasya padbhyaam
+prithivii hyesha sarvabhuutaantaraatmaa .. 4..
+
+Translation
+4 The heavens are His head; the sun and moon, His eyes; the quarters, His ears; the revealed Vedas, His speech; the wind is His breath; the universe, His heart. From his feet is produced the earth. He is, indeed, the inner Self of all beings
+
+Word Meanings
+अग्निः (agniḥ) – fire (the celestial region called Dyu-loka)
+मूर्धा (mūrdhā) – (His) the head
+चक्षुषी (cakṣuṣī) – the two eyes
+चन्द्र-सूर्यौ (candra-sūryau) – the moon and the sun
+दिशः (diśaḥ) – directions, quarters of the sky
+श्रोत्रे (śrotre) – the two ears
+वाक् (vāk) – (His) speech
+विवृताः (vivṛtāḥ) – expressed
+च (ca) – and
+वेदाः (vedāḥ) – Vedas
+वायुः (vāyuḥ) – the air or wind
+प्राणः (prāṇaḥ) – (His) breath
+हृदयम् (hṛdayam) – (His) mind
+विश्वम् (viśvam) – the universe
+अस्य (asya) – of His feet
+पृथिवी (pṛthivī) – the earth
+हि (hi) – indeed
+एषः (eṣaḥ) – He
+सर्वभूतान्तरात्मा (sarvabhūtāntarātmā) – the inner Self of all beings
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—This text is intended to show that the virat purusha within the globe, who is born of Hiranyagarbha the first born, is born only and a modification, of this purusha, though apparently distanced by an intermediate principle. The text also describes him. ‘Agnihi,’ the devaloka or svarga, from the Sruti ‘This loka verily is Agni, O Gautama.’ ‘Murdha,’ head; whose eyes are the sun and the moon. The word ‘yasya’ (of whom) should be read in every clause. The word ‘asya’ subsequently occurring being converted into ‘yasya’ whose speech are the opened, i.e., celebrated Vedas. ‘Hridayam’ heart. ‘Visvam,’ the whole universe. The whole universe is only a modification of the mind for it is absorbed into the mind during sleep and because it issues from the mind when waking, like sparks of fire and from whose feet the earth was born; this deity, all-pervading, endless, the first embodied existence having for its body the three lokas is the interior atman of all created things; for, it is he who, in all created things, is the seer, the hearer, the thinker, the knower and who is the cause of all. It is next stated that all living beings who come into samsara through the five fires are also born of the same purusha.
+
+MUNDAKA 2.1.5
+Sanskrit
+तस्मादग्निः समिधो यस्य सूर्यः
+सोमात् पर्जन्य ओषधयः पृथिव्याम् ।
+पुमान् रेतः सिञ्चति योषितायां
+बह्वीः प्रजाः पुरुषात् सम्प्रसूताः ॥ ५॥
+
+Transliteration
+tasmādagniḥ samidho yasya sūryaḥ
+somāt parjanya oṣadhayaḥ pṛthivyām .
+pumān retaḥ siñcati yoṣitāyāṃ
+bahvīḥ prajāḥ puruṣāt samprasūtāḥ .. 5.. 2.1.5
+
+English
+tasmaadagnih samidho yasya suuryah
+somaat parjanya oshadhayah prithivyaam .
+pumaan retah sinchati yoshitaayaam
+bahviih prajaah purushaat samprasuutaah .. 5..
+
+Translation
+5 From Him comes the Fire whose fuel is the sun; from the moon comes rain; from rain, the herbs that grow on the earth; from the herbs, the seminal fluid which a man pours into a woman. Thus many living beings are born of the Purusha.
+
+Word Meanings
+अग्निः (agniḥ) – fire (the celestial region called Dyu-loka)
+मूर्धा (mūrdhā) – (His) the head
+चक्षुषी (cakṣuṣī) – the two eyes
+चन्द्र-सूर्यौ (candra-sūryau) – the moon and the sun
+दिशः (diśaḥ) – directions, quarters of the sky
+श्रोत्रे (śrotre) – the two ears
+वाक् (vāk) – (His) speech
+विवृताः (vivṛtāḥ) – expressed
+च (ca) – and
+वेदाः (vedāḥ) – Vedas
+वायुः (vāyuḥ) – the air or wind
+प्राणः (prāṇaḥ) – (His) breath
+हृदयम् (hṛdayam) – (His) mind
+विश्वम् (viśvam) – the universe
+अस्य (asya) – of His feet
+पृथिवी (pṛthivī) – the earth
+हि (hi) – indeed
+एषः (eṣaḥ) – He
+सर्वभूतान्तरात्मा (sarvabhūtāntarātmā) – the inner Self of all beings
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—‘From him,’ from the Purusha. ‘Agni,’ the Dyu loka, a kind of abode for man. That Agni is described. ‘Samidhah’ fuel; for which the sun is. as it were, a fuel; for, it is by the sun that the Dyu loka is lighted. From the moon emerging out of the Dyu loka parjanya, the second fire, is produced; and from the parjanya, the medicinal plants proceed, grow on earth: and from the medicinal plants offered to the purusha fire serving as the material cause the man (fire) sheds semen on the woman (fire). Thus gradually from the purusha are produced many living beings such as Brahmins, etc.; moreover, the helps to karma and their fruits also proceed from the Purusha.
+
+MUNDAKA 2.1.6
+Sanskrit
+तस्मादृचः साम यजूंषि दीक्षा
+यज्ञाश्च सर्वे क्रतवो दक्षिणाश्च ।
+संवत्सरश्च यजमानश्च लोकाः
+सोमो यत्र पवते यत्र सूर्यः ॥ ६॥
+
+Transliteration
+tasmādṛcaḥ sāma yajūṃṣi dīkṣā
+yajñāśca sarve kratavo dakṣiṇāśca .
+saṃvatsaraśca yajamānaśca lokāḥ
+somo yatra pavate yatra sūryaḥ .. 6.. 2.1.6
+
+English
+tasmaadrichah saama yajuumshi diikshaa
+yajnaashcha sarve kratavo dakshinaashcha .
+samvatsarashcha yajamaanashcha lokaah
+somo yatra pavate yatra suuryah .. 6..
+
+Translation
+6 From Him have come the Rik, the Saman, the Yajus, the Diksha, all sacrifices, the Kratus, gifts, the year, the sacrificer and the worlds which the moon sanctifies and the sun illumines.
+
+Word Meanings
+तस्मात् (tasmāt) – from Him
+ऋचः (ṛcaḥ) – Vaidika hymns
+सामः (sāmaḥ) – the sacred chants
+यजूंषि (yajūṃṣi) – the sacrificial formulae
+दीक्षा (dīkṣā) – preliminary rites observed by the sacrificer
+यज्ञाः (yajñāḥ) – sacrifices like agnihotra
+च (ca) – and
+सर्वे (sarve) – all
+क्रतवः (kratavaḥ) – ceremonies which require a yūpa (a sacrificial post to which the would be sacrifice is tied during the ceremonies)
+दक्षिणाः (dakṣiṇāḥ) – sacrificial gifts given to the priests
+च (ca) – and
+संवत्सरः (saṃvatsaraḥ) – the year (the time of the sacrifices)
+च (ca) – and
+यजमानः (yajamānaḥ) – the performer of the sacrifice
+च (ca) – and
+लोकाः (lokāḥ) – the worlds (the worlds of experiences)
+सोमः (somaḥ) – the moon
+यत्र (yatra) – where
+पवते (pavate) – purifies
+यत्र (yatra) – where
+सूर्यः (sūryaḥ) – the sun
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—How? ‘Tasmat,’ from the Purasha; ‘Richah the mantras whose letters, feet and endings are determined and which are marked by Chhandas (metre) like the gayatri. Sama with its fivefold and sevenfold classification characterized by sthoba and other gita (music). ‘Yajus,’ mantras in the form of sentences, whose letters, feet and endings are determined by no rules. Thus the threefold mantras. ‘Diksha’, restrictions such as the wearing of a mounjee (a kind of cord), etc., imposed upon the performer (of a sacrifice). ‘Yajnas,’ all sacrifices such as Agnihotra, etc. ‘Kratu’ sacrifices which require a yupa (i.e., sacrificial post). ‘Dakshinah,’ rewards distributed in sacrifice from a single cow up to unbounded whole wealth. ‘Year,’ stated time as a necessary adjunct of karma. ‘Yajamano’ the performer, i.e., the sacrificer. The worlds which are the fruits of his karma are next described “which the moon renders sacred and where the sun shines”; these are attainable by the northern and southern routes and are the fruits of the karma performed by the knowing and the ignorant.
+
+MUNDAKA 2.1.7
+Sanskrit
+तस्माच्च देवा बहुधा सम्प्रसूताः
+साध्या मनुष्याः पशवो वयांसि ।
+प्राणापानौ व्रीहियवौ तपश्च
+श्रद्धा सत्यं ब्रह्मचर्यं विधिश्च ॥ ७॥
+
+Transliteration
+tasmācca devā bahudhā samprasūtāḥ
+sādhyā manuṣyāḥ paśavo vayāṃsi .
+prāṇāpānau vrīhiyavau tapaśca
+śraddhā satyaṃ brahmacaryaṃ vidhiśca .. 7.. 2.1.7
+
+English
+tasmaaccha devaa bahudhaa samprasuutaah
+saadhyaa manushyaah pashavo vayaamsi .
+praanaapaanau vriihiyavau tapashcha
+shraddhaa satyam brahmacharyam vidhishcha .. 7..
+
+Translation
+7 By Him are begotten the various devas, the sadhyas, men, cattle, birds and also prana and apana, rice and corn, penance, faith, truth, continence and law.
+
+Word Meanings
+तस्मात् (tasmāt) – from Him
+च (ca) – and
+देवाः (devāḥ) – the gods
+बहुधा (bahudhā) – of various order (such as vasus, rudras and so on)
+सम्प्रसूताः (samprasūtāḥ) – are born
+साध्याः (sādhyāḥ) – the celestials
+मनुष्याः (manuṣyāḥ) – the men
+पशवः (paśavaḥ) – the cattle, beasts
+वयांसि (vayāṃsi) – the birds
+प्राण-अपानौ (prāṇa-apānau) – the in-breaths and out- breaths
+व्रीहियवौ (vrīhiyavau) – the corn and barley
+तपः (tapaḥ) – the (concentrated) thought
+च (ca) – and
+श्रद्धा (śraddhā) – the devotion
+सत्यं (satyaṃ) – the truth
+ब्रह्मचर्यं (brahmacaryaṃ) – Self-control
+विधिः (vidhiḥ) – values of life
+च (ca) – and
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Tasmat, “from him also, from the purusha. ‘Variously,’ in various groups such as vasus, etc. Samprasutah, well born. Sadhyas, a species of Devas. Men those that are entitled to perforin karma; cattle, both of the village and the forest. Vayamsi, birds. The food of men, etc., The Prana and the Apana; corn and yava, to be used for making havis (oblations). Tapas, both as an indispensable adjunct to karma whose efficacy lies in the purification of the performer and as an independent means of attaining the fruits of karma. Devotion, that state of mind which precedes the mental calm and a belief in a future state necessary to the accomplishment of all human ends. Similarly, truth, i.e., avoiding falsehood and speaking out what has really happened, without harm to others. Brahmacharyam, absence of sexual intercourse. Injunction, the statement of what ought to be done.
+
+MUNDAKA 2.1.8
+Sanskrit
+सप्त प्राणाः प्रभवन्ति तस्मात्
+सप्तार्चिषः समिधः सप्त होमाः ।
+सप्त इमे लोका येषु चरन्ति प्राणा
+गुहाशया निहिताः सप्त सप्त ॥ ८॥
+
+Transliteration
+sapta prāṇāḥ prabhavanti tasmāt
+saptārciṣaḥ samidhaḥ sapta homāḥ .
+sapta ime lokā yeṣu caranti prāṇā
+guhāśayā nihitāḥ sapta sapta .. 8.. 2.1.8
+
+English
+sapta praanaah prabhavanti tasmaat
+saptaarchishah samidhah sapta homaah .
+sapta ime lokaa yeshu charanti praanaa
+guhaashayaa nihitaah sapta sapta .. 8..
+
+Translation
+8 From Him have sprung the seven pranas, the seven flames, the seven kinds of fuel, the seven oblations and also the seven planes where move the pranas, lying in the cave, which are seven in each living being.
+
+Word Meanings
+सप्त प्राणाः (sapta prāṇāḥ) – seven prāṇas or organs of senses
+प्रभवन्ति (prabhavanti) – are born
+तस्मात् (tasmāt) –from Him
+सप्त अर्चिषः (sapta arciṣaḥ) – seven flames of fire (such as kālī, karāli and so on) which are powers of recognition
+समिधः (samidhaḥ) – (sevenfold sense objects) fuel
+सप्तः (saptaḥ) – sevenfold
+होमाः (homāḥ) – oblations (knowledge)
+सप्तः (saptaḥ) – seven
+इमे (ime) – these
+लोकाः (lokāḥ) – worlds (seats of sense life)
+येषु (yeṣu) – where
+चरन्ति (caranti) – move
+प्राणाः (prāṇāḥ) – the prāṇas (life forces)
+गुहाशयाः (guhāśayāḥ) – lying in the cave of (heart)
+निहिताः (nihitāḥ) – seated
+सप्त (sapta) – seven
+सप्त (sapta) – seven
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Again the seven pranas, i.e., (organs of sense) in the head are born of this purusha alone. ‘Their seven flames,’ their light which enlightens their objects. Similarly, the sevenfold fuel, their sevenfold objects; for, it is by these objects that the pranas, i.e., organs of sense are fed. ‘The sevenfold oblations’, the perceptions of the sevenfold objects; for, another Sruti says: “He offers the oblation which consists in the perception of the objects by the senses.” The seven lokas, i.e., the seats of the senses where the pranas move. The clause “where the pranas move” is intended to exclude the vital airs, i.e., prana, apana and the rest. ‘Lying in the cave,’ lying during sleep in the body or the heart. ‘Fixed,’ fixed by the creator. ‘Seven and seven’, in every living thing. The meaning of the context is that all karma performed by knowing men who propitiate their Atman and the fruits of such karma as well as the karma performed by the ignorant and their means and fruits; all these proceed only from the highest and the omniscient purusha.
+
+MUNDAKA 2.1.9
+Sanskrit
+अतः समुद्रा गिरयश्च सर्वेऽस्मात्
+स्यन्दन्ते सिन्धवः सर्वरूपाः ।
+अतश्च सर्वा ओषधयो रसश्च
+येनैष भूतैस्तिष्ठते ह्यन्तरात्मा ॥ ९॥
+
+Transliteration
+ataḥ samudrā girayaśca sarve'smāt
+syandante sindhavaḥ sarvarūpāḥ .
+ataśca sarvā oṣadhayo rasaśca
+yenaiṣa bhūtaistiṣṭhate hyantarātmā .. 9.. 2.1.9
+
+English
+atah samudraa girayashcha sarve'smaat
+syandante sindhavah sarvaruupaah .
+atashcha sarvaa oshadhayo rasashcha
+yenaisha bhuutaistishthate hyantaraatmaa .. 9..
+
+Translation
+9 From Him come all the oceans and the mountains; from Him flow rivers of every kind; from Him have come, as well, all plants and flavours, by which the inner self subsists surrounded by the elements.
+
+Word Meanings
+अतः (ataḥ) – from Him
+समुद्राः (samudrāḥ) – the oceans
+गिरयः (girayaḥ) – the mountains
+च (ca) – and
+सर्वे (sarve) – all
+अस्मात् (asmāt) – from Him
+स्यन्दन्ते (syandante) – flow
+सिन्धवः (sindhavaḥ) – the rivers
+सर्वरूपाः (sarvarūpāḥ) – of all descriptions
+अतः (ataḥ) – from Him
+च (ca) – too
+सर्वाः (sarvāḥ) – all
+ओषधयः (oṣadhayaḥ) – the herbs
+रसः (rasaḥ) – the saps
+च (ca) – and
+येन (yena) – by which
+एषः (eṣaḥ) – this
+भूतैः (bhūtaiḥ) – by the gross elements of matter
+तिष्ठते (tiṣṭhate) – exists
+हि (hi) – indeed
+अन्तरात्मा (antarātmā) – the subtle body
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—‘From him,’ from the purusha. ‘The oceans’, all, the salt ocean, etc. ‘Mountains’, the Himalayas and the rest are all from this purusha. ‘Syandante,’ flow. ‘Rivers’, such as the Granges. ‘Sarvarupah,’ of many forms. From this purusha, also proceed, the medicinal plants, such as corn, yava paddy, etc. ‘Taste,’ sixfold such as sweetness, etc. ‘By which’, by which taste. ‘Bhutaih,’ by the five gross bhutas. ‘Pariveshtitah’, encircled. ‘Tishthate’, is seated. ‘The internal Atman’, the subtle body, so called, because it is the Atman, as it were, intermediate between the gross body and the soul proper.
+
+MUNDAKA 2.1.10
+Sanskrit
+पुरुष एवेदं विश्वं कर्म तपो ब्रह्म परामृतम् ।
+एतद्यो वेद निहितं गुहायां
+सोऽविद्याग्रन्थिं विकिरतीह सोम्य ॥ १०॥
+॥ इति मुण्डकोपनिषदि द्वितीयमुण्डके प्रथमः खण्डः ॥
+
+Transliteration
+puruṣa evedaṃ viśvaṃ karma tapo brahma parāmṛtam .
+etadyo veda nihitaṃ guhāyāṃ
+so'vidyāgranthiṃ vikiratīha somya .. 10..
+.. iti muṇḍakopaniṣadi dvitīyamuṇḍake prathamaḥ khaṇḍaḥ .. 2.1.10
+
+English
+purusha evedam vishvam karma tapo brahma paraamritam .
+etadyo veda nihitam guhaayaam
+so'vidyaagranthim vikiratiiha somya .. 10..
+.. iti mundakopanishadi dvitiiyamundake prathamah khandah ..
+
+Translation
+10 The Purusha alone is verily the universe, which consists of work and austerity. O my good friend, he who knows this Brahman-the Supreme and the Immortal, hidden in the cave of the heart-cuts asunder even here the knot of ignorance.
+
+Word Meanings
+पुरुषः (puruṣaḥ) – the puruṣa
+एव (eva) –alone
+इदं (idaṃ) – this
+विश्वं (viśvaṃ) – all the universe
+कर्म (karma) – karma (sacrificial works)
+तपः (tapaḥ) – tapas (knowledge)
+ब्रह्म (brahma) – (all this is) Brahman
+परामृतम् (parāmṛtam) – the highest and the immortal
+एतत् (etat) – this
+यः (yaḥ) – he who
+वेद (veda) – knows
+निहितं (nihitaṃ) – seated in
+गुहायां (guhāyāṃ) – in the cavity of the heart
+सः (saḥ) – he
+अविद्या-ग्रन्थिं (avidyā-granthiṃ) – knot of ignorance
+विकिरति (vikirati) – unties
+इह (iha) – (even) here
+सोम्य (somya) – O good looking youth
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Thus, out of purusha, all this is born; therefore, as the Sruti says “The name is mere speech, a modification and a falsehood and the purusha alone is true.” Therefore all this is only purusha. The universe has no separate existence apart from purusha. Hence to the question propounded “O Bhagavan, by knowing whom, all this becomes known,” the answer has been given, i.e., when this purusha, the supreme Atman, the first cause is known, it becomes clear that all this universe is purusha and nothing else exists except him. What then is this “all,” it is thus explained. Karma is of the nature of Agnihotra and the rest. Tapas, knowledge and the fruit due to it. By ‘all’ this much is meant. And all this is evolved out of Brahman. Therefore everything is Brahman. He who knows that lie himself is this Brahman the highest and the immortal placed in the hearts of all living beings, destroys the dense tendencies of ignorance. Iha, even while living and not merely after death. Soumya, good looking.
+
+|| इति मुण्डकोपनिषदि द्वितीयमुण्डके प्रथमः खण्डः ||
+
+ || iti muṇḍakopaniṣadi dvitīyamuṇḍake prathamaḥ khaṇḍaḥ ||
+Here ends the commentary on the first part of the Second Mundaka.
+
+MUNDAKA 2.2.1
+Sanskrit
+आविः संनिहितं गुहाचरं नाम
+महत्पदमत्रैतत् समर्पितम् ।
+एजत्प्राणन्निमिषच्च यदेतज्जानथ
+सदसद्वरेण्यं परं विज्ञानाद्यद्वरिष्ठं प्रजानाम् ॥ १॥
+
+Transliteration
+āviḥ saṃnihitaṃ guhācaraṃ nāma
+mahatpadamatraitat samarpitam .
+ejatprāṇannimiṣacca yadetajjānatha
+sadasadvareṇyaṃ paraṃ vijñānādyadvariṣṭhaṃ prajānām .. 1.. 2.2.1
+
+English
+aavih samnihitam guhaacharam naama
+mahatpadamatraitat samarpitam .
+ejatpraanannimishaccha yadetajjaanatha
+sadasadvarenyam param vijnaanaadyadvarishtham prajaanaam .. 1..
+
+Translation
+1 The Luminous Brahman dwells in the cave of the heart and is known to move there. It is the great support of all; for in It is centred everything that moves, breathes and blinks. O disciples, know that to be your Self-that which is both gross and subtle, which is adorable, supreme and beyond the understanding of creatures.
+
+Word Meanings
+आविः (āviḥ) – bright
+सन्निहितं (sannihitaṃ) – existing very close
+गुहाचरं (guhācaraṃ) – moving in the cavity of the heart
+नाम (nāma) – known as
+महत् (mahat) – great
+पदम् (padam) – the support
+अत्र (atra) – here (in that Brahman)
+एतत् (etat) – this
+समर्पितम् (samarpitam) – (in him is all the universe) centred round
+एजत् (ejat) – moves
+प्राणत् (prāṇat) – breathes
+निमिषत् (nimiṣat) – winks
+च (ca) – and
+यत् (yat) – this (Brahman)
+एतत् (etat) – this
+जानथ (jānatha) – know
+सत् (sat) – with form (gross)
+असत् (asat) – without form (subtle)
+वरेण्यं (vareṇyaṃ) – the most adorable
+परं (paraṃ) – the highest of beings
+विज्ञानात् (vijñānāt) – beyond the understanding of
+यत् (yat) – this
+वरिष्ठं (variṣṭhaṃ) – the one being adored
+प्रजानाम् (prajānām) – of creatures
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+It is now explained how the akshara which is formless, could be known. Avihi, bright, shining as the percipient of sound, etc., according to the Sruti, “It shines through its conditions of speech, etc.” It is seen in the heart of all living beings appearing there with the attributes of seeing, hearing, thinking, knowing, etc. This Brahman shining is Sannihita, i.e., well seated in the heart. It is celebrated as guhacha- ran because it moves in the cavity in modes of seeing, hearing, etc. ‘Great’, because it is greater than all. Padam, reached by all, because it is the seat of all objects. How is it said to be great, etc? Because in the Brahman all this universe is centred as the various spokes are in the wheel-ring of the chariot. Ejat, moving, i.e., birds, etc; pranet, breathes, i.e., men, cattle, etc., having prana, a puna, etc; and ‘winks’, all that winks and all that winks not, from the force of the particle cha; this in which all is centred, know, O disciple, that that is your own atman; both sat and asat; for without it, sat and asat, that which has form and that which has not, i.e., the gross and subtle do not exist. Varenyam, covetable; because of all objects it is the only eternal entity. Param, distinct from, or, beyond; this is connected with the expression “knowledge of men” though remote; the meaning is that it is beyond the reach of wordly knowledge. Varishtham, the highest of all; because of all that is high, the Brahman is pre-eminently high, being free from all faults.
+
+MUNDAKA 2.2.2
+Sanskrit
+यदर्चिमद्यदणुभ्योऽणु च
+यस्मिँल्लोका निहिता लोकिनश्च ।
+तदेतदक्षरं ब्रह्म स प्राणस्तदु वाङ्मनः
+तदेतत्सत्यं तदमृतं तद्वेद्धव्यं सोम्य विद्धि ॥ २॥
+
+Transliteration
+yadarcimadyadaṇubhyo'ṇu ca
+yasmim̐llokā nihitā lokinaśca .
+tadetadakṣaraṃ brahma sa prāṇastadu vāṅmanaḥ
+tadetatsatyaṃ tadamṛtaṃ tadveddhavyaṃ somya viddhi .. 2.. 2.2.2
+
+English
+yadarchimadyadanubhyo'nu cha
+yasmim̐llokaa nihitaa lokinashcha .
+tadetadaksharam brahma sa praanastadu vaanmanah
+tadetatsatyam tadamritam tadveddhavyam somya viddhi .. 2..
+
+Translation
+2 That which is radiant, subtler than the subtle, That by which all the worlds and their inhabitants are supported-That, verily, is the indestructible Brahman; That is the prana, speech and the mind; That is the True and That is the Immortal. That alone is to be struck. Strike It, my good friend.
+
+Word Meanings
+यत् (yat) – that which
+अर्चिमत् (arcimat) – luminous
+यत् (yat) – that which
+अणुभ्यः (aṇubhyaḥ) – than the subtlest
+अणुः (aṇuḥ) – subtle
+च (ca) – and
+यस्मिन् (yasmin) – in which
+लोकाः (lokāḥ) – worlds
+निहिताः (nihitāḥ) – seated
+लोकिनः (lokinaḥ) – inhabitants
+च (ca) – and
+तत् (tat) – that
+एतत् (etat) – this
+अक्षरं (akṣaraṃ) – immortal
+ब्रह्म (brahma) – Brahman
+सः (saḥ) – He
+प्राणः (prāṇaḥ) – life
+तत् (tat) – that
+उ (u) – alone
+वाक् (vāk) –speech
+मनः (manaḥ) – mind
+तत् (tat) – that
+एतत् (etat) – this
+सत्यं (satyaṃ) – reality
+तत् (tat) – that
+अमृतं (amṛtaṃ) – immortality
+तत् (tat) – that
+वेद्धव्यं (veddhavyaṃ) – that which should be penetrated
+सोम्य (somya) – O! my friend
+विद्धि (viddhi) – penetrate
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Besides it is archimat, bright, because it is by the light of the Brahman that the sun, etc., shine; again it is subtler than the subtlest (i.e.,) grain, etc. From the particle cha, it is suggested that it is bigger than the biggest, such as earth, etc. In whom all the worlds such as earth, etc., are fixed and men and the rest, inhabitants of those worlds; for all are well-known to depend upon “Intelligence”, i. e., Brahman; this immortal Brahman on which all depend is prana, speech, mind and all the instruments. It is their internal intelligence for the whole combination of prana, senses, etc., is dependent upon that intelligence, according to the Sruti ‘It is the prana of prana, etc. This immortal Brahman which is the internal intelligence of prana, etc., is true and, therefore, endless. Veddhavyam, should he seized by the mind. The meaning is that the mind should be concentrated upon the Brahman. This being so, O good looking youth, strike that, i.e., concentrate your mind upon that Brahman.
+
+MUNDAKA 2.2.3
+Sanskrit
+धनुर् गृहीत्वौपनिषदं महास्त्रं
+शरं ह्युपासा निशितं सन्धयीत ।
+आयम्य तद्भावगतेन चेतसा
+लक्ष्यं तदेवाक्षरं सोम्य विद्धि ॥ ३॥
+
+Transliteration
+dhanur gṛhītvaupaniṣadaṃ mahāstraṃ
+śaraṃ hyupāsā niśitaṃ sandhayīta .
+āyamya tadbhāvagatena cetasā
+lakṣyaṃ tadevākṣaraṃ somya viddhi .. 3.. 2.2.3
+
+English
+dhanur grihiitvaupanishadam mahaastram
+sharam hyupaasaa nishitam sandhayiita .
+aayamya tadbhaavagatena chetasaa
+lakshyam tadevaaksharam somya viddhi .. 3..
+
+Translation
+3 Take the Upanishad as the bow, the great weapon and place upon it the arrow sharpened by meditation. Then, having drawn it back with a mind directed to the thought of Brahman, strike that mark, O my good friend-that which is the Imperishable
+
+Word Meanings
+धनुः (dhanuḥ) – bow
+गृहीत्वा (gṛhītvā) – having taken
+औपनिषदं (aupaniṣadaṃ) – furnished by Upaniṣads
+महास्त्रम् (mahāstram) – the great weapon
+शरं (śaraṃ) – arrow
+हि (hi) – indeed
+उपासानिशितं (upāsāniśitaṃ) – sharpened by japa
+सन्धयीत (sandhayīta) – must be fixed
+आयम्य (āyamya) – having drawn
+तद्भावगतेन (tadbhāvagatena) – fixed on Brahman
+चेतसा (cetasā) – with mind
+लक्ष्यं (lakṣyaṃ) – the mark, goal (Brahman)
+तत् (tat) – that
+एव (eva) – alone
+अक्षरं (akṣaraṃ) – immortal Brahman
+सोम्य (somya) – O! friend
+विद्धि (viddhi) – penetrate (learn)
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—How that is hit is now explained. Dhanuh. the bow. Grihitva, having taken. Upanishadam horn in, i.e., well-known in the Upanishads. Mahastram, great weapon, i.e., the arrow; fix the arrow; of what quality is stated. Upasauisltam, rendered pointed by constant meditation, i.e., purified; after fixing it and drawing it, i.e., having drawn the mind and the senses from their external objects and bending, i.e., concentrating them on the mark, for the bow here cannot be bent as by the hand; hit the mark—the immortal Brahman—above defined with thy mind, Oh good looking youth, engrossed by meditation upon the Brahman.
+
+MUNDAKA 2.2.4
+Sanskrit
+प्रणवो धनुः शारो ह्यात्मा ब्रह्म तल्लक्ष्यमुच्यते ।
+अप्रमत्तेन वेद्धव्यं शरवत् तन्मयो भवेत् ॥ ४॥
+
+Transliteration
+praṇavo dhanuḥ śāro hyātmā brahma tallakṣyamucyate .
+apramattena veddhavyaṃ śaravat tanmayo bhavet .. 4.. 2.2.4
+
+English
+pranavo dhanuh shaaro hyaatmaa brahma tallakshyamuchyate .
+apramattena veddhavyam sharavat tanmayo bhavet .. 4..
+
+Translation
+4 Om is the bow; the atman is the arrow; Brahman is said to be the mark. It is to be struck by an undistracted mind. Then the atman becomes one with Brahman, as the arrow with the target.
+
+Word Meanings
+प्रणवः (praṇavaḥ) – the praṇava
+धनुः (dhanuḥ) – bow
+शरः (śaraḥ) – arrow
+हि (hi) – indeed
+आत्मा (ātmā) – Ᾱtman
+ब्रह्म (brahma) – Brahman
+तत् (tat) – that
+लक्ष्यम् (lakṣyam) – the goal, mark
+उच्यते (ucyate) – is said to be
+अप्रमत्तेन (apramattena) – steady and undeflected
+वेद्धव्यं (veddhavyaṃ) – should be hit
+शरवत् (śaravat) – like the arrow
+तन्मयः (tanmayaḥ) –one with the mark
+भवेत् (bhavet) – should become
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—What the bow and the rest above referred to are, is explained. The Pranava, i.e., the syllable “Om” is the bow; as the bow is the cause of the arrow entering into the mark, so the syllable “Om” is the cause of the Atman entering into the Brahman; for it is only when purified, by the repetition of Pranava, that the Atman supported by it becomes fixed in the Brahman without obstruction, as the arrow by the force of the bow is fixed in the mark. Therefore the Pranava is like a bow. The arrow is the Paramatman itself conditioned as the Atman having entered the body here, as the sun enters the water, as the witness of all states of consciousness. That, like an arrow, is discharged towards itself—the immortal Brahman. Therefore the Brahman is said to be its mark, because it is seen to be the Atman itself by those who fix their mind upon it as on a mark. This being so, the Brahman which is the mark should be hit by one who is self-collected, i. e., who is free from the excitement caused by a thirst to get at external objects, who is disgusted with everything, who has conquered his senses and whose mind is concentrated. When that is hit, the Atman becomes like the arrow, one with the mark, i.e., the Brahman. Just as the success of the arrow is its becoming one with the mark, so the fruit here achieved is the Atman becoming one with the immortal Brahman by the dispelling of the notion that the body, etc., is the Atman.
+
+MUNDAKA 2.2.5
+Sanskrit
+यस्मिन् द्यौः पृथिवी चान्तरिक्षमोतं
+मनः सह प्राणैश्च सर्वैः ।
+तमेवैकं जानथ आत्मानमन्या वाचो
+विमुञ्चथामृतस्यैष सेतुः ॥ ५॥
+
+Transliteration
+yasmin dyauḥ pṛthivī cāntarikṣamotaṃ
+manaḥ saha prāṇaiśca sarvaiḥ .
+tamevaikaṃ jānatha ātmānamanyā vāco
+vimuñcathāmṛtasyaiṣa setuḥ .. 5.. 2.2.5
+
+English
+yasmin dyauh prithivii chaantarikshamotam
+manah saha praanaishcha sarvaih .
+tamevaikam jaanatha aatmaanamanyaa vaacho
+vimunchathaamritasyaisha setuh .. 5..
+
+Translation
+5 In Him are woven heaven, earth and the space between and the mind with all the sense-organs. Know that non-dual Atman alone and give up all other talk. He is the bridge to Immortality.
+
+Word Meanings
+यस्मिन् (yasmin) – in whom
+द्यौः (dyauḥ) – the heaven
+पृथिवी (pṛthivī) – the earth
+च (ca) – and
+अंतरिक्षम् (aṃtarikṣam) – the interspace
+ओतं (otaṃ) – centred
+मनः (manaḥ) – the mind
+सह (saha) – together with
+प्राणैः (prāṇaiḥ) – life breaths (prāṇas) च – and
+सर्वैः (sarvaiḥ) – of all
+तम् (tam) – him
+एव (eva) – alone
+एकं (ekaṃ) – one
+जानथ (jānatha) – know
+आत्मानम् (ātmānam) – as the Ᾱtman (Self)
+अन्या (anyā) – all other
+वाचः (vācaḥ) – talks
+विमुञ्चथ (vimuñcatha) – give up, desist
+अमृतस्य (amṛtasya) – of immortality
+एषः (eṣaḥ) – this is
+सेतुः (setuḥ) – bridge
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—As the “Immortal” cannot be easily grasped by the mind, the repetition is for the purpose of making it more easily cognisable. He, the immortal Brahman, in whom Dyouh, earth, and antariksha are centred, as also the mind with the other instruments; know him, O disciples as “the one,” the support of all; the Atman, i.e., the internal principle of yourselves and all living beings; having known that, leave off all other speech of the nature of “Apara vidya” as also all Kar ma with their aids elucidated by it; for, this, i.e., the knowledge of the Atman is the road to the attaintment of emancipation, the bridge as it were by which the great ocean of Samsara is crossed, as another Sruti says “having known him thus, one travels beyond death; there is no other road to emancipation.”
+
+MUNDAKA 2.2.6
+Sanskrit
+अरा इव रथनाभौ संहता यत्र नाड्यः ।
+स एषोऽन्तश्चरते बहुधा जायमानः ।
+ओमित्येवं ध्यायथ आत्मानं स्वस्ति वः
+पाराय तमसः परस्तात् ॥ ६॥
+
+Transliteration
+arā iva rathanābhau saṃhatā yatra nāḍyaḥ .
+sa eṣo'ntaścarate bahudhā jāyamānaḥ .
+omityevaṃ dhyāyatha ātmānaṃ svasti vaḥ
+pārāya tamasaḥ parastāt .. 6.. 2.2.6
+
+English
+araa iva rathanaabhau samhataa yatra naadyah .
+sa esho'ntashcharate bahudhaa jaayamaanah .
+omityevam dhyaayatha aatmaanam svasti vah
+paaraaya tamasah parastaat .. 6..
+
+Translation
+6 He moves about, becoming manifold, within the heart, where the arteries meet, like the spokes fastened in the nave of a chariot wheel. Meditate on Atman as Om. Hail to you! May you cross beyond the sea of darkness!
+
+Word Meanings
+अराः (arāḥ) – spokes
+इव (iva) – like
+रथनाभौ (rathanābhau) – in the hub of chariot wheel
+संहता (saṃhatā) – meet
+यत्र (yatra) – where
+नाड्यः (nāḍyaḥ) – nerves
+सः (saḥ) – He
+एषः (eṣaḥ) – this
+(आत्मा ((ātmā) – the Ᾱtman)
+अन्तःचरते (antaḥcarate) – dwells (lit. moves in the heart)
+बहुधा (bahudhā) – in many ways
+जायमानः (jāyamānaḥ) – becoming manifold
+ओम् इति (om iti) – as Om
+एवं (evaṃ) – thus
+ध्यायथ (dhyāyatha) – you meditate
+आत्मानं (ātmānaṃ) – on the Self
+स्वस्ति (svasti) – blessings, godspeed
+वः (vaḥ) – to you
+paray (paray) – (in crossing to the) farther shores
+तमसः (tamasaḥ) – the darkness
+परस्तात् (parastāt) – beyond
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Within the heart where all nerves running through the body meet together, as the spokes in the nave of the wheel, this Atman, spoken of, dwells within, as the witness of the states of consciousness, seeing, hearing, thinking, knowing and as it were, being variously born by the modifications of the mind, such as anger, joy, etc; men in the world say ‘He has become angry, he has become “joyful”, according to the conditions of the internal sense (mind); meditate upon Atman having the syllable “Om” as your support and imagining as stated. And it has been said “the preceptor who knows must instruct the disciples.” The disciples are those who being desirous to acquire the knowledge of the Brahman, have renounced Karma and taken the road to emancipation. The preceptor gives his benediction that they may attain the Brahman without hindrance; svasti vah paraya, let Him be without hindrance to your reaching the other shore. Parastat, beyond; beyond what? Beyond the darkness of ignorance, i. e., for the realisation of the true nature of the Atman devoid of ignorance. He who should be reached after crossing the ocean of Samsara and who is the subject of the Para vidya.
+
+MUNDAKA 2.2.7
+Sanskrit
+यः सर्वज्ञः सर्वविद् यस्यैष महिमा भुवि ।
+दिव्ये ब्रह्मपुरे ह्येष व्योम्न्यात्मा प्रतिष्ठितः ॥
+मनोमयः प्राणशरीरनेता
+प्रतिष्ठितोऽन्ने हृदयं सन्निधाय ।
+तद् विज्ञानेन परिपश्यन्ति धीरा
+आनन्दरूपममृतं यद् विभाति ॥ ७॥
+
+Transliteration
+yaḥ sarvajñaḥ sarvavid yasyaiṣa mahimā bhuvi .
+divye brahmapure hyeṣa vyomnyātmā pratiṣṭhitaḥ ..
+manomayaḥ prāṇaśarīranetā
+pratiṣṭhito'nne hṛdayaṃ sannidhāya .
+tad vijñānena paripaśyanti dhīrā
+ānandarūpamamṛtaṃ yad vibhāti .. 7.. 2.2.7
+
+English
+yah sarvajnah sarvavid yasyaisha mahimaa bhuvi .
+divye brahmapure hyesha vyomnyaatmaa pratishthitah ..
+manomayah praanashariiranetaa
+pratishthito'nne hridayam sannidhaaya .
+tad vijnaanena paripashyanti dhiiraa
+aanandaruupamamritam yad vibhaati .. 7..
+
+Translation
+7 He who knows all and understands all and to whom belongs all the glory in the world-He, Atman, is placed in the space in the effulgent abode of Brahman. He assumes the forms of the mind and leads the body and the senses. He dwells in the body, inside the heart. By the knowledge of That which shines as the blissful and immortal Atman, the wise behold Him fully in all things.
+
+Word Meanings
+यः (yaḥ) – He who
+सर्वज्ञः (sarvajñaḥ) – all-wise
+सर्वविद् (sarvavid) – all-knowing
+यस्य (yasya) – to whom
+एषः (eṣaḥ) – this
+महिमा (mahimā) – glory
+भुवि (bhuvi) – in the world
+दिव्ये (divye) – luminous
+ब्रह्मपुरे (brahmapure) – the city of Brahman (heart)
+हि एषः (hi eṣaḥ) – verily this
+व्योम्नि (vyomni) – in the sky
+आत्मा (ātmā) – Ᾱtman
+प्रतिष्ठितः (pratiṣṭhitaḥ) – seated, established
+मनोमयः (manomayaḥ) – one with the mind
+प्राण (prāṇa) – life
+शरीर (śarīra) – body
+नेता (netā) – controller, guiding
+प्रतिष्ठितः (pratiṣṭhitaḥ) – seated
+अन्ने (anne) – in the food (in the whole body of the man)
+हृदयं (hṛdayaṃ) – in the heart
+सन्निधाय (sannidhāya) – clothed
+तत् (tat) – that
+विज्ञानेन (vijñānena) – by perfect knowledge
+परिपश्यन्ति (paripaśyanti) – realises
+धीराः (dhīrāḥ) – the wise
+आनन्दरूपम् (ānandarūpam) – blissful
+अमृतं (amṛtaṃ) – immortal
+यत् (yat) – which
+विभाति (vibhāti) – manifests
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Where He is, is now explained; the terms ‘sarvajna’ and ‘sarvavit’ have already been explained. He is again described; by the expression “whose glory is this” is meant “whose glory is celebrated.” What is that glory? By whose commands stand supported the earth and the sky, by whose command, the sun and the moon always rotate as the flaming fire-brand. By whose command the rivers and the seas do not overstep their limits, whose command all that is moveable and immoveable likewise obey, whose commands in the same way, the seasons, the solstices, and the years do not transgress; by whose commands all karma, their performers and their fruits do not likewise go beyond their appointed time; that is his glory. Bhuvi, in the world. This Deva whose is all this glory and who is omniscient. Divye, bright, i. e., illuminated by all the states of consciousness. Brahmapure, in the lotus of the heart, so called because the Brahman is always manifesting himself there, in the form of intelligence. Vyomni, in the akas, within the cavity of the heart. He is perceived as if seated there because, otherwise, motion to or from, or fixity in a place is not possible for him who is all-pervading like the akas. Manomaya, because seated in the heart, he is perceived only by the modifications of the mind. (Thus) conditioned by the mind. Leader of the prana and the body, because lie leads the prana and the body from one gross body into another body. Pratishthitah, fixed. Anne, in the food, i.e., in the body which is a modification of the food eaten and which grows and decays day by day. Hridayam, intellect, Sannidhaya, fixing—in the cavity of the lotus; for, the Atman is really seated in the heart and not in the food. Tat, the entity of the Atman. Vijnanena, by knowledge, thorough, produced by the teachings of the sastras and the preceptor, and arising from control of the mind, control of the senses, meditation, complete renunciation and freedom from desire. Paripasyanti, see on all sides full. Dhirah, the discerning. A’nandarupam, free from all dangers, miseries and troubles. Vibhati, shines much in one-self always.
+
+MUNDAKA 2.2.8
+Sanskrit
+भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः ।
+क्षीयन्ते चास्य कर्माणि तस्मिन् दृष्टे परावरे ॥ ८॥
+
+Transliteration
+bhidyate hṛdayagranthiśchidyante sarvasaṃśayāḥ .
+kṣīyante cāsya karmāṇi tasmin dṛṣṭe parāvare .. 8.. 2.2.8
+
+English
+bhidyate hridayagranthishchidyante sarvasamshayaah .
+kshiiyante chaasya karmaani tasmin drishte paraavare .. 8..
+
+Translation
+8 The fetters of the heart are broken, all doubts are resolved and all works cease to bear fruit, when He is beheld who is both high and low.
+
+Word Meanings
+भिद्यते (bhidyate) – is broken, untied
+हृदयग्रन्थिः (hṛdayagranthiḥ) – knots of the heart
+छिद्यन्ते (chidyante) – dispelled, solved
+सर्वसंशयाः (sarvasaṃśayāḥ) – all doubts
+क्षीयन्ते (kṣīyante) – consumed
+च (ca) – and
+अस्य (asya) – his
+कर्माणि (karmāṇi) – karmas
+तस्मिन् (tasmin) – in it
+दृष्टे (dṛṣṭe) – when seen
+परावरे (parāvare) – in the higher and the lower
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+The fruit of the knowledge of the Paramatman is stated to be the following. Loosened is “the knot of the heart,” i.e., the group of tendencies in the mind due to ignorance, the desire which clings to the intellect according to the Sruti “The desires which lie imbedded in the heart, etc.” This is attached to the heart (intellect) not to the Atman. Biddyate. undergoes destruction; doubts regarding all knowable things have their solution—doubts which perplex worldly men up to their death, being (continuous) like the stream of the Granges; of the man whose doubts have been solved and whose ignorance has been dispelled, such karma as was anterior to the birth of knowledge in this life, such as was performed by him in previous births and had not begun to bear fruit and such as was existing at the birth of knowledge come to an end; but not that karma which brought about this birth, for it had begun to bear fruit. He, “the omniscient”, not subject to samsara; ‘both high and low,’ high as being the cause and low as being the effect; when he is seen directly as “I am he”, one attains emancipation, the cause of samsara being up-rooted.
+
+MUNDAKA 2.2.9
+Sanskrit
+हिरण्मये परे कोशे विरजं ब्रह्म निष्कलम् ।
+तच्छुभ्रं ज्योतिषं ज्योतिस्तद् यदात्मविदो विदुः ॥ ९॥
+
+Transliteration
+hiraṇmaye pare kośe virajaṃ brahma niṣkalam .
+tacchubhraṃ jyotiṣaṃ jyotistad yadātmavido viduḥ .. 9.. 2.2.9
+
+English
+hiranmaye pare koshe virajam brahma nishkalam .
+tacchubhram jyotisham jyotistad yadaatmavido viduh .. 9..
+
+Translation
+9 There the stainless and indivisible Brahman shines in the highest, golden sheath. It is pure; It is the Light of lights; It is That which they know who know the Self.
+
+Word Meanings
+हिरण्मये (hiraṇmaye) – golden
+परे (pare) – the highest, innermost
+कोशे (kośe) – sheath
+विरजं (virajaṃ) – stainless
+ब्रह्म (brahma) – Brahman
+निष्कलम् (niṣkalam) – indivisible
+तत् (tat) – that
+शुभ्रं (śubhraṃ) – pure
+ज्योतिषां (jyotiṣāṃ) – of all lights
+ज्योतिः (jyotiḥ) – light
+तत् (tat) – that
+यत् (yat) – which
+आत्मविदः (ātmavidaḥ) – knowers of the Ᾱtman
+विदुः (viduḥ) – know
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+The three following texts briefly elucidate the meaning already expressed. Hiranmaye, golden, i.e., full of light, or bright with intelligence and knowledge. ‘The highest sheath’, sheath, as it were, of a sword; highest, because it is the place where “the Atman is realised as located” and because it is the innermost of all. Virajam, free from the taint of ignorance and all other faults. Brahma, because it is the greatest of all and Atman of all. Nishkalam, that from which the kalas had proceeded, i.e., devoid of parts; because it is untainted and devoid of parts, therefore it is subhram or pure. The light of all lights, whose light enlightens even those that illumine all other things such as fire, etc. The meaning is that the brightness of even the fire, etc., is due to the splendour of the intelligence of the Brahman within; the light of the Atman is the highest light which is not illumined by other lights. ‘The knowers of the atman’, those discerning men who know the Self as the witness of the objective states of consciousness regarding sound and the rest; as it is the highest light, it is only those who follow (are in) the subjective state of consciousness, not others, who follow (are in) the perceptions of external objects, that know it.
+
+MUNDAKA 2.2.10
+Sanskrit
+न तत्र सूर्यो भाति न चन्द्रतारकं
+नेमा विद्युतो भान्ति कुतोऽयमग्निः ।
+तमेव भान्तमनुभाति सर्वं
+तस्य भासा सर्वमिदं विभाति ॥ १०॥
+
+Transliteration
+na tatra sūryo bhāti na candratārakaṃ
+nemā vidyuto bhānti kuto'yamagniḥ .
+tameva bhāntamanubhāti sarvaṃ
+tasya bhāsā sarvamidaṃ vibhāti .. 10.. 2.2.10
+
+English
+na tatra suuryo bhaati na chandrataarakam
+nemaa vidyuto bhaanti kuto'yamagnih .
+tameva bhaantamanubhaati sarvam
+tasya bhaasaa sarvamidam vibhaati .. 10..
+
+Translation
+10 The sun does not shine there, nor the moon and the stars, nor these lightnings, not to speak of this fire. When He shines, everything shines after Him; by His light everything is lighted.
+
+Word Meanings
+न (na) – neither
+तत्र (tatra) – there
+सूर्यः (sūryaḥ) – the sun
+भाति (bhāti) – shines
+न (na) – nor
+चन्द्र (candra) – the moon
+तारकं (tārakaṃ) – the stars
+न (na) – not
+इमाः (imāḥ) – these
+विद्युतः (vidyutaḥ) – lightnings
+भान्ति (bhānti) – shines
+कुतः (kutaḥ) – how
+अयम् (ayam) – this
+अग्निः (agniḥ) – fire
+तम् (tam) – Him
+एव (eva) – verily
+भान्तम् (bhāntam) – who shines
+अनुभाति (anubhāti) – shines after
+सर्वं (sarvaṃ) – all
+तस्य (tasya) – His
+भासा (bhāsā) – by light, reflection
+सर्वम् (sarvam) – all
+इदं (idaṃ) – this world
+विभाति (vibhāti) – is illumined
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+How that is the light of all lights is explained. The sun, though enlightening all. does not shine in, i.e., does not illumine the Brahman which is his Atman; for, the sun illumines the whole universe other than the Atman with the light of the Brahman, but has not in himself the capacity to illuminate. Similarly neither the moon and the stars nor the lightning shines. How could this file which is in the range of our vision? Why dilate? This universe which shines, shines with the light of Him, the Lord of all, who shines being himself luminosity. Just as water and the rest by their contact with fire, heat with the heat of the fire, but not by their own inherent power, so all this universe, the sun and the rest shine with the light of the Brahman. As it is the Brahman alone that thus shines and shines with varying light in its diverse manifestations, itself luminosity, is inferred; for, that which is not itself light cannot illumine others as we see that pots, etc., do not illumine others and that the sun and the rest having light, illumine others.
+
+MUNDAKA 2.2.11
+Sanskrit
+ब्रह्मैवेदममृतं पुरस्ताद् ब्रह्म पश्चाद् ब्रह्म दक्षिणतश्चोत्तरेण ।
+अधश्चोर्ध्वं च प्रसृतं ब्रह्मैवेदं विश्वमिदं वरिष्ठम् ॥ ११॥
+॥ इति मुण्डकोपनिषदि द्वितीयमुण्डके द्वितीयः खण्डः ॥
+
+Transliteration
+brahmaivedamamṛtaṃ purastād brahma paścād brahma dakṣiṇataścottareṇa .
+adhaścordhvaṃ ca prasṛtaṃ brahmaivedaṃ viśvamidaṃ variṣṭham .. 11..
+.. iti muṇḍakopaniṣadi dvitīyamuṇḍake dvitīyaḥ khaṇḍaḥ .. 2.2.11
+
+English
+brahmaivedamamritam purastaad brahma pashchaad brahma dakshinatashchottarena .
+adhashchordhvam cha prasritam brahmaivedam vishvamidam varishtham .. 11..
+.. iti mundakopanishadi dvitiiyamundake dvitiiyah khandah ..
+
+Translation
+11 That immortal Brahman alone is before, that Brahman is behind, that Brahman is to the right and left. Brahman alone pervades everything above and below; this universe is that Supreme Brahman alone.
+
+Word Meanings
+ब्रह्म (brahma) – Brahman
+एव (eva) – verily
+इदम् (idam) – this
+अमृतं (amṛtaṃ) – immortal
+पुरस्तात् (purastāt) – in front
+ब्रह्म (brahma) – Brahman
+पश्चात् (paścāt) – at the back
+ब्रह्म (brahma) – Brahman
+दक्षिणतः (dakṣiṇataḥ) – on the right
+च (ca) – and
+उत्तरेण (uttareṇa) – on the left
+अधः (adhaḥ) – below
+च (ca) – and
+ऊर्ध्वं (ūrdhvaṃ) – above
+च (ca) – and
+प्रसृतं (prasṛtaṃ) – everywhere
+ब्रह्म (brahma) – Brahman
+एव (eva) – verily
+इदं (idaṃ) – this
+विश्वम् (viśvam) – the world
+इदं (idaṃ) – this(is)
+वरिष्ठम् (variṣṭham) – the Supreme
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+The statement, Brahman alone the light of lights is true and that all else is only its modification, a matter of speech is a mere name and falsehood first made and logically demonstrated at length (afterwards) is affirmed again as a conclusion by this mantra. That which is before us and which, in the eyes of the ignorant, appears to be not Brahman is certainly Brahman. Similarly what is behind us; so, that to the south; so, that to the north; so, that below, and that above and all that is extended everywhere in the form of effect, appearing otherwise than Brahman and possessed of name and form. Why say much? All this vast universe is Brahman certainly. All perception otherwise than as Brahman is mere ignorance, just as the perception of a serpent in a rope. The declaration of the Vedas is that the one Brahman alone is really true.
+
+॥ इति मुण्डकोपनिषदि द्वितीयमुण्डके द्वितीयः खण्डः ॥
+
+ || iti muṇḍakopaniṣadi dvitīyamuṇḍake dvitīyaḥ khaṇḍaḥ ||
+
+ Here ends the second part of the second Mundaka
+
+MUNDAKA 3.1.1
+Sanskrit
+द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते ।
+तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति ॥ १॥
+
+Transliteration
+dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pariṣasvajāte .
+tayoranyaḥ pippalaṃ svādvattyanaśnannanyo abhicākaśīti .. 1.. 3.1.1
+
+English
+dvaa suparnaa sayujaa sakhaayaa samaanam vriksham parishasvajaate .
+tayoranyah pippalam svaadvattyanashnannanyo abhichaakashiiti .. 1..
+
+Translation
+1 Two birds, united always and known by the same name, closely cling to the same tree. One of them eats the sweet fruit; the other looks on without eating.
+
+Word Meanings
+द्वौ (dvau) – two
+सुपर्णा (suparṇā) – birds
+सयुजा (sayujā) – closely united
+सखाया (sakhāyā) – in friendship
+समानं (samānaṃ) – the self-same
+वृक्षं (vṛkṣaṃ) – tree
+परिषस्वजाते (pariṣasvajāte) – perch on
+तयोः (tayoḥ) – among the two
+अन्यः (anyaḥ) – one
+पिप्पलं (pippalaṃ) – fruit
+स्वादु (svādu) – with relish
+अत्ति (atti) – eats
+अनश्नन् (anaśnan) – without eating
+अन्यः (anyaḥ) – the other
+अभिचाकशीति (abhicākaśīti) – (just) looks on
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—The Para vidya has been explained, by which the immortal ‘purusa’ or the Truth could be known, by whose knowledge the cause of Samsara, such as the knot of the heart, etc., can be totally destroyed. Yoga which is the means to the realization of the Brahman has also been explained by an illustration “taking the bow and the rest.” Now the subsequent portion is intended to inculcate the auxiliary helps to that yoga, as truth, etc. Chiefly, the truth is here determined by another mode, as it is extremely difficult to realize it. Here, though already done, a mantra (brief) as an aphorism is introduced for the purpose of ascertaining the absolute entity. Suparnau, two of good motion or two birds; (the “word Suparna” being used to denote birds generally); Sayujau inseparable, constant, companions; Sakhayau, bearing the same name or having the same cause of manifestation. Being thus, they are perched on the same tree (‘same,’ because the place where they could be perceived is identical). ‘Tree’ here means ‘body;’ because of the similitude in their liability to be cut or destroyed. Parishasvajate, embraced; just as birds go to the same tree for tasting the fruits. This tree as is well known has its root high up (i.e., in Brahman) and its branches (prana, etc..) downwards; it is transitory and has its source in Avyakta (maya). It is named Kshetra and in it bang the fruits of the karma of all living things. It is here that the Atman, conditioned in the subtle body to which ignorance, desire, karma and their unmanifested tendencies cling, and Isvara are perched like birds. Of these two so perched, one, i.e., kshetrajna occupying the subtle body eats, i.e., tastes from ignorance the fruits of karma marked as happiness and misery, palatable in many and diversified modes; the other, i.e., tbe lord, eternal, pure, intelligent and free in his nature, omniscient and conditioned by maya does not eat; for, lie is the director of both the eater and the thing eaten, by the fact of Ids mere existence as the eternal witness (of all); not tasting, he merely looks on; for, his mere witnessing is direction, as in the case of a king.
+
+MUNDAKA 3.1.2
+Sanskrit
+समाने वृक्षे पुरुषो निमग्नोऽनिशया शोचति मुह्यमानः ।
+जुष्टं यदा पश्यत्यन्यमीशमस्य
+महिमानमिति वीतशोकः ॥ २॥
+
+Transliteration
+samāne vṛkṣe puruṣo nimagno'niśayā śocati muhyamānaḥ .
+juṣṭaṃ yadā paśyatyanyamīśamasya
+mahimānamiti vītaśokaḥ .. 2.. 3.1.2
+
+English
+samaane vrikshe purusho nimagno'nishayaa shochati muhyamaanah .
+jushtam yadaa pashyatyanyamiishamasya
+mahimaanamiti viitashokah .. 2..
+
+Translation
+2 Seated on the same tree, the jiva moans, bewildered by his impotence. But when he beholds the other, the Lord worshipped by all and His glory, he then becomes free from grief.
+
+Word Meanings
+समाने (samāne) – in the same
+वृक्षे (vṛkṣe) – on the tree
+पुरुषः (puruṣaḥ) – puruṣa
+निमग्नः (nimagnaḥ) – is sunk in ignorance
+अनीशया (anīśayā) – by its impotence
+शोचति (śocati) – grieves
+मुह्यमानः (muhyamānaḥ) – being deluded
+जुष्टं (juṣṭaṃ) – the worshipful
+यदा (yadā) – when
+पश्यति (paśyati) – sees
+अन्यम् (anyam) – the other
+ईशम् (īśam) – the Lord
+अस्य (asya) – His
+महिमानम् (mahimānam) – glory
+इति (iti) – thus
+वीतशोकः (vītaśokaḥ) – free from dejection
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+In this state of things, the Jiva, i.e., the enjoyer occupying the body as above described, under the heavy load of ignorance, desire and thirst for the fruits of Karma, etc., sinks down like a bottle-gourd in the waters of the sea, is convinced beyond doubt that the body is the atman and thinking that he is the son of this man or the great-grandson of that, lean or stout, with or without good qualities, is enjoying or suffering, and that there is none but him, is born, dies, is united with and parted from relations and kinsmen; therefore, he grieves from helplessness thus: “I am good for nothing; I have lost my son; my wife is dead; what avails my life” and so forth and is subject to anxiety from ignorance owing to numerous kinds of troubles; but when thus constantly degenerating in births, of pretas, beasts, men and the like, he happens, owing to the result of pure deeds stored up in many (previous) births to be instructed in the path of Yoga by some preceptor surpassingly compassionate and being qualified by abstinence from giving pain, truth speaking, continence, complete renunciation and control over the internal and external senses and with his mind concentrated, finds by dint of meditation, the other who is approached by different paths of Yoga and by the followers of Karma distinct from him, conditioned in the body, not subject to the bondage of Samsara, unaffected by hunger, thirst, grief, ignorance, decay and death and lord over all the universe and thinks thus: “I am the atman, alike in all, seated in every living thing and not the other, the illusory atman, enclosed under conditions created by ignorance and this glory—this universe is mine, the lord of all,” then he becomes absolved from grief, i.e., is released entirely from the ocean of grief, i.e., his object is accomplished.
+
+MUNDAKA 3.1.3
+Sanskrit
+यदा पश्यः पश्यते रुक्मवर्णं
+कर्तारमीशं पुरुषं ब्रह्मयोनिम् ।
+तदा विद्वान् पुण्यपापे विधूय
+निरञ्जनः परमं साम्यमुपैति ॥ ३॥
+
+Transliteration
+yadā paśyaḥ paśyate rukmavarṇaṃ
+kartāramīśaṃ puruṣaṃ brahmayonim .
+tadā vidvān puṇyapāpe vidhūya
+nirañjanaḥ paramaṃ sāmyamupaiti .. 3.. 3.1.3
+
+English
+yadaa pashyah pashyate rukmavarnam
+kartaaramiisham purusham brahmayonim .
+tadaa vidvaan punyapaape vidhuuya
+niranjanah paramam saamyamupaiti .. 3..
+
+Translation
+3 When the seer beholds the self-luminous Creator, the Lord, the Purusha, the progenitor of Brahma, then he, the wise seer, shakes off good and evil, becomes stainless and reaches the supreme unity.
+
+Word Meanings
+यदा (yadā) – when
+पश्यः (paśyaḥ) – seer
+पश्यते (paśyate) – realises
+रुक्मवर्णं (rukmavarṇaṃ) – (lit. of the golden colour) self-effulgent
+कर्तारम् (kartāram) – the maker
+ईशं (īśaṃ) – the Lord, the ruler
+पुरुषं (puruṣaṃ) – the supreme Being
+ब्रह्मयोनिम् (brahmayonim) – (lit. progenitor of Brahmā) source of the Creator
+तदा (tadā) – then
+विद्वान् (vidvān) – the wise one
+पुण्यपापे (puṇyapāpe) – all deeds of merits and demerits
+विधूय (vidhūya) – shaking off
+निरञ्जनः (nirañjanaḥ) – stainless
+परमं (paramaṃ) – the Supreme
+साम्यम् (sāmyam) – state of equipoise
+उपैति (upaiti) – attains
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Another mantra also conveys the same meaning at length. Yada, when; Pasyaha, one who sees, i.e., a learned man, i.e., a man of practice. Rukmavamam, of self-resplendent nature, or, of imperishable brightness as that of gold. ‘Creator,’ of all the universe; ‘Brahmayonim’ the Brahman who is the source of the manifested Brahman. When he sees the Brahman thus, then the learned man shaking off, or burning away good and bad deeds, forming a bondage to their root and being unaffected, i.e., freed from grief, attains that supreme equality which is identity with the Brahman. The equality in matters involving duality is certainly inferior to this.
+
+MUNDAKA 3.1.4
+Sanskrit
+प्रणो ह्येष यः सर्वभूतैर्विभाति
+विजानन् विद्वान् भवते नातिवादी ।
+आत्मक्रीड आत्मरतिः क्रियावा-
+नेष ब्रह्मविदां वरिष्ठः ॥ ४॥
+
+Transliteration
+praṇo hyeṣa yaḥ sarvabhūtairvibhāti
+vijānan vidvān bhavate nātivādī .
+ātmakrīḍa ātmaratiḥ kriyāvā-
+neṣa brahmavidāṃ variṣṭhaḥ .. 4.. 3.1.4
+
+English
+prano hyesha yah sarvabhuutairvibhaati
+vijaanan vidvaan bhavate naativaadii .
+aatmakriida aatmaratih kriyaavaa-
+nesha brahmavidaam varishthah .. 4..
+
+Translation
+4 He indeed is Prana; He shines forth variously in all beings. The wise man who knows Him does not babble. Revelling in the Self, delighting in the Self, performing actions, he is the foremost among the knowers of Brahman.
+
+Word Meanings
+प्राणः (prāṇaḥ) – prāṇa
+हि (hi) – verily
+एषः (eṣaḥ) – this (Being)
+यः (yaḥ) – who
+सर्वभूतैः (sarvabhūtaiḥ) – all the beings
+विभाति (vibhāti) – illumining
+विजानन् (vijānan) – knowing well
+विद्वान् (vidvān) – the wise man
+भवते (bhavate) – becomes
+न (na) – does not
+(भवते ((bhavate) – becomes)
+अतिवादी (ativādī) – a vain blabbler
+आत्मक्रीडः (ātmakrīḍaḥ) – sporting in Self
+आत्मरतिः (ātmaratiḥ) – delighted in Self
+क्रियावान् (kriyāvān) – ever engaged in enjoined activities
+एषः (eṣaḥ) – this
+ब्रह्मविदां (brahmavidāṃ) – of those who know Brahman
+वरिष्ठः (variṣṭhaḥ) – the best
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Again this Isvara is the prana of prana. This, now treated of. ‘All living things,’ from the Brahman down to the worm. The instrumental case in “Sarvabhutaih” has the force of “thus become.” The meaning is ‘existing in all living things, i.e., the atman of all.’ Vibhati, shines variously. The man of knowledge who directly realises Him who is in all things as his own Atman and thinks “I am he” does not become an ativadin. merely by the knowledge of the import of the mahavakya. Ativadi, means one whose nature is to talk of all other things more, when he sees that all is the Atman and nothing else exists; how then could he talk of anything else. It is only where one sees anything else, he could well talk of that; but this man of knowledge sees, hears and knows none other than the Atman; so. he is not a talker of anything else. Again, he is an atmakridah, i.e., one whose sport is within his own Atman and not elsewhere, such as son. wife, etc. Similarly, he is atmaratih, i.e., one who delights or revels in his own Atman. The term krida or play requires some external help. But delight or revelling does not require any external help but indicates merely the attachment to an external object. This is the distinction. Similarly, kriyavan, i.e., one whose activity consists in knowledge, meditation, freedom from desire, etc. But if the reading he “atmaratikriyavan” (a compound) the meaning is he whose activity is mere delight in man; as between the Bahuvrihi and the “matup” ending, one is sufficient without the other; but some contend that the single compound, denotes a combination of both karma, i.e., Agnihotra and the rest, and the knowledge of Brahman. It is not possible for one to he playing with external objects and at the same time to he delighted in self. It is only the man who has turned away from external activity that becomes delighted in self; for, external activity and delighted in itself are opposed to each other; for, it is not possible that darkness and light could exist in the same place. Therefore, the statement that a combination of karma and knowledge is inculcated by this text is certainly the prattle of the ignorant. This also follows from the Srutis “Leave off from all other speech” and “by renunciation of Karma, etc.” Therefore, he alone is “kriyavan” whose activity consists in knowledge, meditation, etc., and who is a Sanyasin not transgressing the limits of prohibitory injunctions. Such a man as is not an ativadin, as sports in his own self, as delights in himself and as is a Kriyavan (whose activity is aforesaid) is the first among all the knowers of Brahman.
+
+MUNDAKA 3.1.5
+Sanskrit
+सत्येन लभ्यस्तपसा ह्येष आत्मा
+सम्यग्ज्ञानेन ब्रह्मचर्येण नित्यम् ।
+अन्तःशरीरे ज्योतिर्मयो हि शुभ्रो
+यं पश्यन्ति यतयः क्षीणदोषाः ॥ ५॥
+
+Transliteration
+satyena labhyastapasā hyeṣa ātmā
+samyagjñānena brahmacaryeṇa nityam .
+antaḥśarīre jyotirmayo hi śubhro
+yaṃ paśyanti yatayaḥ kṣīṇadoṣāḥ .. 5.. 3.1.5
+
+English
+satyena labhyastapasaa hyesha aatmaa
+samyagjnaanena brahmacharyena nityam .
+antahshariire jyotirmayo hi shubhro
+yam pashyanti yatayah kshiinadoshaah .. 5..
+
+Translation
+5 This Atman, resplendent and pure, whom the sinless sannyasins behold residing within the body, is attained by unceasing practice of truthfulness, austerity, right knowledge and continence
+
+Word Meanings
+सत्येन (satyena) – by veracity (truth)
+लभ्यः (labhyaḥ) – is attained
+तपसा (tapasā) – by concentration
+हि (hi) – verily
+एषः (eṣaḥ) – this
+आत्मा (ātmā) – Ᾱtman (Self)
+सम्यक्-ज्ञानेन (samyak-jñānena) – by wisdom
+ब्रह्मचर्येण (brahmacaryeṇa) – by self-control, continence
+नित्यम् (nityam) – constantly
+अन्तःशरीरः (antaḥśarīraḥ) – within the body (or mind)
+हिः (hiḥ) – verily
+शुभ्रः (śubhraḥ) – stainless
+यं (yaṃ) – whom
+पश्यन्ति (paśyanti) – see (behold)
+यतयः (yatayaḥ) – ascetics
+क्षीणदोषाः (kṣīṇadoṣāḥ) – who are purified, sinless
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Now truth and the rest chiefly characterized by restraint are enjoined upon a bhikshu, i.e., mendicant, as auxiliary aids with sound knowledge; he should be attained by truth, i.e., by abstaining from falsehood; as also by tapas, i.e., by concentration of the senses and the mind, which is declared to be the highest tapas; for, it is this which is of greatest help, as it is turned towards beholding the Atman, not the other forms of tapas, such as the performance of the chandrayana (a penance), etc. “This Atman should he attained” should be read into every clause. ‘By good knowledge’, by beholding the Atman as it really is. ‘By Brahmacharya,’ by abstinence from sexual pleasure. Nityam, always. The word “always” should be read with every one of the words ‘truth,’ ‘tapas,’ etc. Just as a lamp within a building illumines every part of it, it will be said, later on, that they seethe Atman in whom there is neither deceit, nor falsehood, nor cunning. Who this Atman is that should be attained by these aids is explained. ‘Within the body,’ in the midst of the body, i.e., in the akas of the lotus of the heart. ‘Resplendent’, of golden hue. Subhra, pure. The yatayah, i.e., those who are habitually seeking, i.e., the Sanyasins, ‘their faults removed,’ i.e., devoid of all taint of mind such as anger, etc., find this atman. The drift is that the atman is attained, by Sanyasins with these aids as truth, etc., constantly practised and cannot be attained by them occasionally practised. This text is a eulogy of such aids as truth, etc.
+
+MUNDAKA 3.1.6
+Sanskrit
+सत्यमेव जयते नानृतं
+सत्येन पन्था विततो देवयानः ।
+येनाऽऽक्रमन्त्यृषयो ह्याप्तकामा
+यत्र तत् सत्यस्य परमं निधानम् ॥ ६॥
+
+Transliteration
+satyameva jayate nānṛtaṃ
+satyena panthā vitato devayānaḥ .
+yenā''kramantyṛṣayo hyāptakāmā
+yatra tat satyasya paramaṃ nidhānam .. 6.. 3.1.6
+
+English
+satyameva jayate naanritam
+satyena panthaa vitato devayaanah .
+yenaa''kramantyrishayo hyaaptakaamaa
+yatra tat satyasya paramam nidhaanam .. 6..
+
+Translation
+6 Truth alone prevails, not falsehood. By truth the path is laid out, the Way of the Gods, on which the seers, whose every desire is satisfied, proceed to the Highest Abode of the True.
+
+Word Meanings
+सत्यम् (satyam) – truth
+एव (eva) – alone
+जयति (jayati) – wins
+न (na) – not
+अनृतं (anṛtaṃ) – untruth
+सत्येन (satyena) – by truth
+पन्थाः (panthāḥ) – path
+विततः (vitataḥ) – is laid out
+देवयानः (devayānaḥ) – the divine
+येन (yena) – by which
+आक्रमन्ति (ākramanti) – ascend
+ऋषयः (ṛṣayaḥ) – the seers (ṛṣis)
+हि (hi) – verily
+आप्तकामा (āptakāmā) – those who have fulfilled all their desires
+यत्र (yatra) – where
+तत् (tat) – that
+सत्यस्य (satyasya) – of truth
+परमं (paramaṃ) – supreme
+निधानम् (nidhānam) – abode
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Truth alone, i.e., he who speaks the truth alone, wins; not he who utters falsehood, for there can be neither victory nor defeat between abstract truth and falsehood where they do not cling to men. It is well known in the world that he who utters falsehood is defeated by him who speaks the truth; not the converse. Therefore, it is established that truth is a strong auxiliary; again, the superiority of truth as an aid is also known from the sastras; how? It is only by truth, i.e., by a determination to speak what had occurred, the road named “Devayanah” (the way of the gods) is widened; i.e., is kept up continually; by which road, seers free from deceit, delusion, fraud, pride, vanity and falsehood and having no desires, go about to where the absolute truth, the highest treasure covetable by man and attainable by the important aid, truth, exists. The expression “where the greatest, etc.,” is connected with the preceding clause “the road by which they go is widened by truth.” What that is and what its characteristics are, will be explained.
+
+MUNDAKA 3.1.7
+Sanskrit
+बृहच्च तद् दिव्यमचिन्त्यरूपं
+सूक्ष्माच्च तत् सूक्ष्मतरं विभाति ।
+दूरात् सुदूरे तदिहान्तिके च
+पश्यन्त्विहैव निहितं गुहायाम् ॥ ७॥
+
+Transliteration
+bṛhacca tad divyamacintyarūpaṃ
+sūkṣmācca tat sūkṣmataraṃ vibhāti .
+dūrāt sudūre tadihāntike ca
+paśyantvihaiva nihitaṃ guhāyām .. 7.. 3.1.7
+
+English
+brihaccha tad divyamachintyaruupam
+suukshmaaccha tat suukshmataram vibhaati .
+duuraat suduure tadihaantike cha
+pashyantvihaiva nihitam guhaayaam .. 7..
+
+Translation
+7 That Brahman shines forth, vast, self-luminous, inconceivable, subtler than the subtle. He is far beyond what is far and yet here very near at hand. Verily, He is seen here, dwelling in the cave of the heart of conscious beings.
+
+Word Meanings
+बृहत् (bṛhat) – vast
+च (ca) – and
+तत् (tat) – that (the truth of Brahman)
+दिव्यम् (divyam) – effulgent, divine
+अचिन्त्यरूपं (acintyarūpaṃ) – beyond all imaginations
+सूक्ष्मात् (sūkṣmāt) – than the subtlest
+च (ca) – also
+तत् (tat) – that
+सूक्ष्मतरं (sūkṣmataraṃ) – subtler
+विभाति (vibhāti) – shines
+दूरात् (dūrāt) – than the farthest
+सुदूरे (sudūre) – farther
+तत् (tat) – that
+इह (iha) – here (in this body)
+अन्तिके (antike) – within
+च (ca) – and
+पश्यत्सु (paśyatsu) – to those who realise
+इह (iha) – here (in this life)
+एव (eva) – verily
+निहितं (nihitaṃ) – fixed, seated
+गुहायाम् (guhāyām) – in the cave of the heart
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—The Brahman now treated of and attainable by truth, etc., is vast, because it is all-pervading; ‘heavenly,’ self-luminous and imperceivable by the senses. Therefore alone, is it that its form is unthinkable; it is subtler than even the subtle, such as the akas and the rest; for, being the cause of all, it is of unsurpassing subtlety. Vibhati, shines diversely, i.e., in various forms such as that of the sun, the moon, etc. Again it is farther, even from the most distant places; for, the Brahman cannot be in the least approached by the ignorant. It is also near, i.e., in the body itself; because, it is the atman of those who know and because it is within all, from the Sruti which declares it to be even within the akcas. ‘In those who see,’ among the intelligent men. ‘Fixed,’ seated, i.e., seen by yogis, as possessed of the activity of seeing, etc. Where? in the cavity, i.e., in the intellect; for, it is seen as lodged there by those who know; still, though lodged there, it is not seen by the ignorant, as it is veiled by ignorance.
+
+MUNDAKA 3.1.8
+Sanskrit
+न चक्षुषा गृह्यते नापि वाचा
+नान्यैर्देवैस्तपसा कर्मण वा ।
+ज्ञानप्रसादेन विशुद्धसत्त्व-
+स्ततस्तु तं पश्यते निष्कलं
+ध्यायमानः ॥ ८॥
+
+Transliteration
+na cakṣuṣā gṛhyate nāpi vācā
+nānyairdevaistapasā karmaṇa vā .
+jñānaprasādena viśuddhasattva-
+statastu taṃ paśyate niṣkalaṃ
+dhyāyamānaḥ .. 8.. 3.1.8
+
+English
+na chakshushaa grihyate naapi vaachaa
+naanyairdevaistapasaa karmana vaa .
+jnaanaprasaadena vishuddhasattva-
+statastu tam pashyate nishkalam
+dhyaayamaanah .. 8..
+
+Translation
+8 Brahman is not grasped by the eye, nor by speech, nor by the other senses, nor by penance or good works. A man becomes pure through serenity of intellect; thereupon, in meditation, he beholds Him who is without parts.
+
+Word Meanings
+न (na) – neither
+चक्षुषा (cakṣuṣā) – by the eyes
+गृह्यते (gṛhyate) – perceived
+न अपि (na api) – nor even
+वाचा (vācā) – (described) by words
+न (na) – neither
+अन्यैः (anyaiḥ) – (by) others
+देवैः (devaiḥ) – by the senses
+तपसा (tapasā) – by penances
+कर्मणा (karmaṇā) – by rituals
+वा (vā) – either
+ज्ञानप्रसादेन (jñānaprasādena) – by understanding
+विशुद्धसत्त्वः (viśuddhasattvaḥ) – becomes calm and refined
+ततः (tataḥ) – then
+तु (tu) – alone
+तं (taṃ) – Him
+पश्यते (paśyate) – sees (realises)
+निष्कलं (niṣkalaṃ) – the Absolute (lit. without parts)
+ध्यायमानः (dhyāyamānaḥ) – in meditation
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Again, a special aid to the attainment of Brahman is explained. It is not seen by the eye of anybody, because it has no form; nor is it grasped by speech, because it cannot be the subject of words; nor by the other senses. Though tapas is an aid to the attainment of all, the Brahman cannot be reached by Karma enjoined by the Vedas, such as agnihotra and the rest though their greatness is well known. What, then, is the means by which it could be grasped is explained. Gnana prasadena, though the intellect in all men is by nature competent to know the Atman, still being polluted by such faults, as love for external objects, etc., and hence unclear and impure, it does not, like a stained mirror and muddy water, grasp the entity of the Atman though always near; but when, by removal of the polluting taint, such as desire, etc., produced by contact with the objects of the senses, it is made clear and calm like mirror and water, then the intellect becomes clear; by this clearness of the intellect the mind is purified and the man becomes competent to realize the Brahman. Therefore, he sees the Atman which has no parts, by meditation, having recourse to such helps such as truth, etc., having controlled his senses and with a concentrated mind.
+
+MUNDAKA 3.1.9
+Sanskrit
+एषोऽणुरात्मा चेतसा वेदितव्यो
+यस्मिन् प्राणः पञ्चधा संविवेश ।
+प्राणैश्चित्तं सर्वमोतं प्रजानां
+यस्मिन् विशुद्धे विभवत्येष आत्मा ॥ ९॥
+
+Transliteration
+eṣo'ṇurātmā cetasā veditavyo
+yasmin prāṇaḥ pañcadhā saṃviveśa .
+prāṇaiścittaṃ sarvamotaṃ prajānāṃ
+yasmin viśuddhe vibhavatyeṣa ātmā .. 9.. 3.1.9
+
+English
+esho'nuraatmaa chetasaa veditavyo
+yasmin praanah panchadhaa samvivesha .
+praanaishchittam sarvamotam prajaanaam
+yasmin vishuddhe vibhavatyesha aatmaa .. 9..
+
+Translation
+9 That subtle Atman is to be known by the intellect here in the body where the prana has entered fivefold. By Atman the intellects of men are pervaded, together with the senses. When the intellect is purified, Atman shines forth.
+
+Word Meanings
+एषः (eṣaḥ) – this
+अणुः (aṇuḥ) – subtle
+आत्मा (ātmā) – Ᾱtman
+चेतसा (cetasā) – by mind (light of the intellect)
+यस्मिन् (yasmin) – in which (body)
+प्राणः (prāṇaḥ) – prāṇa (life force)
+पञ्चधा (pañcadhā) – five- fold
+संविवेश (saṃviveśa) – has entered (is pervading)
+प्राणैः (prāṇaiḥ) – by prāṇas (the senses)
+चित्तं (cittaṃ) – mind
+सर्वम (sarvama) – all
+ओतं (otaṃ) – is interwoven
+प्रजानां (prajānāṃ) – to the men
+यस्मिन् (yasmin) – in which
+विशुद्धे (viśuddhe) – when purified
+विभवति (vibhavati) – shines
+एषः (eṣaḥ) – this
+आत्मा (ātmā) – Ᾱtman
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+This Atman, who is thus seen, is subtle and should be known by the mind, i.e., by the mere intellect purified. Where is this Atman? In the body which, prana in five different forms, has well entered. The meaning is; he should be known by the mind as existing in the body, i.e., in the heart; by mind, how circumstanced should he be known, is explained; mind in all creatures is pervaded by the pranas and the senses, as milk by oil, and fuel by fire. The mind in all living beings is well known in the world, to be possessed of intelligence; when the mind is purified, i.e., freed from the taint of grief, etc., then this Atman above-defined shines out, shows itself out, by itself.
+
+MUNDAKA 3.1.10
+Sanskrit
+यं यं लोकं मनसा संविभाति
+विशुद्धसत्त्वः कामयते यांश्च कामान् ।
+तं तं लोकं जयते तांश्च कामां-
+स्तस्मादात्मज्ञं ह्यर्चयेत् भूतिकामः ॥ १०॥
+॥ इति मुण्डकोपनिषदि तृतीयमुण्डके प्रथमः खण्डः ॥
+
+Transliteration
+yaṃ yaṃ lokaṃ manasā saṃvibhāti
+viśuddhasattvaḥ kāmayate yāṃśca kāmān .
+taṃ taṃ lokaṃ jayate tāṃśca kāmāṃ-
+stasmādātmajñaṃ hyarcayet bhūtikāmaḥ .. 10..
+.. iti muṇḍakopaniṣadi tṛtīyamuṇḍake prathamaḥ khaṇḍaḥ .. 3.1.10
+
+English
+yam yam lokam manasaa samvibhaati
+vishuddhasattvah kaamayate yaamshcha kaamaan .
+tam tam lokam jayate taamshcha kaamaam-
+stasmaadaatmajnam hyarchayet bhuutikaamah .. 10..
+.. iti mundakopanishadi tritiiyamundake prathamah khandah ..
+
+Translation
+10 Whatever world a man of pure understanding envisages in his mind and whatever desires he cherishes, that world he conquers and those desires he obtains, Therefore let everyone who wants prosperity worship the man who knows the Self.
+
+Word Meanings
+यं यं (yaṃ yaṃ) –whichever
+लोकं (lokaṃ) – world
+मनसा (manasā) – by the mind
+संविभाति (saṃvibhāti) – concentrates
+विशुद्धसत्त्वः (viśuddhasattvaḥ) – man of purified nature
+कामयते (kāmayate) – desires to have
+याम् (yām) – which
+च (ca) – and
+कामान् (kāmān) – objects of desire
+तं तं (taṃ taṃ) – those
+लोकं (lokaṃ) – worlds
+जयते (jayate) – wins, obtains
+तान् (tān) – those
+च (ca) – and
+कामान् (kāmān) – desires
+तस्मात् (tasmāt) – therefore
+आत्मज्ञं (ātmajñaṃ) – Man of Self-realisation
+हि (hi) – verily
+अर्चयेत् (arcayet) – should honour
+भूतिकामः (bhūtikāmaḥ) – who is desirous of prosperity
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+This text explains that the man who identifies the atman of all with his own, obtains as the fruits thereof, all that he longs for; because of the fact that he is the Atman of all. Whatever worlds, i.e., such as those of the manes and the rest, he covets either himself, or for others, or whatever enjoyments he wishes for the man of pure mind who is free from all grief and who knows the Atman, he obtains those worlds and those enjoyments. Therefore, i.e., because the wishes of the knower of the Atman are always realised; let one who longs for vibhutis propitiate the knower of the Atman, whose mind is purified by such knowledge, by cleaning his feet with water, personal service, prostration and the rest; therefore, he is worthy of worship.
+
+  
+ ॥ इति मुण्डकोपनिषदि तृतीयमुण्डके प्रथमः खण्डः ॥
+ || iti muṇḍakopaniṣadi tṛtīyamuṇḍake prathamaḥ khaṇḍaḥ ||
+
+MUNDAKA 3.2.1
+Sanskrit
+स वेदैतत् परमं ब्रह्म धाम
+यत्र विश्वं निहितं भाति शुभ्रम् ।
+उपासते पुरुषं ये ह्यकामास्ते
+शुक्रमेतदतिवर्तन्ति धीराः ॥ १॥
+
+Transliteration
+sa vedaitat paramaṃ brahma dhāma
+yatra viśvaṃ nihitaṃ bhāti śubhram .
+upāsate puruṣaṃ ye hyakāmāste
+śukrametadativartanti dhīrāḥ .. 1.. 3.2.1
+
+English
+sa vedaitat paramam brahma dhaama
+yatra vishvam nihitam bhaati shubhram .
+upaasate purusham ye hyakaamaaste
+shukrametadativartanti dhiiraah .. 1..
+
+Translation
+1 He, the Knower of the Self, knows that Supreme Abode of Brahman, which shines brightly and in which the universe rests. Those wise men who, free from desires, worship such a person transcend the seed of birth.
+
+Word Meanings
+सः (saḥ) – he (the Man of Self-realisation)
+वेद (veda) – knows
+एतत् (etat) – this
+परमं (paramaṃ) – the supreme
+ब्रह्म (brahma) – the Brahman
+धाम (dhāma) – abode
+यत्र (yatra) – on which
+विश्वं (viśvaṃ) – the world
+निहितं (nihitaṃ) – laid
+भाति (bhāti) – shines
+शुभ्रम् (śubhram) – pure, radiant
+उपासते (upāsate) – serve, worship
+पुरुषं (puruṣaṃ) – that man of discrimination
+ये (ye) – those who
+हि (hi) – verily
+अकामाः (akāmāḥ) – without any desire
+ते (te) – they
+शुक्रम् (śukram) – the seed (i.e. the human birth)
+एतत् (etat) – this
+अतिवर्तन्ति (ativartanti) – go beyond
+धीराः (dhīrāḥ) – the wise men, men of discrimination
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+As he knows the Brahman above defined, the highest of all, the place where all desires rest, where all the universe rests and which shines purely by its own light, the intelligent, who free from yearning for vibhuti and with a desire for emancipation, worship even this man as the highest, travel beyond this seed, i.e., the material cause of embodied existence, i.e., are never born again of the womb, according to the Sruti, ‘He does not like any abode.’ The meaning is that one should worship such a knower.
+
+MUNDAKA 3.2.2
+Sanskrit
+कामान् यः कामयते मन्यमानः
+स कामभिर्जायते तत्र तत्र ।
+पर्याप्तकामस्य कृतात्मनस्तु
+इहैव सर्वे प्रविलीयन्ति कामाः ॥ २॥
+
+Transliteration
+kāmān yaḥ kāmayate manyamānaḥ
+sa kāmabhirjāyate tatra tatra .
+paryāptakāmasya kṛtātmanastu
+ihaiva sarve pravilīyanti kāmāḥ .. 2.. 3.2.2
+
+English
+kaamaan yah kaamayate manyamaanah
+sa kaamabhirjaayate tatra tatra .
+paryaaptakaamasya kritaatmanastu
+ihaiva sarve praviliiyanti kaamaah .. 2..
+
+Translation
+2 He who, cherishing objects, desires them, is born again here or there through his desires, But for him whose desires are satisfied and who is established in the Self, all desires vanish even here on earth.
+
+Word Meanings
+कामान् (kāmān) – objects of desires
+यः (yaḥ) – he who
+कामयते (kāmayate) – desires (wants)
+मन्यमानः (manyamānaḥ) – brooding over
+सः (saḥ) –– he
+कामभिः (kāmabhiḥ) – by those desires (meaning for their satisfaction)
+जायते (jāyate) – born
+तत्र तत्र (tatra tatra) – here and there
+पर्याप्तकामस्य (paryāptakāmasya) – whose longings have found consummation (in the Ᾱtman)
+कृतात्मनः (kṛtātmanaḥ) – who have realised the Self
+तु (tu) – but
+इह (iha) – here
+एव (eva) – even
+सर्वे (sarve) – all
+प्रविलीयन्ति (pravilīyanti) – vanishes
+कामाः (kāmāḥ) – all desires
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—This text shows that the primary help to him who is desirous of emancipation is the renunciation of all desire. He who covets visible or invisible objects of desire, brooding on their virtues is born again and again with those desires of external objects which are incentive to the performance of good and bad deeds. Wherever his desires direct him to perform karma for the realisation of their objects, he is born with those self-same desires in those objects. But of him who from a sound knowledge of the absolute truth has all his desires fulfilled, because the Atman is the object of his desire and whose Atman through knowledge has been made to assume its highest, i.e., true form by the removal of the lower form imposed on it by ignorance, all desires impelling him to do meritorious and sinful deeds are destroyed even while his body lasts. The drift is that desires do not spring up, because the causes of their rising are destroyed.
+
+MUNDAKA 3.2.3
+Sanskrit
+नायमात्मा प्रवचनेन लभ्यो
+न मेधया न बहुना श्रुतेन ।
+यमेवैष वृणुते तेन लभ्य-
+स्तस्यैष आत्मा विवृणुते तनूं स्वाम् ॥ ३॥
+
+Transliteration
+nāyamātmā pravacanena labhyo
+na medhayā na bahunā śrutena .
+yamevaiṣa vṛṇute tena labhya-
+stasyaiṣa ātmā vivṛṇute tanūṃ svām .. 3.. 3.2.3
+
+English
+naayamaatmaa pravachanena labhyo
+na medhayaa na bahunaa shrutena .
+yamevaisha vrinute tena labhya-
+stasyaisha aatmaa vivrinute tanuum svaam .. 3..
+
+Translation
+3 This Atman cannot be attained through study of the Vedas, nor through intelligence, nor through much learning. He who chooses Atman-by him alone is Atman attained. It is Atman that reveals to the seeker Its true nature.
+
+Word Meanings
+न (na) – not
+अयम् (ayam) – this
+आत्मा (ātmā) – Ᾱtman
+प्रवचनेन (pravacanena) – by discourses
+लभ्यः (labhyaḥ) – is attained
+न (na) – not
+मेधया (medhayā) – by intellect, knowledge
+न (na) – not
+बहुना (bahunā) – much
+श्रुतेन (śrutena) – hearing (meaning by learning)
+यम् (yam) – whom (which Ᾱtman)
+एव (eva) – alone
+एषः (eṣaḥ) – this (the aspirant)
+वृणुते (vṛṇute) – wishes to attain it with the whole heart
+तेन (tena) – by him
+लभ्यः (labhyaḥ) – is attained
+तस्य (tasya) – to him
+एषः (eṣaḥ) – this
+आत्मा (ātmā) – Ᾱtman
+विवृणुते (vivṛṇute) – reveals
+तनुं (tanuṃ) – true nature
+स्वाम् (svām |) – of its own
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—If thus the realisation of the atman is the greatest gain of all, it may be thought that means such as study, etc., should be largely employed for its attainment. This text is intended to dispel that notion. This atman which has been explained and whose realisation is the highest object of human desire cannot be attained by means of much study of the Vedas and the Sastras. Similarly not by intelligence, i.e., by a retentive memory of the purport of writings; nor by much heard, i.e., by much hearing. By what then could the Atman be attained is explained. The Paramatman whom this knower wishes to attain, by that seeking alone can that Brahman be attained; not by any other means, because his nature is always attained. What is the nature of this knower’s attainment of the Atman is explained. As pot, etc., reveals its form where there is light, so does the Atman concealed by ignorance reveal his true nature when there is knowledge. The drift is the wish for the realisation of the Atman after renouncing all others is alone the means to the attainment of the Atman.
+
+MUNDAKA 3.2.4
+Sanskrit
+नायमात्मा बलहीनेन लभ्यो
+न च प्रमादात् तपसो वाप्यलिङ्गात् ।
+एतैरुपायैर्यतते यस्तु विद्वां-
+स्तस्यैष आत्मा विशते ब्रह्मधाम ॥ ४॥
+
+Transliteration
+nāyamātmā balahīnena labhyo
+na ca pramādāt tapaso vāpyaliṅgāt .
+etairupāyairyatate yastu vidvāṃ-
+stasyaiṣa ātmā viśate brahmadhāma .. 4.. 3.2.4
+
+English
+naayamaatmaa balahiinena labhyo
+na cha pramaadaat tapaso vaapyalingaat .
+etairupaayairyatate yastu vidvaam-
+stasyaisha aatmaa vishate brahmadhaama .. 4..
+
+Translation
+4 This Atman cannot be attained by one who is without strength or earnestness or who is without knowledge accompanied by renunciation. But if a wise man strives by means of these aids, his soul enters the Abode of Brahman.
+
+Word Meanings
+() – not
+अयम् (ayam) – this
+आत्मा (ātmā) – Ᾱtman
+बलहीनेन (balahīnena) – by the weak (in spirit)
+लभ्यः (labhyaḥ) – is attained
+न (na) – nor
+च (ca) – and
+प्रमादात् (pramādāt) – insincerity, carelessness
+तपसः (tapasaḥ) – from penances, austerities
+वा (vā) – or
+अपि (api) – and
+अलिङ्गात् (aliṅgāt) – (lit. without proper sign) improper, unintelligent
+एतैः (etaiḥ) – by these
+उपायैः (upāyaiḥ) – practices, means
+यतते (yatate) – strives
+यः (yaḥ) – who
+तु (tu) – but
+विद्वान् (vidvān) – wise man
+तस्य (tasya) – to him
+एषः (eṣaḥ) – this
+आत्मा (ātmā) – Ᾱtman
+विशते (viśate) – attains
+ब्रह्मधाम (brahmadhāma) – the State of Brahman
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Combined with the wish to realise the Atman, strength, absence of excitement, and knowledge coupled with Sanyasa are helps; because this Atman cannot be attained by one devoid of strength produced by concentration on the Atman or by excitement caused by associating with objects of the world, as son, cattle and the rest, or by tapas devoid of linga. ‘Tapas’ here means ‘knowledge.’ “Linga,” means “Sanyasa.” The meaning is that the Atman cannot be attained by knowledge without Sanyasa. But of the knower who, with these aids, strength, absence of excitement, Sanyasa and knowledge—strives intent after the Atman, the Atman enters its abode, the Brahman.
+
+MUNDAKA 3.2.5
+Sanskrit
+सम्प्राप्यैनमृषयो ज्ञानतृप्ताः
+कृतात्मानो वीतरागाः प्रशान्ताः
+ते सर्वगं सर्वतः प्राप्य धीरा
+युक्तात्मानः सर्वमेवाविशन्ति ॥ ५॥
+
+Transliteration
+samprāpyainamṛṣayo jñānatṛptāḥ
+kṛtātmāno vītarāgāḥ praśāntāḥ
+te sarvagaṃ sarvataḥ prāpya dhīrā
+yuktātmānaḥ sarvamevāviśanti .. 5.. 3.2.5
+
+English
+sampraapyainamrishayo jnaanatriptaah
+kritaatmaano viitaraagaah prashaantaah
+te sarvagam sarvatah praapya dhiiraa
+yuktaatmaanah sarvamevaavishanti .. 5..
+
+Translation
+5 Having realized Atman, the seers become satisfied with that Knowledge. Their souls are established in the Supreme Self, they are free from passions and they are tranquil in mind. Such calm souls ever devoted to the Self, behold everywhere the omnipresent Brahman and in the end enter into It, which is all this.
+
+Word Meanings
+संप्राप्य (saṃprāpya) – having attained
+एनम् (enam) – this (the Self)
+ऋषयः (ṛṣayaḥ) – sages
+ज्ञानतृप्ताः (jñānatṛptāḥ) – satisfied with knowledge (and not left with longing for anything else)
+कृतात्मानः (kṛtātmānaḥ) – with their purposes fulfilled
+वीतरागाः (vītarāgāḥ) – free from attachment
+प्रशान्ताः (praśāntāḥ) – peaceful
+ते (te) – they
+सर्वगं (sarvagaṃ) – all-pervading
+सर्वतः (sarvataḥ) – everywhere
+प्राप्य (prāpya) – having attained
+धीरा (dhīrā) – the wise
+युक्तात्मानः (yuktātmānaḥ) – devoted to the Self
+सर्वम् (sarvam) – all
+एव (eva) – alone
+आविशन्ति (āviśanti) – enter into
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—How they enter into Brahman is explained. Having known him well, the seers content with that knowledge and not by any external means of delight tending to the growth of their body, their Atman having become one with the Paramatman, free from the fault of desire, etc., their senses subdued, having attained him all pervading like the akas on all sides, i.e., not in any particular place limited by conditions (what then do they attain? The Brahman itself, one and without a second as their own Atman), being discerning and with concentrated minds enter into everything when their body falls, i.e., cast off all limitations imposed by ignorance, as the akas in the pot when the pot is broken. Thus do the Knowers of Brahman enter into Brahman abode.
+
+MUNDAKA 3.2.6
+Sanskrit
+वेदान्तविज्ञानसुनिश्चितार्थाः
+संन्यासयोगाद् यतयः शुद्धसत्त्वाः ।
+ते ब्रह्मलोकेषु परान्तकाले
+परामृताः परिमुच्यन्ति सर्वे ॥ ६॥
+
+Transliteration
+vedāntavijñānasuniścitārthāḥ
+saṃnyāsayogād yatayaḥ śuddhasattvāḥ .
+te brahmalokeṣu parāntakāle
+parāmṛtāḥ parimucyanti sarve .. 6.. 3.2.6
+
+English
+vedaantavijnaanasunishchitaarthaah
+samnyaasayogaad yatayah shuddhasattvaah .
+te brahmalokeshu paraantakaale
+paraamritaah parimuchyanti sarve .. 6..
+
+Translation
+6 Having well ascertained the Self, the goal of the Vedantic knowledge and having purified their minds through the practice of sannyasa, the seers, never relaxing their efforts, enjoy here supreme Immortality and at the time of the great end attain complete freedom in Brahman.
+
+Word Meanings
+वेदान्तविज्ञान (vedāntavijñāna) – knowledge of Upaniṣads
+सुनिश्चितार्थाः (suniścitārthāḥ) – having well ascertained
+संन्यासयोगात् (saṃnyāsayogāt) – with the yoga of renunciation
+यतयः (yatayaḥ) – all anchorites, renunciates, sages
+शुद्धसत्त्वाः (śuddhasattvāḥ) – purified
+ते (te) – they
+ब्रह्मलोकेषु (brahmalokeṣu) – in the world of Brahman
+परान्तकाले (parāntakāle) – at the time of death
+परामृताः (parāmṛtāḥ) – having attained immortality
+परिमुच्यन्ति (parimucyanti) – liberated
+सर्वे (sarve) – all
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Having without doubt determined the object of the knowledge of Vedanta, i.e., that Brahman should be known, the seekers, their minds purified by dint of renunciation of all karma and by being centred in the pure Brahman, attain the worlds of the Brahman at the end of samsara, which for the seekers after emancipation corresponds to the time of death of those rotating in samsara. As men who seek emancipation are many, the world of Brahman, though one, appears to be many or is reached as many; so, the plural number ‘worlds of the Brahman’ is used. Brahman being the world reached, the expression ‘in the worlds of the Brahman’ means ‘in Brahman.’ Paramritah, they whose atman has become the highest immortal, i.e., Brahman. They become the highest and immortal Brahman, even during life and are absolved in all sides like a lamp that has gone out and like the akas in the pot, i.e., they have no need of any other place to go to; for, the Sruti and the Smriti say “as the footmark of birds in the air and that of aquatic animals in water are not seen, so the track of the knowing men” and they go by no road, who would reach the ends of the roads of samsara. Motion limited by place is only in samsara, because it is accomplished by means limited; but as the Brahman is all, it cannot be reached in a limited space; if the Brahman were limited in respect of place, it would like a substance having form, have a beginning and an end, be dependent on another, composed of parts, non-eternal and be a product. But the Brahman cannot be like that; so, its attainment too, cannot be limited by conditions of place.
+
+MUNDAKA 3.2.7
+Sanskrit
+गताः कलाः पञ्चदश प्रतिष्ठा
+देवाश्च सर्वे प्रतिदेवतासु ।
+कर्माणि विज्ञानमयश्च आत्मा
+परेऽव्यये सर्वे एकीभवन्ति ॥ ७॥
+
+Transliteration
+gatāḥ kalāḥ pañcadaśa pratiṣṭhā
+devāśca sarve pratidevatāsu .
+karmāṇi vijñānamayaśca ātmā
+pare'vyaye sarve ekībhavanti .. 7.. 3.2.7
+
+English
+gataah kalaah panchadasha pratishthaa
+devaashcha sarve pratidevataasu .
+karmaani vijnaanamayashcha aatmaa
+pare'vyaye sarve ekiibhavanti .. 7..
+
+Translation
+7 The fifteen parts go back to their causes and all the senses to their deities; the actions and the Atman reflected in the buddhi, become one with the highest imperishable Brahman, which is the Self of all.
+
+Word Meanings
+गताः (gatāḥ) – gone away or enter into
+कलाः (kalāḥ) – parts (phases)
+पञ्चदश (pañcadaśa) – fifteen
+प्रतिष्ठाः (pratiṣṭhāḥ) – stay
+देवाश्च (devāśca) – and devatās (senses)
+सर्वे (sarve) – all
+प्रतिदेवतासु (pratidevatāsu) – in the corresponding devas (deities)
+कर्माणि (karmāṇi) – deeds
+विज्ञानमयः (vijñānamayaḥ) – full of knowledge
+च (ca) – and
+आत्मा (ātmā) – Ᾱtman
+परे (pare) – highest
+अव्यये (avyaye) – imperishable
+सर्व (sarva) – all
+एकीभवन्ति (ekībhavanti) – get united
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Moreover, the knowers of Brahman regard emancipation as consisting only in the release from bondage, samsara, ignorance and the rest not as something produced. Besides at the time of emancipation the kalas which produce the body, pranas etc., go back to their own seat, i.e., cause. The word ‘Pratishtha’ is accusative plural. Fifteen: fifteen in number already enumerated in the last prasna and well known. Devas, the powers adhering to the body, and lodged in the senses such as the eye, etc.; all these go to the corresponding deities such as the sun, etc.; also those actions of the seeker after emancipation which have not begun to bear fruit (for those which have begun to bear fruit can be consumed only by enjoyment) and the Atman limited by the intellect, i.e., who, mistaking the condition of the intellect so caused by ignorance for the Atman, has here entered into various bodies like the image of the sun, etc., into water, etc. (Karma being intended for the benefit of the Atman). Therefore ‘Vijnanamaya’ means ‘chiefly possessed of intellect.’ These and the Vijnanamaya Atman, after removal of the conditions imposed, become mingled as one in the Brahman, the highest, the imperishable, endless, indestructible, all-pervading like the akas, unborn, undecaying, immortal, beneficent, fearless, having neither before nor after, nor in, nor out, without a second, unconditioned, lose their distinctive features, i.e., become one as the images of the sun, etc., become one with the sun when the surface, such as water (in which lie is reflected) is withdrawn and as the akas within the pot, etc., becomes one with the akas when the pot, etc., is withdrawn.
+
+MUNDAKA 3.2.8
+Sanskrit
+यथा नद्यः स्यन्दमानाः समुद्रेऽ
+स्तं गच्छन्ति नामरूपे विहाय ।
+तथा विद्वान् नामरूपाद्विमुक्तः
+परात्परं पुरुषमुपैति दिव्यम् ॥ ८॥
+
+Transliteration
+yathā nadyaḥ syandamānāḥ samudre'
+staṃ gacchanti nāmarūpe vihāya .
+tathā vidvān nāmarūpādvimuktaḥ
+parātparaṃ puruṣamupaiti divyam .. 8.. 3.2.8
+
+English
+yathaa nadyah syandamaanaah samudre'
+stam gacchanti naamaruupe vihaaya .
+tathaa vidvaan naamaruupaadvimuktah
+paraatparam purushamupaiti divyam .. 8..
+
+Translation
+8 As flowing rivers disappear in the sea, losing their names and forms, so a wise man, freed from name and form, attains the Purusha, who is greater than the Great.
+
+Word Meanings
+यथा (yathā) – as
+नद्यः (nadyaḥ) – rivers
+स्यन्दमानाः (syandamānāḥ) – flowing
+समुद्रे (samudre) – into the sea
+अस्तं (astaṃ) – disappear
+गच्छन्ति (gacchanti) – get
+नामरूपे (nāmarūpe) – name and shape
+विहाय (vihāya) – losing
+तथा (tathā) – thus
+विद्वान् (vidvān) – the wise man
+नामरूपात् (nāmarūpāt) – from name and form
+विमुक्तः (vimuktaḥ) – being free
+परात्परं (parātparaṃ) – the highest of the high
+पुरुषम् (puruṣam) – (Puruṣa) supreme divinity
+उपैति (upaiti) – attains
+दिव्यम् (divyam) – eternal
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Moreover, just as flowing streams such as the Granges and the rest having reached the sea give up their distinct individuality in it, losing both their names and form, so, the knower being freed from name and form, created by ignorance, reaches the resplendent purusha above defined, who is beyond the avyakta already explained.
+
+MUNDAKA 3.2.9
+Sanskrit
+स यो ह वै तत् परमं ब्रह्म वेद
+ब्रह्मैव भवति नास्याब्रह्मवित्कुले भवति ।
+तरति शोकं तरति पाप्मानं गुहाग्रन्थिभ्यो
+विमुक्तोऽमृतो भवति ॥ ९॥
+
+Transliteration
+sa yo ha vai tat paramaṃ brahma veda
+brahmaiva bhavati nāsyābrahmavitkule bhavati .
+tarati śokaṃ tarati pāpmānaṃ guhāgranthibhyo
+vimukto'mṛto bhavati .. 9.. 3.2.9
+
+English
+sa yo ha vai tat paramam brahma veda
+brahmaiva bhavati naasyaabrahmavitkule bhavati .
+tarati shokam tarati paapmaanam guhaagranthibhyo
+vimukto'mrito bhavati .. 9..
+
+Translation
+9 He who knows the Supreme Brahman verily becomes Brahman. In his family no one is born ignorant of Brahman. He overcomes grief; he overcomes evil; free from the fetters of the heart, he becomes immortal.
+
+Word Meanings
+सः (saḥ) – he
+यः (yaḥ) – who
+ह वै (ha vai) – verily
+तत् (tat) – that
+परमं (paramaṃ) – supreme
+ब्रह्म (brahma) – the Brahman
+वेद (veda) – knows
+ब्रह्म (brahma) – Brahman
+एव (eva) – verily
+भवति (bhavati) – becomes
+न (na) – not
+अस्य (asya) – his
+अब्रह्मवित् (abrahmavit) – who does not know Brahman
+कुले (kule) – in his line (family)
+भवति (bhavati) – is born
+तरति (tarati) – crosses
+शोकं (śokaṃ) – grief
+तरति (tarati) – crosses
+पाप्मानम् (pāpmānam) – sin
+गुहाग्रन्थिभ्यो (guhāgranthibhyo) – knots of the heart
+विमुक्तः (vimuktaḥ) – being free
+अमृतः (amṛtaḥ) – Immortal
+भवति (bhavati) – becomes
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—It may he said that numerous obstacles are well known to exist in the attainment of good and that even the knower of Brahman may, therefore, be impeded either by some grief or other, or be made to take some other course by some other being, such as the Devas, reach some other after death and not reach Brahman. This cannot be; for all obstacles have already been removed by knowledge. Emancipation knows only the obstacle of ignorance and no other obstacle; because it is eternal and is being the Atman itself. Therefore, he in the world who knows that highest Brahman, as “I am directly that” does not take any other course. It is impossible even for the Devas to throw any obstacle in his attempt to reach the Brahman, because he becomes the Atman of all these; therefore he who knows the Brahman becomes even Brahman. Moreover in the line of this knower, there will not be born any who knows not the Brahman; again, he overcomes even during life the heart-burning caused by frustration of his many desires, crosses over karma known as vice and virtue, and being freed from “the knots of the heart” caused by ignorance, becomes immortal. It has already been said “the knot of the heart is untied, etc.”
+
+MUNDAKA 3.2.10
+Sanskrit
+तदेतदृचाऽभ्युक्तम् ।
+क्रियावन्तः श्रोत्रिया ब्रह्मनिष्ठाः
+स्वयं जुह्वत एकर्षिं श्रद्धयन्तः ।
+तेषामेवैतां ब्रह्मविद्यां वदेत
+शिरोव्रतं विधिवद् यैस्तु चीर्णम् ॥ १०॥
+
+Transliteration
+tadetadṛcā'bhyuktam .
+kriyāvantaḥ śrotriyā brahmaniṣṭhāḥ
+svayaṃ juhvata ekarṣiṃ śraddhayantaḥ .
+teṣāmevaitāṃ brahmavidyāṃ vadeta
+śirovrataṃ vidhivad yaistu cīrṇam .. 10.. 3.2.10
+
+English
+tadetadrichaa'bhyuktam .
+kriyaavantah shrotriyaa brahmanishthaah
+svayam juhvata ekarshim shraddhayantah .
+teshaamevaitaam brahmavidyaam vadeta
+shirovratam vidhivad yaistu chiirnam .. 10..
+
+Translation
+10 A Rik-verse declares: This Knowledge of Brahman should be told to those only who have performed the necessary duties, who are versed in the Vedas and devoted to Brahman and who, full of faith, have offered oblations in the Ekarshi Fire and performed, according to rule, the rite of carrying fire on the head.
+
+Word Meanings
+तत् (tat) – that
+एतत् (etat) – this
+ऋचा (ṛcā) – by one ṛk (a vaidika verse)
+अभ्युक्तम् (abhyuktam) – explained
+क्रियावन्तः (kriyāvantaḥ) – who perform rituals
+श्रोत्रियाः (śrotriyāḥ) – who read and study the Vedas
+ब्रह्मनिष्ठाः (brahmaniṣṭhāḥ) – who pursue the meditation upon Brahman
+स्वयं (svayaṃ) – by oneself
+जुह्वत (juhvata) – offer oblations to the fire
+एकर्षिम् (ekarṣim) – the sacrificial fire called Ekarṣi
+श्रद्धयन्तः (śraddhayantaḥ) – with faith
+तेषाम् (teṣām) – to them
+एव (eva) – alone
+एषां (eṣāṃ) – this
+ब्रह्मविद्यां (brahmavidyāṃ) – knowledge of Brahman
+वदेत (vadeta) – should tell
+शिरोव्रतं (śirovrataṃ) – śirovrata (a vow of carrying fire on the head)
+विधिवत् (vidhivat) – according to rules
+यैः (yaiḥ) – by whom
+तु (tu) – and
+चीर्णम् (cīrṇam) – observed, performed
+
+Notes
+Sri Shankara's Commentary (Bhashya) translated by S. Sitarama Sastri
+Com.—Now, the Upanishad concludes by indicating the rule regarding the teaching of the knowledge of Brahman. This, the rule about the teaching of the knowledge of Brahman is expounded by this text. Who perform the karma enjoined, who are Srotriyas, who being engaged in the worship of the manifested Brahman seek to know the unmanifested Brahman. Who with faith, themselves offer the oblations to the fire known as Ekarshi; to them alone whose mind is thus purified and who are, therefore, fit (to receive instruction) should one teach the knowledge of Brahman as also to those by whom is duly practised the vow of Sirovratam such being the well known Vedic vow among those who are of the Atharvana Veda.
