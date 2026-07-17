@@ -13,7 +13,7 @@ const modes = [
   ["sanskrit", "Sanskrit"],
   ["translation", "Translation"],
   ["words", "Word by Word"],
-  ["notes", "Shankara Commentary"],
+  ["notes", "Sankaracharya Commentary"],
 ];
 
 const $ = (id) => document.getElementById(id);
@@ -234,7 +234,7 @@ function renderLayer(data, entry, sectionTitle) {
     return `
       <section class="read-content">
         <div class="notes-box">
-          <h4>English Translation of Shankara Commentary</h4>
+          <h4>Sankaracharyas Commentary English Translation</h4>
           ${textBlock("notes-text", entry.notes || "Commentary is not available for this entry.")}
         </div>
       </section>
@@ -259,7 +259,7 @@ function renderLayer(data, entry, sectionTitle) {
             ${textBlock("meaning-text", entry.wordMeanings || "Word by word meaning is not available for this entry.")}
           </div>
           <div class="notes-box">
-            <h4>English Translation of Shankara Commentary</h4>
+            <h4>Sankaracharyas Commentary English Translation</h4>
             ${textBlock("notes-text", entry.notes || "Commentary is not available for this entry.")}
           </div>
         </div>

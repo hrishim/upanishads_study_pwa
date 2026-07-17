@@ -34,6 +34,7 @@ test("server-renders the Upanishad study app", async () => {
   assert.match(html, /Upanishads Study/);
   assert.match(html, /source entries/);
   assert.match(html, /Word by Word/);
+  assert.match(html, /Sankaracharyas Commentary English Translation/);
   assert.doesNotMatch(html, /Workspace|workspace/);
   assert.doesNotMatch(html, /codex-preview|react-loading-skeleton|Your site is taking shape/);
 });

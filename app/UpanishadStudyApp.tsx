@@ -52,7 +52,7 @@ const modes = [
   { id: "sanskrit", label: "Sanskrit" },
   { id: "translation", label: "Translation" },
   { id: "words", label: "Word by Word" },
-  { id: "notes", label: "Shankara Commentary" },
+  { id: "notes", label: "Sankaracharya Commentary" },
 ] as const;
 
 type Mode = (typeof modes)[number]["id"];
@@ -422,7 +422,7 @@ function ReadingLayer({
     return (
       <section className="read-content">
         <div className="notes-box">
-          <h4>English Translation of Shankara Commentary</h4>
+          <h4>Sankaracharyas Commentary English Translation</h4>
           <TextBlock className="notes-text" value={entry.notes || "No notes are available for this entry."} />
         </div>
       </section>
@@ -447,7 +447,7 @@ function ReadingLayer({
             <TextBlock className="meaning-text" value={entry.wordMeanings} />
           </div>
           <div className="notes-box">
-            <h4>English Translation of Shankara Commentary</h4>
+            <h4>Sankaracharyas Commentary English Translation</h4>
             <TextBlock className="notes-text" value={entry.notes || "No notes are available for this entry."} />
           </div>
         </div>
