@@ -1,0 +1,844 @@
+Isha Upanishad
+https://shlokam.org/text/isha-upanishad.htm
+
+INTRODUCTION
+Background
+
+The Isha Upanishad is embedded as the final chapter (chapter 40) of the Shukla Yajurveda, making it unusual among the principal Upanishads in that it belongs to the Samhita layer of the Veda rather than to an Aranyaka or Brahmana. Its name comes from its opening words, isha vasya, meaning "enveloped by the Lord" or "pervaded by the Lord." It is the first Upanishad in the Muktika canon of 108 Upanishads and one of the ten on which Shankaracharya wrote his commentary.
+
+The text consists of 18 verses in the Kanva recension (17 in the Madhyandina). There is no prose section — it is entirely in verse (mantra), which distinguishes it from the Kena and Chandogya. Despite its brevity, it is the most structurally unified of the shorter Upanishads, and the only one that directly takes up the relationship between karma (action) and jnana (knowledge), refusing to subordinate one to the other.
+
+Verses 1-2: Cosmos and Renunciation
+
+The opening verse makes the foundational declaration: all this, whatever moves in the world, is pervaded by Isha (the Lord). The instruction that follows is not withdrawal but a particular orientation toward action: enjoy through renunciation, do not covet. Verse 2 extends this: one may live a full life doing karma, provided it is done without attachment. Such action does not bind. This sets up the text's distinctive position: renunciation is not a matter of leaving the world but of the quality of engagement with it.
+
+Verses 3-8: The Nature of Atman
+
+Verse 3 warns that those who deny or destroy the Self go to sunless worlds covered in darkness. Verses 4 and 5 give one of the Upanishads' most precise descriptions of Atman: unmoving yet faster than the mind, unreachable by the gods who always find it already ahead; far yet near; within everything and outside everything simultaneously. Prana (the master of life) is established within it.
+
+Verses 6 through 8 are what Shankaracharya identifies as the Advaitic core of the text. The knower who sees all beings in the Self and the Self in all beings does not hate. For the one who has realized this unity, how can there be delusion or sorrow? Shankaracharya reads these three verses as the fruit of viveka (discrimination) dissolving the superimposition of multiplicity on the undivided Brahman.
+
+Verses 9-14: Vidya and Avidya
+
+This section contains the Upanishad's most discussed and debated teaching. Verse 9 states that those who pursue only Avidya (ignorance, or action without knowledge) enter darkness. Verse 10 then states, surprisingly, that those who pursue only Vidya (knowledge) enter into even greater darkness. The resolution comes in verse 11: both must be pursued together (ubhayam saha). Avidya enables one to cross death; Vidya grants immortality.
+
+Verses 12 through 14 apply the same logic to Sambhuti (becoming, the manifest) and Asambhuti (the unmanifest): exclusive pursuit of either leads to darkness. The teaching here is integrative. The text refuses the sharp opposition between action and knowledge, between the world and liberation, that later Vedantic schools sometimes drove toward. Max Muller read this as a statement about the necessity of ethical and social activity as preparation for the path of knowledge.
+
+Verses 15-18: Closing Prayers
+
+The final four verses shift register from instruction to prayer. Verse 15 is addressed to Surya (the sun): "The face of truth is covered by a golden lid; O Pushan, remove it so that I, a devotee of truth, may behold it." The golden disc of the sun stands for the light that illuminates the world while also concealing the deeper reality behind it. This is a prayer for direct recognition.
+
+Verse 16 continues the address to Surya, asking to be gathered up at death into the cosmic fire while the seeker's karma and name are remembered. Verses 17 and 18 are prayers to Agni: lead me by the good path, keep me from the crooked path, and forgive my sins. The section ends with the declaration so'ham asmi — "The Purusha there and there: He am I" — which is the same mahavakya formula found in the Brihadaranyaka Upanishad.
+
+Patrick Olivelle and some other scholars consider verses 15-18 to be later additions, citing their overlap with the Brihadaranyaka and a shift in tone from the philosophical directness of the earlier verses. This remains an open question in scholarship.
+
+Introduction to Ishavasya upanishad
+
+By M. Hiriyanna | 1911
+
+The Īśāvāsyopaniṣad—so called from its initial words—forms the concluding chapter of the Saṃhitā of the Suklayajurveda The name of Samhitopaniṣad is also sometimes given to it, in order to distinguish it from the other Upanishads which generally find their place in the Brāhmaṇas. According to the commentary here translated, the eighteen verses of this Upanishad are to be understood as falling into four sections—
+
+Verse 1, which teaches that those who understand the Self and are fit for realising it should give up all worldly desires and devote themselves exclusively to attaining final release;Verse 2, which enjoins the performance of karma on such others as do not comprehend the Self and are consequently unable to realise it;Verses 3-8, which, having in view persons referred to in verse 1, describe the real nature of the Self and indicate the consequences of realising or not realising it;And Verses 9-18, which commend the simultaneous practice of karma and upāsanā, to persons referred to in verse 2.In commenting on this Upanishad, Śrī Śaṅkarāchārya, now and again touches on the following point which is of much importance in understanding his view aright. The Veda inculcates, he says, two independent lines of conduct—one of karma or activity and the other of jñāna or withdrawal from the world. The first forms the subject-matter of the liturgical portion or the and the second, of the Upanishads or the of the Veda. The teaching of the is whole in itself, and should not be considered as subsidiary, in any way, to the teaching of the karmakāṇḍa. Nor should it be imagined that both these teachings can be concurrently followed by anybody, for there is a fundamental antithesis between them. The latter presupposes a belief in variety, as ordinarily experienced, while the former, denying all this variety, insists on the truth of only the unity underlying it. Thus the two paths of karma and jñāna are opposed to each other. Only we should remember that there is a sense in which the first may be looked upon as subsidiary to the second, for when the path of activity is followed without any selfish desire for rewards, it serves as a preparation for the path of withdrawal by producing that composure of mind without which man cannot seek the highest truth. In this nobler sense karma is reckoned as an ‘extrinsic’ aid (bahiraṅga) to final release. But the ‘intrinsic’ aid is jñāna, and when a person once betakes himself to it, it logically follows that all karma loses its significance to him.
+
+As has been well put by the Vārtikakāra,
+
+satyantaraṅge vijñāne bahiraṅgam na siddhyati
+samskārakam tu karma syāt jñānāttvajñānaninhutiḥ
+      Sambandha Vārtika 368.
+
+ISHA 0.0.0
+Sanskrit
+ओं | पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते ।
+पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥
+
+Transliteration
+oṃ | pūrṇamadaḥ pūrṇamidaṃ pūrṇātpūrṇamudacyate |
+pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ||
+
+English
+om | puurnamadah puurnamidam puurnaatpuurnamudachyate |
+puurnasya puurnamaadaaya puurnamevaavashishyate ||
+
+Translation
+The whole (Brahman) is all that is invisible. The whole (Brahman) is all that is visible. The whole (Hiranyagarbha) was born out of the whole (Brahman). When the whole (the Universe) is absorbed into the whole (Brahman) the whole alone (Brahman) remains.
+
+Word Meanings
+ॐ (oṃ) – Om
+पूर्णम् (pūrṇam) – whole
+अदः (adaḥ) – that
+पूर्णम् (pūrṇam) – whole
+इदम् (idam) – this
+पूर्णात् (pūrṇāt) – from the whole
+पूर्णम् (pūrṇam) – the whole
+उदच्यते (udacyate) – becomes manifest
+पूर्णस्य (pūrṇasya) – from the whole
+पूर्णम् (pūrṇam) – the whole
+आदाय (ādāya) – is negated
+पूर्णम् (pūrṇam) – the whole
+एव (eva) – alone
+अवशिष्यते (avaśiṣyate) – remains
+ॐ (oṃ) – Om
+शान्तिः (śāntiḥ) – peace be
+शान्तिः (śāntiḥ) – peace be
+शान्तिः (śāntiḥ) – peace be
+
+ISHA 0.0.1
+Sanskrit
+ईशावास्यमिदं सर्वं यत्किञ्च जगत्यां जगत् ।
+तेन त्यक्तेन भुञ्जीथा मा गृधः कस्य स्विद्धनम् ॥ १ ॥
+
+Transliteration
+īśāvāsyamidaṃ sarvaṃ yatkiñca jagatyāṃ jagat |
+tena tyaktena bhuñjīthā mā gṛdhaḥ kasya sviddhanam || 1 ||
+
+English
+iishaavaasyamidam sarvam yatkincha jagatyaam jagat |
+tena tyaktena bhunjiithaa maa gridhah kasya sviddhanam || 1 ||
+
+Translation
+1. All this-whatsoever moves in this universe (and those that move not) is covered (indwelt or pervaded or enveloped or clothed) by the Lord. That renounced, enjoy. Do not covet anybody's wealth (Or - Do not covet, for whose is wealth?).
+
+Word Meanings
+ईशा वास्यमिदगं (ईशा-वास्यम्, ईशा-आवास्यम) (īśā vāsyamidagaṃ (īśā-vāsyam, īśā-āvāsyama)) – indwelling or clothing of the Lord
+[वास् ([vās) – to dwell, वस – to clothe]
+इदम् (idam) – this
+सर्वम् (sarvam) – all
+यत्-किञ्च (yat-kiñca) – whatever
+जगत्याम् (jagatyām) – in the universe
+जगत् (jagat) – moving world
+तेन (tena) – by Him
+त्यक्तेन (tyaktena) – by abandonment, by that which is left
+भुञ्जीथाः (bhuñjīthāḥ) – (you) may enjoy
+मा (mā) – do not
+गृधः (gṛdhaḥ) – covet
+कस्य-स्वित् (kasya-svit) – whose, anybody’s
+धनम् (dhanam) – wealth
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+He who rules is (termed) Īt. Īśā (means), ‘by the Lord’. The Lord is the Ruler and the real Self of every creature[1]. By such a Lord, identical with oneself, is to be overspread i.e, covered. What? idam sarvam = (all this), yat kincha = whatsoever. jagatyām= on earth. jagat = all that (moves). By one’s own Self,—the Lord, the supreme Self—which is the sole reality, all these unreal (things), both movable and immovable, have to be covered over, (perceiving) thus—‘I am the inner Self of all’.[2] Just as adventitious bad odour in a piece of sandal, arising from moisture, is overcome by true fragrance when the (sandal) piece is rubbed[3], so indeed, will all the congenital variety of the world, such as being an agent or an enjoyer, superimposed on the Self, disappear at the perception (everywhere) of the (one) really existent Self. Since jagatyām is (here used) in an indicatory sense, all kinds of effects differentiated as name, form and action (are to be understood as connoted by it). What a person, that is so full of the conception that the Lord is the Self of all, ought to do is to renounce the three-fold desire for offspring etc., and not (be engaged in) karma. In tena tyaktena, tyakta means renunciation (being used as an abstract noun). (It is not to betaken here as a past participle in the sense of ‘given up’ because) a son or a servant (for example) who has been abandoned or is dead, cannot save one since all connection is severed between them. Therefore (the word) can only mean ‘renunciation’. bhuñjīthāḥ =do save[4]. Having thus renounced desires, be not greedy (mā gṛdhaḥ) i.e., do not long for wealth, kasya svit = (of anybody). (The meaning is)—Do not long for the wealth of anybody—i.e., yourself or another. (In this interpretation) svit is a mere expletive. Or (we may say as follows)—Be not greedy. Why? (The answer is )—kasya svit dhanam= Whose is wealth?—implying a denial. If wealth could belong to anybody it might be sought; (but) everything having disappeared through the discovery of the Lord (everywhere), all this is of the Self, and all this is the Self. Thus it means—Do not seek an unreality.’[5]
+
+Footnotes
+[1] The difference between the controller and the controlled is not to be understood as real. I t is merely apparent and is based on an illusion. In the same sense, we may, for example, say that a person standing before a number of mirrors controls the several reflected images of himself.
+[2] The sense is that one should realise that all is Self and that there is no variety in the Universe. This is the chief teaching of the present Upanishad and corresponds, in its significance, to the well-known tattvamasi of the Chāndogyopaniṣad.
+[3] The object of this illustration is to suggest that when conviction regarding the unity of all existence does not spring directly from faith in the teaching, reasoning or enquiry will generally lead to it.
+[4] This statement is not to be understood literally for the Self does not, in reality, require to be saved. It is only intended to extol renunciation by ascribing final release to its influence.
+[5] The third pāda of this verse enjoins renunciation on such as can discriminate between what is Self and what is not. Such withdrawal from the world is the only course for Self-realisation. By removing the ordinary distractions of life it renders easy the attainment of final release. The fourth pāda prescribes a rule of conduct and prohibits the acquisition by such persons of wealth of any description beyond what is necessary for bare maintenance.
+
+ISHA 0.0.2
+Sanskrit
+कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः ।
+एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ॥ २ ॥
+
+Transliteration
+kurvanneveha karmāṇi jijīviṣecchataṃ samāḥ |
+evaṃ tvayi nānyatheto'sti na karma lipyate nare || 2 ||
+
+English
+kurvanneveha karmaani jijiivishecchatam samaah |
+evam tvayi naanyatheto'sti na karma lipyate nare || 2 ||
+
+Translation
+2. Should one wish to live a hundred years on this earth, he should live doing Karma. While thus, (as) man, you live, there is no way other than this by which Karma will not cling to you.
+
+Word Meanings
+कुर्वन् (kurvan) – performing
+एव् (ev) – alone
+इह (iha) – here (in this world)
+कर्माणि (karmāṇi) – work, deeds
+जिजीविषेत् (jijīviṣet) – should desire to live
+शतगं (śatagaṃ) – a hundred
+समाः (samāḥ) – years
+एवम् (evam) – thus
+त्वयि (सति) (tvayi (sati)) – while you are
+न (na) – not
+अन्यथा (anyathā) – the other
+इतः (itaḥ) – for
+अस्ति (asti) – is
+न (na) – not
+कर्म (karma) – deed
+लिप्यते (lipyate) – is attached
+नरे (nare) – in the man
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+Kurvanneva= always performing. iha =(here) karmāni = rites such as agnihotra. jijīviṣet =one should desire to live. śatam =one hundred in number. samāḥ= years. For thus much is known to be the maximum age of man. Since (this is) a (mere) iteration (of an empirically known fact) what should be taken as enjoined (here) is that, if one should desire to live a hundred years, he should live only performing karma. evam= in this manner. in regard to you), nare i.e. when you live content to be a mere man. itaḥ i.e., from this present course of performing karma like agnihotra. different course, na asti =does not exist; in which course evil action does not stain; i.e., you do not get tainted by sin. Wherefore if one should desire for life Tone should live) throughout performing karma such as agnihotra prescribed by the śāstra.
+How is it to be understood that the former verse assigns to a sannyāsin devotion to knowledge and the latter, only devotion to karma to one incapable of it (Self-realisation)? We reply—Do you not remember the aforesaid antithesis between jñāna and karma which remains unshakable as a mountain? Here also the same has been expressly stated in verses 1 and 2,—(that he who seeks to live must perform karma and that he who does not, must give up all desire. The same conclusion may be arrived at) from the (following) directions to sannyāsins—“He should desire neither for life, nor for death; he should enter a forest. This is the law.” “He should not thence return”. The difference in result between the two will also be pointed out later on. (Another statement of the like import is) “These two paths only appeared in the beginning—the path of activity and (the path) of withdrawal.” Of these two, renunciation is higher, cf. Taittirīya Āraṇyaka “Renunciation alone excelled”. And Vyāsa, the great Vedic teacher, after much reflection, taught his son definitely as follows—“The Vedas aim at inculcating these two paths—one termed the path of activity and the other, of renunciation.”
+
+ISHA 0.0.3
+Sanskrit
+असुर्या नाम ते लोका अन्धेन तमसावृताः ।
+तांस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः ॥ ३ ॥
+
+Transliteration
+asuryā nāma te lokā andhena tamasāvṛtāḥ |
+tāṃste pretyābhigacchanti ye ke cātmahano janāḥ || 3 ||
+
+English
+asuryaa naama te lokaa andhena tamasaavritaah |
+taamste pretyaabhigacchanti ye ke chaatmahano janaah || 3 ||
+
+Translation
+3. Those births partake of the nature of the Asuras and are enveloped in blind darkness. After leaving the body they who kill their Atman attain them.
+
+Word Meanings
+असुर्याः (asuryāḥ) – demoniac, sunless
+नाम (nāma) – really
+ते (te) – those
+लोकाः (lokāḥ) – people (lit. world)
+अन्धेन तमसा (andhena tamasā) – by blinding darkness (gloom)
+आवृता (āvṛtā) – covered
+ताग्म् (tāgm) – to those
+ते (te) – they
+प्रेत्य (pretya) – after death
+अभिगच्छन्ति (abhigacchanti) – go to
+ये के च (ye ke ca) – whosoever
+आत्म-हनः (ātma-hanaḥ) – killers of the Self
+जनाः (janāḥ) – people
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+From the standpoint of Unity in the form of the supreme Self, even devas are (reckoned) as asuras. asuryāḥ=belonging to demons, nāma is a mere expletive here. te=(those), lokāḥ=births (or lives), because therein the fruits of karma are perceived or enjoyed. andhena=of blinding nature. tamasā=by nescience. āvritāḥ=enveloped. tān=(those) viz. existences down to the immovable, pretya=having left this body. abhigacchanti=(attain) according to their past deeds and according to their devotional practices, ye ke whosoever. ātmahanaḥ=those who slay the Self. Who are they? People that are ignorant[1]. How can they slay the eternal Self? Through their failing of ignorance they veil (i.e. forget) the ever present Self. The sign of (a belief in) its existence is the consciousness of its undecaying immortal nature. This becomes veiled (ie. forgotten), as if the Self has been slain, and the ordinary ignorant people are termed ‘slayers of Self’[2]. By reason of this sin of slaying the Self, they transmigrate.
+Now is explained of what nature this Self is, by slaying which the ignorant transmigrate and, as distinguished from them, the learned, by not slaying it, attain final release—
+
+Footnotes
+[1] I read “ke te? Ye janā avidvāṃsaḥ”.
+[2] Ascribing impurity etc. to the Self is considered as equivalent to killing it; just as imputing a false and serious charge against a virtuous man is, in ordinary parlance, spoken of as “murder without a weapon.”— aśastravadha
+
+ISHA 0.0.4
+Sanskrit
+अनेजदेकं मनसो जवीयो नैनद्देवा आप्नुवन्पूर्वमर्षत् ।
+तद्धावतोऽन्यानत्येति तिष्ठत्तस्मिन्नपो मातरिश्वा दधाति ॥ ४ ॥
+
+Transliteration
+anejadekaṃ manaso javīyo nainaddevā āpnuvanpūrvamarṣat |
+taddhāvato'nyānatyeti tiṣṭhattasminnapo mātariśvā dadhāti || 4 ||
+
+English
+anejadekam manaso javiiyo nainaddevaa aapnuvanpuurvamarshat |
+taddhaavato'nyaanatyeti tishthattasminnapo maatarishvaa dadhaati || 4 ||
+
+Translation
+4. It is motionless, one, faster than mind; and the Devas (the senses) could not overtake it which ran before. Sitting, it goes faster than those who run after it. By it, the all-pervading air (Sutratman) supports the activity of all living beings.
+
+Word Meanings
+अनेजत् (anejat) – unmoving
+एकम् (ekam) – One
+मनसः (manasaḥ) – than the mind
+जवीयः (javīyaḥ) – swifter
+न (na) – not
+एनत् (enat) – this
+देवाः (devāḥ) – gods
+आप्नुवन् (āpnuvan) – reached, overtake
+पूर्वम् (pūrvam) – before
+अर्षत् (arṣat) – ran
+तत् (tat) – it
+धावतः (dhāvataḥ) – running
+अन्यान् (anyān) – others
+अत्येति (atyeti) – overtakes
+तिष्ठत् (tiṣṭhat) – staying
+तस्मिन् (tasmin) – in it
+अपः (apaḥ) – activities (lit. water – here figuratively used for action)
+मातरिश्वा (mātariśvā) – wind
+दधाति (dadhāti) – supports or allots
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+Anejat=not shaking, from the root to shake. Shaking is moving, i.e., lapsing from its real state. (The Self is) free from it, i.e., is always of the same form. It is also one in all beings. manaso javīyaḥ= speedier than the mind which is characterised by desire &c. Wherefore these conflicting statements—that it is at once assuredly motionless and speedier than the mind? This is not wrong, for it can be justified (on the basis of the Self) being conditioned or unconditioned. In its original unconditioned form it is stated to be unmoving and one. (It is also possible to predicate motion of the Self) because it reflects (the features of) its conditioning mind which is the internal sense charaterised by desire and doubt. Since the mind, though residing here within the body can, in an instant, conceive of the distant Brahmaloka and the like, it is ordinarily taken as possessing great speed. When such mind, for instance reaches (in thought) Brahmaloka, with rapidity, the Self appears to have reached there already. Therefore it is said here 'speedier than the mind’. devāḥ=senses such as the eye—so called because they illuminate. enat =this entity of the Self. na-āpnuvan=did not reach, the mind being speedier than they. Since mental operation (always) intervenes, not even the semblance of the Self becomes perceivable by the Senses.[3] (And it is beyond the mind itself) because the Self is always in advance (of it) being all-pervading like space. (Now the verse) states that the Self, always[4] free from all features of transmigration, in its own unconditioned form and being altogether changeless, appears to the undiscriminating ignorant, as experiencing all the several modes of life due to limiting adjuncts and also as being many, i.e., one in each body. tat=(that). dhāvataḥ=speedily going. anyān=mind, the organs of speech &c., which are all other than the Self. atyeti =seems to outstrip. The text itself indicates the sense of iva (seems) by tiṣṭhat which means ‘itself remaining immutable.’ tasmin i.e. in virtue of the existence of the Self which is of the nature of eternal sentiency. Mātariśvā=He who moves (śvayati) in the heavens (mātari); the Wind, the active principle in all creatures; on which are dependent all the aggregates of causes and effects and into which they are woven like warp and woof and which is also termed ‘the connecting thread’ and is the support of the whole universe. Such is mātariśvā. apaḥ=functions[5] of things, such as flaming and burning of Fire, shining of the Sun, raining of the Cloud and so on. dadhāti=allots[6]; or the word may mean ‘directs’ agreeably to texts like “Through fear of Him the wind blows &c.” (Taitirriya Upanishad: II, viii, 1). The idea is that all changes of the nature of cause and effect take place only when the Self, the eternal sentiency and substrate of all, exists.
+Not weary of repeating, the Veda states once again what has already been said in the previous verse—
+
+Footnotes
+[3] The action of the senses presupposes the operation of the mind. The Self being beyond mind, is necessarily beyond the senses as well.
+[4] I read sarvadāpi instead of sarvavyāpi.
+[5] Apaḥ in a secondary sense means ‘Sacrificial acts’ for most of them are performed with water, ghee and such other liquids. Hence, in what may be called a ‘tertiary sense’ the term may be taken to denote all kinds of activity.
+[6] This implies an argument for the existence of an all-controlling Lord of the Universe.
+
+ISHA 0.0.5
+Sanskrit
+तदेजति तन्नैजति तद्दूरे तद्वन्तिके ।
+तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः ॥ ५ ॥
+
+Transliteration
+tadejati tannaijati taddūre tadvantike |
+tadantarasya sarvasya tadu sarvasyāsya bāhyataḥ || 5 ||
+
+English
+tadejati tannaijati tadduure tadvantike |
+tadantarasya sarvasya tadu sarvasyaasya baahyatah || 5 ||
+
+Translation
+5. It moves, it is motionless. It is distant, it is near. It is within all, it is without all this.
+
+Word Meanings
+तत् (tat) – It
+एजति (ejati) – moves
+तत् (tat) – It
+न (na) – not
+एजति (ejati) – moves
+तत् (tat) – It
+दूरे (dūre) – far
+तत् (tat) – It
+उ (u) – verily
+अन्तिके (antike) – near
+तत् (tat) – It
+अन्तः (antaḥ) – inside
+अस्य (asya) – of this
+सर्वस्य (sarvasya) – all
+तत् (tat) – It
+उ (u) – verily
+सर्वस्य (sarvasya) – all
+अस्य (asya) – this
+बाह्यतः (bāhyataḥ) – outside
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+Tad=the Self in question. ejati=moves. The same does not move (na ejati) i.e., in itself. In other words, being in truth motionless, it (only) appears to move. Moreover, it, tat=it, dūre=(at a distance). It is distant, as it were, because the ignorant cannot get at it even in a thousand million years. tat u=(it is also); antike=near. Absolutely so, to the wise for it is their very Self. It is not merely far and near; it is (also) antaḥ i.e. inside of all this. Compare—‘Which Self is inmost of all’—(Brihadaranyaka Upanishad III, iv, 1). asya savasya =(of this all) i.e., the universe consisting of name, form and action. It is outside all this, being pervasive; inside, being supremely subtle like space. (We should also remember) that it is without interstices from the teaching contained in passages like “wholly solid sentiency &c.’—(Brihadaranyaka Upanishad IV, v, 13)
+
+ISHA 0.0.6
+Sanskrit
+यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति ।
+सर्वभूतेषु चात्मानं ततो न विजुगुप्सते ॥ ६ ॥
+
+Transliteration
+yastu sarvāṇi bhūtānyātmanyevānupaśyati |
+sarvabhūteṣu cātmānaṃ tato na vijugupsate || 6 ||
+
+English
+yastu sarvaani bhuutaanyaatmanyevaanupashyati |
+sarvabhuuteshu chaatmaanam tato na vijugupsate || 6 ||
+
+Translation
+6. Who sees everything in his Atman and his Atman in everything, by that he feels no revulsion.
+
+Word Meanings
+यः (yaḥ) – who
+तु (tu) – however
+सर्वाणि (sarvāṇi) – all
+भूतानि (bhūtāni) – beings
+आत्मनि (ātmani) – in the Self
+एव (eva) – alone
+अनुपश्यति (anupaśyati) – constantly sees
+सर्वभूतेषु (sarvabhūteṣu) – in all beings
+च (ca) – and
+आत्मानम् (ātmānam) – Self
+ततः (tataḥ) – then
+न (na) – not
+विजुगुप्सते (vijugupsate) – shrinks, feels hatred
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+Yaḥ tu i.e., a sannyāsin desiring final release. sarvāṇi bhūtāni= all beings (i.e., existences) from prakṛti down to the immovable, ātmani eva anupaśyati =(discovers in himself) i.e., does not understand as other than his own Self, sarva bhūteṣu cha i.e. and in the same (beings), ātmānam = (himself) i.e., his own Self as the Self of all those beings as well. (The reference here is to him) who beholds himself, the same in all beings thus—‘Just as I, the cogniser of all notions, the perceiver, one and devoid of all attributes, am the Self of this my body, the aggregate of causes and effects, so also am I in the same form, the Self of all beings from prakṛti down to the immovable. tataḥ = through such perception, na vijugupsate = does not feel repelled. This is an iteration of what is (empirically) known. All aversion is from evil things other than one’s own self, and if one recognises (everywhere) only the Self, absolutely pure and continuous, it is clear that (for such an one) there is nothing to excite repulsion. Hence the statement—‘He has no aversion thence’.
+Another verse also expresses the same idea—
+
+ISHA 0.0.7
+Sanskrit
+यस्मिन्सर्वाणि भूतान्यात्मैवाभूद्विजानतः ।
+तत्र को मोहः कः शोक एकत्वमनुपश्यतः ॥ ७ ॥
+
+Transliteration
+yasminsarvāṇi bhūtānyātmaivābhūdvijānataḥ |
+tatra ko mohaḥ kaḥ śoka ekatvamanupaśyataḥ || 7 ||
+
+English
+yasminsarvaani bhuutaanyaatmaivaabhuudvijaanatah |
+tatra ko mohah kah shoka ekatvamanupashyatah || 7 ||
+
+Translation
+7. When to the knower, all Bhutas become one with his own Atman, what perplexity, what grief, is there when he sees this oneness.
+
+Word Meanings
+यस्मिन् (yasmin) – in whom
+सर्वाणि (sarvāṇi) – all
+भूतानि (bhūtāni) – beings
+आत्मा (ātmā) – Self
+एव (eva) – alone
+अभूत् (abhūt) – have become
+विजानतः (vijānataḥ) – knowing
+तत्र (tatra) – these
+कः (kaḥ) – what
+मोहः (mohaḥ) – delusion
+कः (kaḥ) – what
+शोकः (śokaḥ) – grief
+एकत्वम् (ekatvam) – oneness
+अनुपश्यतः (anupaśyataḥ) – while constantly seeing
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+Yasmin=when or in which Self, sarvāṇi bhūtāni= the same (already mentioned) beings of all kinds, ātma eva abhūt= became one’s own self, through right perception, vijānataḥ = (to the knower) of Reality. tatra= then or in such Self, ko mohaḥ kaṣṣokaḥ = (what delusion and what sorrow?). Sorrow and delusion are for one that does not understand the source of desire and activity but not to one that realises the unity of Self, pure and resembling space. The third pāda by calling in question and denying the possibility of sorrow and delusion which are the result of nescience, indicates (so far as the knower is concerned) the absolute cessation of worldly existence together with its cause.
+The following verse (now) states of what description the Self—spoken of in the foregoing verses—in its nature, is—
+
+ISHA 0.0.8
+Sanskrit
+स पर्यगाच्छुक्रमकायमव्रणमस्नाविरंशुद्धम् अपापविद्धम् ।
+कविर्मनीषी परिभूः स्ययम्भूर्याथातथ्यतोऽर्थान्व्यदधाच्छाश्वतीभ्यः समाभ्यः ॥ ८ ॥
+
+Transliteration
+sa paryagācchukramakāyamavraṇamasnāviraṃśuddham apāpaviddham |
+kavirmanīṣī paribhūḥ syayambhūryāthātathyato'rthānvyadadhācchāśvatībhyaḥ samābhyaḥ || 8 ||
+
+English
+sa paryagaacchukramakaayamavranamasnaaviramshuddham apaapaviddham |
+kavirmaniishii paribhuuh syayambhuuryaathaatathyato'rthaanvyadadhaacchaashvatiibhyah samaabhyah || 8 ||
+
+Translation
+8. He pervaded all, resplendent, bodiless, scatheless, having no muscles, pure, untouched by sin; far-seeing, omniscient, transcendent, self-sprung, (he) duly allotted to the various eternal creators their respective functions.
+
+Word Meanings
+सः (saḥ) – he
+पर्यगात् (paryagāt) – all-pervading
+शुक्रम् (śukram) – bright
+अकायम् (akāyam) – bodiless
+अव्रणम् (avraṇam) – scatheless, without wound
+अस्नाविरग्म् (asnāviragm) – without muscles
+शुद्धम् (śuddham) – pure
+अपापविद्धम् (apāpaviddham) – unpierced by evils
+कविः (kaviḥ) – wise
+मनीषी (manīṣī) – omniscient
+परिभूः (paribhūḥ) – transcendent
+स्वयम्भूः (svayambhūḥ) – self-existing
+याथातथ्यतः (yāthātathyataḥ) – respectively
+अर्थान् (arthān) – functions, duties
+व्यदधात् (vyadadhāt) – allotted
+शाश्वतीभ्यः (śāśvatībhyaḥ) – eternal
+समाभ्यः (samābhyaḥ) – for years to come (figuratively the Creators that is Prajāpatis)
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+Saḥ=the aforesaid Self. paryagāt =went round; i.e. he is pervading like space. śukram=white, i.e. radiant, bright. akāyam=bodiless i.e. without the subtle body, avraṇam=not to be wounded, snāva=vein; therefore asnāviram means ‘veinless’. The last two (epithets) deny the gross body; ś uddham = without the stain of nescience. This denies the causal body, apāpaviddham=by evil (which term is meant to include) both merits and demerits[7]. The words beginning with sukram are to be changed to the masculine form, because the verse starts with saḥ (a masculine form) and ends likewise with kaviḥ and (which also are masculine in form). kaviḥ=seeing what is past[8], i.e. witness of all, according to the text—“There is no seer other than He” (Brihadaranyaka Upanishad III, vii, 23), manīṣī =the controller of the mind i.e., the all-knowing Lord. paribhūḥ means ‘who is above (pari = upari) everything’. svayambhūh = self-begotten. This signifies that what is above everything as well as what is everything are both the Self. Such a Lord, always free, being all-knowing, has allotted duties (arthān) according to past deeds which are instrumental in yielding fruit (in this life) i.e. has appropriately distributed (them). Yāthātathyataḥ, being derived from yathātathā, means ‘according to facts’. ś āśvatībhyaḥ= permanent; Samābhyaḥ i.e. among Creators going by the name of ‘Time’[9]
+
+Footnotes
+[7] According to the view of Śaṅkarāchārya, it should be remembered, good and evil become reduced to the same level in the eyes of a knower of the Self, for both alike lead to a succession of births, although the one be of a higher kind than the other.
+[8] This word literally means ‘one that can see what is past’. Here it is to be understood in a secondary sense, the past indicatin all time—the present as well as the future. Hence it means “witness of all”.
+[9] For this sense of Samvatsara see Brihadaranyaka Upanishad I, v, 14 and Prashna Upanishad i. 9. Like everything else Time also is born of the Creator. Hence ‘Time’ is ‘Creator’ taking the effect for the cause.
+
+ISHA 0.0.9
+Sanskrit
+अन्धन्तमः प्रविशन्ति येऽविद्यामुपासते ।
+ततो भूय इव ते तमोय उ विद्यायां रताः ॥ ९ ॥
+
+Transliteration
+andhantamaḥ praviśanti ye'vidyāmupāsate |
+tato bhūya iva te tamoya u vidyāyāṃ ratāḥ || 9 ||
+
+English
+andhantamah pravishanti ye'vidyaamupaasate |
+tato bhuuya iva te tamoya u vidyaayaam rataah || 9 ||
+
+Translation
+9. They who worship Avidya alone fall into blind darkness; and they who worship Vidya alone fall into even greater darkness.
+
+Word Meanings
+अन्धम् (andham) – blinding
+तमः (tamaḥ) – darkness
+प्रविशन्ति (praviśanti) – enter
+ये (ye) – who
+अविद्याम् (avidyām) – avidyā (see commentary for details)
+उपासते (upāsate) – worship
+ततः (tataḥ) – than that
+भूयः (bhūyaḥ) – greater
+इव (iva) – as though
+ते (te) – they
+तमः (tamaḥ) – darkness
+ये (ye) – who
+उ (u) – verily
+विद्यायाग्म् (vidyāyāgm) – in vidyā (see commentary for details)
+रताः (ratāḥ) – devoted, engaged in
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+andham tamaḥ = blinding darkness, praviśanti =(they pass). Who? ye avidyām upāsate = yjey who practise karma. avidyā is what is other than knowledge i.e. karma, because karma is opposed to knowledge. upāsate =devoutly practise i.e. perform only karma such as agnihotra. tataḥ i.e. than such blinding darkness. bhūya-iva= greater, as it were.[3] te tamaḥ i.e. they pass into darkness. Who? ye-u = those who, on the other hand; vidyāyām =in meditating on deities; ratāḥ take delight i.e. who engage themselves in it to the exclusion of karma.
+Now follows a statement of the distinction between the respective fruits of meditation and karma, as an argument for their simultaneous practice. Otherwise, if of the two thus proximately stated, one only is known to bear fruit and not the other, the relation between them would be (according to rules of interpretation, not one of co-ordination but) only that of subordination[4].
+
+Footnotes
+[3] I read bahutaram iva.
+[4] I read aṅgāṅgitaiva syāt.
+
+ISHA 0.0.10
+Sanskrit
+अन्यदेवाहुर्विद्ययाऽन्यदाहुरविद्यया ।
+इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥ १० ॥
+
+Transliteration
+anyadevāhurvidyayā'nyadāhuravidyayā |
+iti śuśruma dhīrāṇāṃ ye nastadvicacakṣire || 10 ||
+
+English
+anyadevaahurvidyayaa'nyadaahuravidyayaa |
+iti shushruma dhiiraanaam ye nastadvichachakshire || 10 ||
+
+Translation
+10. One result is predicated of Vidya and another of Avidya. We have so heard from wise men who taught us both Vidya and Avidya.
+
+Word Meanings
+अन्यत् (anyat) – different
+एव (eva) – definitely
+आहुः (āhuḥ) – (they) say
+विद्यया (vidyayā) – by vidyā
+अन्यत् (anyat) – different
+आहुः (āhuḥ) – (they) say
+अविद्यया (avidyayā) – by avidyā
+इति (iti) – thus
+शुश्रुम (śuśruma) – (we) have heard
+धीराणाम् (dhīrāṇām) – of the wise
+ये (ye) – who
+नः (naḥ) – to us
+तत् (tat) – that
+विचचक्षिरे (vicacakṣire) – explained
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+anyat-eva= quite distinct. Vidyayā =(by meditation) i.e. the fruit borne by meditation is distinct. āhuḥ= they say; (the second pāda) means “karma yields a distinct fruit altogether”; as recorded in “The world of manes through karma; the world of gods through meditation”. iti =thus. śuśruma =we have heard, dhīrānām i.e. (the saying) of the wise, ye—i.e., which teachers. naḥ= to us. tat i.e. karma and meditation. vicacakṣire =explained well. The purport is that this their teaching has been handed down by tradition,
+Since it is so,
+
+ISHA 0.0.11
+Sanskrit
+विद्यां चाविद्यां च यस्तद्वेदोभयं सह ।
+अविद्यया मृत्युं तीर्त्वा विद्ययामृतमश्नुते ॥ ११ ॥
+
+Transliteration
+vidyāṃ cāvidyāṃ ca yastadvedobhayaṃ saha |
+avidyayā mṛtyuṃ tīrtvā vidyayāmṛtamaśnute || 11 ||
+
+English
+vidyaam chaavidyaam cha yastadvedobhayam saha |
+avidyayaa mrityum tiirtvaa vidyayaamritamashnute || 11 ||
+
+Translation
+11. He who simultaneously knows both Vidya and Avidya gets over Death by Avidya and attains immortality by Vidya.
+
+Word Meanings
+विद्याम् (vidyām) – vidyā
+च (ca) – and
+अविद्याम् (avidyām) – avidyā
+च (ca) – and
+यः (yaḥ) – who
+तत् (tat) – that
+वेद (veda) – known
+उभयग्म् (ubhayagm) – both
+सह (saha) – together
+अविद्यया (avidyayā) – by avidyā
+मृत्युम् (mṛtyum) – death
+तीर्त्वा (tīrtvā) – crossing
+विद्यया (vidyayā) – by vidyā
+अमृतम् (amṛtam) – immortality
+अश्नुते (aśnute) – enjoys, obtains
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+The first pāda means ‘meditating on deities and karma’. yah= (whoever.) ta = etat =this. ubhayam =(two) saha—i.e. to be practised by the same person. veda =(understands). (The second half of the verse) states that only a person, practising both together, will in due course, achieve the chief end[5] avidyayā= by karma like agnihotra. mṛtyum—by this word are here meant usual activity and knowledge. having overcome those two. vidyayā= by meditation on deities. amṛtam= (immortality); godhead. aśnute =attains. Becoming one with the deity (meditated upon) is termed ‘immortality’ here.
+Now with a view to inculcate their simultaneous practice, follows the condemnation of the separate meditation on the manifest and on the unmanifest—
+
+Footnotes
+[5] I read Samucchayakāriṇa eva ekapuruṣārthasaṃbandhaḥ.
+
+ISHA 0.0.12
+Sanskrit
+अन्धं तमः प्रविशन्ति येऽसम्भूतिमुपासते ।
+ततो भूय इव ते तमो य उ संभूत्यां रताः ॥ १२ ॥
+
+Transliteration
+andhaṃ tamaḥ praviśanti ye'sambhūtimupāsate |
+tato bhūya iva te tamo ya u saṃbhūtyāṃ ratāḥ || 12 ||
+
+English
+andham tamah pravishanti ye'sambhuutimupaasate |
+tato bhuuya iva te tamo ya u sambhuutyaam rataah || 12 ||
+
+Translation
+12. They fall into blind darkness who worship the unborn Prakriti. They fall into greater darkness who are bent upon the Karya Brahman Hiranyagarbha. (12).
+
+Word Meanings
+अन्धम् (andham) – blindening
+तमः (tamaḥ) – darkness
+प्रविशन्ति (praviśanti) – enter into, fall
+ये (ye) – who
+असम्भूतिम् (asambhūtim) – unmanifest (prakṛti, the primal material cause)
+उपासते (upāsate) – worship
+ततः (tataḥ) – than that
+भूयः (bhūyaḥ) – greater
+इव (iva) – as though
+ते (te) – they
+तमः (tamaḥ) – darkness
+य (ya) – who
+उ (u) – verily
+सम्भूत्याग्म् (sambhūtyāgm) – in the manifest (Brahman meaning Hiraṇyagarbha – see commentary)
+रताः (ratāḥ) – devoted
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+Saṃbhavanam means birth. That which is born and is an effect is sambhūti. asambhūti is what is other than sambhūti i.e., prakṛti, the undifferentiated cause whose essence is nescience and which is the source of all activity and desire. They who devote themselves to such Cause enter (as may be expected) darkness which is correspondingly blind in its nature. Sambhūtyām i.e., in the phenomenal Brahman known as Hiraṇyagarbha. They who delight only in Him enter darkness which is, as it were, more blinding still.
+Now follows as an argument for their simultaneous practice, a statement of the distinction between the respective fruits of the two kinds of meditation—
+
+ISHA 0.0.13
+Sanskrit
+अन्यदेवाहुः संभवादन्यदाहुरसंभवात् ।
+इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे ॥ १३ ॥
+
+Transliteration
+anyadevāhuḥ saṃbhavādanyadāhurasaṃbhavāt |
+iti śuśruma dhīrāṇāṃ ye nastadvicacakṣire || 13 ||
+
+English
+anyadevaahuh sambhavaadanyadaahurasambhavaat |
+iti shushruma dhiiraanaam ye nastadvichachakshire || 13 ||
+
+Translation
+13. They say one thing results from the worship of Hiranyagarbha and another from the worship of Prakriti. We have thus heard it stated by wise preceptors who taught us that.
+
+Word Meanings
+अन्यत् (anyat) – different
+एव (eva) – definitely
+आहुः (āhuḥ) – (they) say
+सम्भवात् (sambhavāt) – from the manifest
+अन्यत् (anyat) – different
+आहुः (āhuḥ) – (they) say
+असम्भवात् (asambhavāt) – from the ummanifest
+इति (iti) – thus
+शुश्रुम (śuśruma) – (we) have heard
+धीराणाम् (dhīrāṇām) – of the wise
+ये (ye) – who
+नः (naḥ) – to us
+तत् (tat) – that
+विचचक्षिरे (vicacakṣire) – explained
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+anyat-eva= altogether distinct. āhuḥ =(they say). Sambhavāt =from that which has birth i.e., from meditating on the phenomenal Brahman, supernatural power such as assuming, at will, extreme subtlety is said to result. Similarly, they say that there is a (distinctive) fruit from meditating on the unmanifest,—that, alluded to in pāda 1 of verse 12 and which is known as “absorption into primal cause”[6] to those versed in the Purāṇas. iti =thus. śuśruma-dhīrāṇām—i.e., we have heard the saying of the wise. The last pāda means “who explained to us the results of meditating on the manifest and the unmanifest”
+Since this is so, it is but right that meditation on both the effect and the cause should be practised together; a further reason being the achievement (through such meditation) of the chief end.[7]
+
+Footnotes
+[6] This state may be sought on account of the absence of the ordinary excitements of life in it as in sleep.
+[7] I read yukta eva and ekapuruṣārthatvāccha.
+
+ISHA 0.0.14
+Sanskrit
+संभूतिं च विनाशं च यस्तद्वेदोभयं सह ।
+विनाशेन मृत्युं तीर्त्वा संभूत्यामृतमश्नुते ॥ १४ ॥
+
+Transliteration
+saṃbhūtiṃ ca vināśaṃ ca yastadvedobhayaṃ saha |
+vināśena mṛtyuṃ tīrtvā saṃbhūtyāmṛtamaśnute || 14 ||
+
+English
+sambhuutim cha vinaasham cha yastadvedobhayam saha |
+vinaashena mrityum tiirtvaa sambhuutyaamritamashnute || 14 ||
+
+Translation
+14. Those who worship the unmanifested Prakriti and Hiranyagarbha (Destruction) together, get over death through the worship of Hiranyagarbha and attain immortality through the worship of Prakriti.
+
+Word Meanings
+सम्भूतिम् (sambhūtim) – impersonal God
+च (ca) – and
+विनाशम् (vināśam) – personal God
+च (ca) – and
+यः (yaḥ) – who
+तत् (tat) – that
+वेद (veda) – knows
+उभयग्म् (ubhayagm) – both
+सह (saha) – together
+विनाशेन (vināśena) – by personal God
+मृत्युम् (mṛtyum) – death
+तीर्त्वा (tīrtvā) – crossing
+सम्भूत्या (sambhūtyā) – by impersonal God
+अमृतम् (amṛtam) – immortality
+अश्नुते (aśnute) – enjoys, obtains
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+The first half of the verse means “He who understands that meditation on the manifest and the unmanifest should be practised together”, here means an “effect”—that whose character is transitoriness; the abstract being put for the concrete, vināśena means “by meditating on such (Brahman)”. mṛtyum =death all kinds of deficiency arising from limited power, demerit, covetousness and soon. tīrtvā =(having overcome); for great supernatural power is attained by the contemplation of Hiraṇyagarbba. Having thus overcome death or limitation of power &c., asambhūtya i.e., by meditating on the unmanifest. amṛtam i.e. absorption into the First Cause. aśnute (attains). It should be noted that sambhūti in the first pāda is mentioned without the (initial) a (and is to be taken as equivalent to asambhūti) agreeably to the statement that the result is absorption into the First Cause.
+The result derivable, according to śāstra, through worldly and divine ‘wealth’[8] extends up to absorption into the First Cause. Thus far is metempsychosis. Higher than that, is the realisation of the unity of Self spoken of in verse 9—the result of renouncing all desires and devoting oneself (exclusively) to true knowledge. Thus the twofold teaching of the Veda, as relating to worldly activity and to withdrawal from it, has been explained here. And the (Śatapatha) Brāhmaṇa up to (the chapters on) Pravargya (purificatory ceremonies described in Khanda xiv chapters 1—3 ) concerns itself with elucidating, in full, the Vedic teaching relating to the path of activity, consisting of injunctions and prohibitions. The succeeding portion, viz., the Brhadāraṇyaka, explains the path of withdrawal from the world. In verse 11 it has been stated[9]that he who desires to live performing karma (in its entirety) from conception to death, and along with it, practises meditation on the lower (phenomenal) Brahman will attain immortality. It is now pointed out by what course, one so qualified becomes immortal. (We read in the Brihadaranyaka Upanishad V, v, 2) “That is what is Truth; it is the Sun, the Person in this disc, as also the Person in the right eye”. The worshipper of this two-fold Brahman—Truth—who has also been performing karma as prescribed, addresses thus, when the end is come, Brahman who is Truth, beseeching Him for entrance—
+
+Footnotes
+[8] Worldly wealth or means comprising cattle, land, money &c., all required for performing karma. ‘Divine wealth’ is knowledge of deities.
+[9] taduktam iti, tam pratyuktam mantreṇa vidyāṃcāvidyāṃcetyādinā.-—Ānandagici. One Ms., reads tampratyetaduktam in place of taduktam.
+
+ISHA 0.0.15
+Sanskrit
+हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम् ।
+तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये ॥ १५ ॥
+
+Transliteration
+hiraṇmayena pātreṇa satyasyāpihitaṃ mukham |
+tattvaṃ pūṣannapāvṛṇu satyadharmāya dṛṣṭaye || 15 ||
+
+English
+hiranmayena paatrena satyasyaapihitam mukham |
+tattvam puushannapaavrinu satyadharmaaya drishtaye || 15 ||
+
+Translation
+15. The entrance of the True is covered as if by a golden vessel. Remove, O sun, the covering that I who have been worshipping “The True” may behold it.
+
+Word Meanings
+हिरण्मयेन (hiraṇmayena) – golden
+पात्रेण (pātreṇa) – by the vessel (which acts like a lid)
+सत्यस्य (satyasya) – of Truth
+अपिहितम् (apihitam) – covered
+मुखम् (mukham) – face
+तत् (tat) – that
+त्वम् (tvam) – you
+पूषन् (pūṣan) – O Sun
+अपावृणु (apāvṛṇu) – do open
+सत्यधर्माय (satyadharmāya) – the practitioner of Truth
+दृष्टये (dṛṣṭaye) – for beholding
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+Hiranmayam =seeming golden, resplendent tena =by such. pātrena =lid, as it were, satyasya i.e., of the Brahman residing in the Solar disc, apihitam =covered. mukham= entrance. tat= (that); tvam =(you); he-pūṣan =O Sun, apāvṛṇu =remove. satyadharmāya i.e., to me who am through meditation on you who are Truth. Or this expression may mean “one that practises true piety” Dṛṣṭaye i.e., for reaching you whose essence is Truth.
+
+ISHA 0.0.16
+Sanskrit
+पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन्समूह ।
+तेजः यत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि ॥ १६ ॥
+
+Transliteration
+pūṣannekarṣe yama sūrya prājāpatya vyūha raśmīnsamūha |
+tejaḥ yatte rūpaṃ kalyāṇatamaṃ tatte paśyāmi yo'sāvasau puruṣaḥ so'hamasmi || 16 ||
+
+English
+puushannekarshe yama suurya praajaapatya vyuuha rashmiinsamuuha |
+tejah yatte ruupam kalyaanatamam tatte pashyaami yo'saavasau purushah so'hamasmi || 16 ||
+
+Translation
+16. O Sun, sole traveller of the Heavens, controller of all, Surya, son of Prajapati remove thy rays and gather up thy burning light. I behold thy glorious form; I am he, the Purusha within thee.
+
+Word Meanings
+पूषन् (pūṣan) – O! Pūṣan
+एकर्षे (ekarṣe) – O! sole seer
+यम (yama) – O! Controller
+सूर्य (sūrya) – O! Sūrya
+प्राजापत्य (prājāpatya) – O! Son of Prajāpati
+व्यूह (vyūha) – disperse
+रश्मीन् (raśmīn) – rays
+समूह (samūha) – gather up
+तेजः (tejaḥ) – light
+यत् (yat) – what
+ते (te) – Thy
+रूपम् (rūpam) – form
+कल्याणतमम् (kalyāṇatamam) – most auspicious
+तत् (tat) – that
+ते (te) – thy
+पश्यामि (paśyāmi) – (I) see
+यः (yaḥ) – who
+असौ (asau) – this
+असौ (asau) – this
+पुरुषः (puruṣaḥ) – Puruṣa
+सः (saḥ) – he
+अहम् (aham) – I
+अस्मि (asmi) – am
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+Pūṣan=the sun, so called because he protects the world. Ekarṣe, because he traverses (the sky) alone. Yama, Death, because he controls all. Sūrya, because he sucks up rays, life and water. Prājāpatya, because he is the son of Prajāpati, the Creator. vyūha =remove, raśmīn i.e. your rays. samūha= unite i.e. withdraw. your light, yat-te =what is yours. rūpam =form, kalyāṇatamam = loveliest, tat-te =that of yours paśyāmi i.e. I may see by your grace. Further I am not entreating you as a servant, because whoever is the Person in the Solar disc, composed of vyāhṛtis,[10] the same am I. He is known as purusha (person) because He is of the form of a person, or because this world is full of Him in His modes of activity and thought or, again, because He lies in the citadel of the body.
+
+Footnotes
+[10] Vyāhṛti is literally ‘utterance’ and is the term used to denote the three sacred syllables bhūḥ, bhuvaḥ, suvaḥ. See Brihadaranyaka Upanishad V, v, 3 .
+
+ISHA 0.0.17
+Sanskrit
+वायुरनिलममृतमथेदं भस्मान्तं शरीरम् ।
+ओं । क्रतो स्मर कृतं स्मर क्रतो स्मर कृतं स्मर ॥ १७ ॥
+
+Transliteration
+vāyuranilamamṛtamathedaṃ bhasmāntaṃ śarīram |
+oṃ | krato smara kṛtaṃ smara krato smara kṛtaṃ smara || 17 ||
+
+English
+vaayuranilamamritamathedam bhasmaantam shariiram |
+om | krato smara kritam smara krato smara kritam smara || 17 ||
+
+Translation
+17. (Let my) Prana melt into the all-pervading Air, the eternal Sutratman; and let this body he burnt by fire to ashes; Om. O mind, remember, remember my deeds; O mind, remember, remember my deeds.
+
+Word Meanings
+वायुः (vāyuḥ) – air (prāṇa)
+अनिलम् (anilam) – to the air (universal)
+अमृतम् (amṛtam) – immortal
+अथ (atha) – now
+इदम् (idam) – this
+भस्मान्तग्म् (bhasmāntagm) – reduced to ashes
+शरीरम् (śarīram) – body
+ॐ (oṃ) – Om (prolonged sound)
+क्रतो (krato) – O my mind
+स्मर (smara) – (you) remember
+कृतग्म् (kṛtagm) – what you did, your deeds
+स्मर (smara) – (you) remember
+क्रतो (krato) – O my mind
+स्मर (smara) – (you) remember
+कृतग्म् (kṛtagm) – what you did, your deeds
+स्मर (smara) – (you) remember
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+Now that I am dying, may my life (Vāyu) abandoning the bodily adjunct assume the godly, in the immortal breath of the universal Self, the ‘connecting thread’ of all. pratipadyatām (“may reach”) is to be understood. The meaning, agreeably to the prayer for entrance, is “May this subtle body purified by meditation and karma advance”. atha =(and). idam =(this), śarīram =(body), hutam =(burnt) in fire. bhasmāntam i.e., may it end in ashes. Om—thus is addressed Brahman—as identical with what is known as Agni the essence of Truth—following the mode of meditating on Him-through this symbol, krato i.e., O mind, so called because it desires, smara i.e., remember what has to be remembered, for the time for it is now come. Therefore remember what has till now been meditated upon. Remember also whatever karma you have done till now[11]—since boyhood. The repetition of the third pāda indicates-earnestness.
+By another verse also, entrance is prayed for—
+
+Footnotes
+[11] I read agre in place of agne .
+
+ISHA 0.0.18
+Sanskrit
+अग्ने नय सुपथा राये अस्मान्विश्वानि देव वयुनानि विद्वान् ।
+युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नम उक्तिं विधेम ॥ १८ ॥
+
+Transliteration
+agne naya supathā rāye asmānviśvāni deva vayunāni vidvān |
+yuyodhyasmajjuhurāṇameno bhūyiṣṭhāṃ te nama uktiṃ vidhema || 18 ||
+
+English
+agne naya supathaa raaye asmaanvishvaani deva vayunaani vidvaan |
+yuyodhyasmajjuhuraanameno bhuuyishthaam te nama uktim vidhema || 18 ||
+
+Translation
+18. O Agni, lead us by the good path to the enjoyment of the fruits of our deeds, knowing O God, all our deeds. Remove the sin of deceit from within us. We offer thee many prostrations by word of mouth. (18).
+
+Word Meanings
+अग्ने (agne) – O Agni
+नय (naya) – lead
+सुपथा (supathā) – by a good path
+राये (rāye) – wealth
+अस्मान् (asmān) – us
+विश्वानि (viśvāni) – all
+देव (deva) – O God
+वयुनानि (vayunāni) – ways
+विद्वान् (vidvān) – knower
+युयोधि (yuyodhi) – remove
+अस्मत् (asmat) – from us
+जुहुराणम् (juhurāṇam) – crookedly attracting
+एनः (enaḥ) – sin
+भूयिष्ठाम् (bhūyiṣṭhām) – best
+ते (te) – to you
+नम उक्तिम् (nama uktim) – prayer
+विधेम (vidhema) – offer
+
+Notes
+Commentary by Sri Adi Shankaracharya
+
+Agne =(O Fire), naya =lead, supathā =by a good path. This qualifying word excludes the southern path. (The devotee means)—“I am tired of the southern path characterised by birth and death, and therefore do I repeatedly ask you to lead (me) by the good path free from birth and death”. rāye =for wealth i.e. (here) for enjoying the fruit of karma. asmān =us, that are qualified for (the enjoyment of) the fruits of the prescribed practices. viśvāni =all. deva =O God, vayunāni=karma or meditation. vidvān =knowing. Further, yuyodhi i.e., separate or destroy. asmat=asmattaḥ =from us. juhurāṇam =crooked or deceitful. enaḥ= sin; so that becoming pure thereby we may obtain our wish. We are not, however, able now to serve you actively (as of old); we can but do obeisance again and again (bhūyiṣṭhām) to you.
+Some entertain a doubt (as regards the antithesis between karma and true knowledge) hearing the statements (contained in verses 11 and 14—“Overcoming death through avidyā, he attains immortality through vidyā” and “Overcoming death through the manifest, he attains immortality through the unmanifest”. We shall therefore briefly consider (the matter now) in order to clear (this doubt.) Now then, what is the reason for the doubt? The answer is—Why should not true knowledge itself be understood by vidyā in the above passage? and also (by amṛtatva true) immortality? Well, are not this knowledge of the supreme Self and karma mutually exclusive on account of the antithesis between them? True; but this antagonism is not known (through śāstra) for antagonism or the reverse should be based on śāstraic authority only. Just as the performance of karma and the practice of Vidyā are known through śāstra alone, so also should their opposition or agreement be. As the śāstraic prohibition “No creature should be hurt” is annulled by śātra itself in “In a sacrifice animals may be killed” so also should it be in the case of vidyā and avidyā as well as in the case of knowledge and karma.[12]
+No; because the Veda says—“Distant are these.—opposed and leading in diverse ways—karma and knowledge” (Katha Upanishad ii, 4)- If it be said that owing to the statement in verse 11, there is (likewise) no antagonism between them, we reply ‘No’; because[13] there can possibly be no option as regards opposition or agreement between true knowledge and avidyā[14]. If it be rejoined that there is no antithesis at all, on the strength of the injunction (here in verse 11) regarding their combined practice, we repeat ‘No’; for the two cannot conceivably co-exist.
+If it be urged that vidyā and avidyā are to be pursued by the same (person) one after the other[15], we reply ‘No’; for when true knowledge comes to a person, nescience is inconceivable in him. Thus (for instance) if once a man experiences heat and light in fire, there cannot arise in him the ignorance—that fire is cold or devoid of light. Nor can there be doubt or delusion (in a knower) for verse 7 denies all possibility of them. Nescience being inconceivable,—we have said—its result[16]—karma—is equally inconceivable. The immortality spoken of (here) is only relative. Further if vidyā in this passage referred to knowledge of the supreme Self, praying for an entrance would be inappropriate.[17] Thus we conclude by stating that the meaning of the verses in question is, as we have explained.
+
+Footnotes
+[12] I omit samucchayaḥ after vidyākarmaṇaśca .
+[13] I omit hetusvarūpaphalavirodhāt . I also put a full stop after vikalpāsambhavāt .
+[14] Option is conceivable in the case of karma. Thus one śākha of the Veda prescribes “ udite-juhoti ”; another, “ anudite-juhoti .”. Here it may be understood that the Veda gives one, option to offer oblations either after sunrise or before. But the same rule cannot apply to vidyā and avidyā, on the strength of the two texts in question. In this case, only one of the statements can hold good and the other, instead of being taken literally, has to be interpreted in such a manner that it will not clash with the first. Reason has to decide which statement is to be understood literally and which not.
+[15] If it is meant that karma precedes knowledge, there is no difficulty in agreeing with the opponent, for it is recognised that karma prepares man for true knowledge. But if karma is to succeed knowledge, the statement of the opponent cannot be admitted.
+[16] The opponent may argue at this stage that the antithesis hithereto spoken of is between vidyā and avidyā and not between karma and vidyā. This argument is met by stating that dissociating avidyā from a knower is perforce dissociating karma also from him.
+[17] This is said in reference to the Vedic text. “ na tasya prānā utkrāmanti ” ( Brihadaranyaka Upanishad v, 6 ), which declares that final release is attained by a knower, where he is, and not by his going elsewhere.
