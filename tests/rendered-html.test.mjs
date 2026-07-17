@@ -99,3 +99,23 @@ test("bundles Devanagari fonts for Vedic marks", async () => {
   const source = await readFile(new URL("../WebApp/data/mundaka_upanishad_full.json", import.meta.url), "utf8");
   assert.match(source, /ꣳ/);
 });
+
+test("does not show commentary source headers in app data", async () => {
+  const files = [
+    "mundaka_upanishad_full.json",
+    "mandukya_upanishad_full.json",
+    "isha_upanishad_full.json",
+    "kena_upanishad_full.json",
+    "katha_upanishad_full.json",
+    "kaivalya_upanishad_full.json",
+    "taittiriya_upanishad_full.json",
+    "chandogya_upanishad_full.json",
+  ];
+
+  for (const file of files) {
+    const source = await readFile(new URL(`../WebApp/data/${file}`, import.meta.url), "utf8");
+    const data = JSON.parse(source);
+    assert.doesNotMatch(source, /Sri Shankara's Commentary \(Bhashya\) translated by S\. Sitarama Sastri/);
+    assert.ok(data.entries.every((entry) => !/^Com\.\s*[—-]/m.test(entry.notes || "")));
+  }
+});

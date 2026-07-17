@@ -116,6 +116,14 @@ function captureDescription(html) {
   return htmlToText(match?.[1] ?? "");
 }
 
+function cleanCommentary(value) {
+  return value
+    .replace(/^Sri Shankara's Commentary \(Bhashya\) translated by S\. Sitarama Sastri\s*/gim, "")
+    .replace(/^Com\.\s*[—-]\s*/gm, "")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
 function buildSections(entries) {
   const sections = new Map();
 
@@ -210,7 +218,7 @@ const entries = sectionMatches.map((match, index) => {
     english: captureField(sectionHtml, "colloquial"),
     translation: captureField(sectionHtml, "translation"),
     wordMeanings: captureField(sectionHtml, "word_meaning"),
-    notes: captureField(sectionHtml, "verse_notes"),
+    notes: cleanCommentary(captureField(sectionHtml, "verse_notes")),
   };
 });
 
