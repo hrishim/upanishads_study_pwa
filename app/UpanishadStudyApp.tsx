@@ -38,20 +38,10 @@ type UpanishadData = {
   entries: Entry[];
 };
 
-const library = [
-  { title: "Isha Upanishad", subtitle: "Next dataset slot", active: false },
-  { title: "Kena Upanishad", subtitle: "Next dataset slot", active: false },
-  { title: "Katha Upanishad", subtitle: "Next dataset slot", active: false },
-  { title: "Kaivalya Upanishad", subtitle: "Next dataset slot", active: false },
-  { title: "Taittiriya Upanishad", subtitle: "Next dataset slot", active: false },
-  { title: "Chandogya Upanishad", subtitle: "Next dataset slot", active: false },
-];
-
 const modes = [
-  { id: "study", label: "Study" },
-  { id: "sanskrit", label: "Sanskrit" },
-  { id: "translation", label: "Translation" },
-  { id: "words", label: "Word by Word" },
+  { id: "sanskrit", label: "Moola / Verse" },
+  { id: "translation", label: "Meaning" },
+  { id: "words", label: "Word by Word Meaning" },
   { id: "notes", label: "Sankaracharya Commentary" },
 ] as const;
 
@@ -87,26 +77,19 @@ function groupSections(sections: SourceSection[]) {
 export function UpanishadStudyApp({ dataSets }: { dataSets: UpanishadData[] }) {
   const [activeSlug, setActiveSlug] = useState(dataSets[0]?.slug ?? "");
   const [selectedEntryNumber, setSelectedEntryNumber] = useState(5);
-  const [mode, setMode] = useState<Mode>("study");
+  const [mode, setMode] = useState<Mode>("sanskrit");
   const [query, setQuery] = useState("");
   const [fontScale, setFontScale] = useState(1);
   const [bookmarks, setBookmarks] = useState<string[]>([]);
   const [showIntroduction, setShowIntroduction] = useState(false);
   const data = dataSets.find((item) => item.slug === activeSlug) ?? dataSets[0];
-  const libraryItems = [
-    ...dataSets.map((item) => ({
+  const libraryItems = dataSets.map((item) => ({
       title: item.title,
       subtitle: `${item.entryCount} entries · downloaded from Shlokam`,
       active: item.slug === data.slug,
       slug: item.slug,
       available: true,
-    })),
-    ...library.map((item) => ({
-      ...item,
-      slug: item.title.toLowerCase().replace(/\s+/g, "-"),
-      available: false,
-    })),
-  ];
+    }));
 
   useEffect(() => {
     const savedEntry = Number(localStorage.getItem(storageKey(data.slug, "entry")));
@@ -188,7 +171,7 @@ export function UpanishadStudyApp({ dataSets }: { dataSets: UpanishadData[] }) {
       <header className="library-topbar">
         <div className="app-heading">
           <h1>Upanishads Study</h1>
-          <p className="source-line">Section headings · verses · word-by-word meaning · English translation · Shankara commentary</p>
+          <p className="source-line">Section headings · verses · word-by-word meaning · English translation · Sankaracharya commentary</p>
         </div>
 
         <nav className="library-list" aria-label="Upanishads">
@@ -211,7 +194,7 @@ export function UpanishadStudyApp({ dataSets }: { dataSets: UpanishadData[] }) {
           <input
             aria-label="Search the full Mundaka Upanishad"
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="Search Sanskrit, translation, meanings..."
+            placeholder="Search verse, meaning, word meanings..."
             type="search"
             value={query}
           />
@@ -230,7 +213,7 @@ export function UpanishadStudyApp({ dataSets }: { dataSets: UpanishadData[] }) {
           </div>
           <div className="stat">
             <strong>4</strong>
-            <span>text layers</span>
+            <span>display views</span>
           </div>
           <div className="stat">
             <strong>{bookmarks.length}</strong>
@@ -400,7 +383,7 @@ function ReadingLayer({
     return (
       <section className="read-content">
         <div className="translation-box">
-          <h4>English Translation</h4>
+          <h4>Meaning</h4>
           <TextBlock className="translation-text" value={entry.translation} />
         </div>
       </section>
@@ -422,7 +405,7 @@ function ReadingLayer({
     return (
       <section className="read-content">
         <div className="notes-box">
-          <h4>Sankaracharyas Commentary English Translation</h4>
+          <h4>Sankaracharya Commentary</h4>
           <TextBlock className="notes-text" value={entry.notes || "No notes are available for this entry."} />
         </div>
       </section>
@@ -431,27 +414,10 @@ function ReadingLayer({
 
   return (
     <section className="read-content">
-      <div className="study-grid">
-        <div className="main-text">
-          <div className="section-heading">{sectionTitle} · {shortTitle} {entry.reference}</div>
-          <h4>Verse</h4>
-          <TextBlock className="sanskrit-text" value={entry.sanskrit} />
-          <div className="translation-box">
-            <h4>English Translation</h4>
-            <TextBlock className="translation-text" value={entry.translation} />
-          </div>
-        </div>
-        <div className="side-layers">
-          <div className="meaning-box">
-            <h4>Word by Word Meaning</h4>
-            <TextBlock className="meaning-text" value={entry.wordMeanings} />
-          </div>
-          <div className="notes-box">
-            <h4>Sankaracharyas Commentary English Translation</h4>
-            <TextBlock className="notes-text" value={entry.notes || "No notes are available for this entry."} />
-          </div>
-        </div>
-      </div>
+      <h4>Section Heading</h4>
+      <div className="section-heading">{sectionTitle} · {shortTitle} {entry.reference}</div>
+      <h4>Verse</h4>
+      <TextBlock className="sanskrit-text" value={entry.sanskrit} />
     </section>
   );
 }

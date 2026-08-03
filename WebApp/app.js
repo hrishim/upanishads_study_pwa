@@ -3,17 +3,16 @@ const dataSets = window.UPANISHAD_DATA || [];
 const state = {
   activeSlug: localStorage.getItem("upanishads-study:active") || dataSets[0]?.slug,
   entryNumber: Number(localStorage.getItem("upanishads-study:entry")) || 1,
-  mode: localStorage.getItem("upanishads-study:mode") || "study",
+  mode: localStorage.getItem("upanishads-study:mode") || "sanskrit",
   query: "",
   scale: Number(localStorage.getItem("upanishads-study:scale")) || 1,
 };
 
 const modes = [
-  ["study", "Study"],
-  ["sanskrit", "Sanskrit"],
-  ["translation", "Translation"],
-  ["words", "Word by Word"],
-  ["notes", "Sankaracharya Commentary"],
+  ["sanskrit", "Moola / Verse", "Original verse"],
+  ["translation", "Meaning", "Verse meaning"],
+  ["words", "Word by Word Meaning", "Word meanings"],
+  ["notes", "Sankaracharya Commentary", "Commentary"],
 ];
 
 const $ = (id) => document.getElementById(id);
@@ -199,10 +198,8 @@ function renderLayer(data, entry, sectionTitle) {
 
   if (state.mode === "sanskrit") {
     return `
-      <section class="read-content">
-        <h4>Section Heading</h4>
+      <section class="read-content sanskrit-view">
         <div class="section-heading">${escapeHtml(heading)}</div>
-        <h4>Verse</h4>
         ${textBlock("sanskrit-text", entry.sanskrit)}
       </section>
     `;
@@ -212,7 +209,7 @@ function renderLayer(data, entry, sectionTitle) {
     return `
       <section class="read-content">
         <div class="translation-box">
-          <h4>English Translation</h4>
+          <h4>Meaning</h4>
           ${textBlock("translation-text", entry.translation)}
         </div>
       </section>
@@ -234,7 +231,7 @@ function renderLayer(data, entry, sectionTitle) {
     return `
       <section class="read-content">
         <div class="notes-box">
-          <h4>Sankaracharyas Commentary English Translation</h4>
+          <h4>Sankaracharya Commentary</h4>
           ${textBlock("notes-text", entry.notes || "Commentary is not available for this entry.")}
         </div>
       </section>
@@ -243,27 +240,10 @@ function renderLayer(data, entry, sectionTitle) {
 
   return `
     <section class="read-content">
-      <div class="study-grid">
-        <div class="main-text">
-          <div class="section-heading">${escapeHtml(heading)}</div>
-          <h4>Verse</h4>
-          ${textBlock("sanskrit-text", entry.sanskrit)}
-          <div class="translation-box">
-            <h4>English Translation</h4>
-            ${textBlock("translation-text", entry.translation)}
-          </div>
-        </div>
-        <div class="side-layers">
-          <div class="meaning-box">
-            <h4>Word by Word Meaning</h4>
-            ${textBlock("meaning-text", entry.wordMeanings || "Word by word meaning is not available for this entry.")}
-          </div>
-          <div class="notes-box">
-            <h4>Sankaracharyas Commentary English Translation</h4>
-            ${textBlock("notes-text", entry.notes || "Commentary is not available for this entry.")}
-          </div>
-        </div>
-      </div>
+      <h4>Section Heading</h4>
+      <div class="section-heading">${escapeHtml(heading)}</div>
+      <h4>Verse</h4>
+      ${textBlock("sanskrit-text", entry.sanskrit)}
     </section>
   `;
 }
@@ -275,27 +255,34 @@ function renderReader(data, entry) {
   const marked = bookmarks.includes(entry.id);
 
   $("reader").innerHTML = `
-    <div class="read-toolbar">
-      <div>
-        <p class="eyebrow">${escapeHtml(sectionTitle)} · ${escapeHtml(entry.reference)}</p>
-        <h3>${entry.verse === 0 ? "Opening Invocation" : `Verse ${entry.verse}`}</h3>
-      </div>
-      <div class="tools">
-        <button id="prevButton" aria-label="Previous entry" class="tool-button" type="button">←</button>
-        <button id="bookmarkButton" class="tool-button ${marked ? "marked" : ""}" type="button">Bookmark</button>
-        <button id="nextButton" aria-label="Next entry" class="tool-button" type="button">→</button>
+    <div class="reader-shell">
+      <aside class="reader-control-panel">
+        <div class="reader-title-block">
+          <p class="eyebrow">${escapeHtml(sectionTitle)} · ${escapeHtml(entry.reference)}</p>
+          <h3>${entry.verse === 0 ? "Opening Invocation" : `Verse ${entry.verse}`}</h3>
+        </div>
+        <div class="stepper">
+          <button id="prevButton" aria-label="Previous entry" class="tool-button" type="button">←</button>
+          <button id="nextButton" aria-label="Next entry" class="tool-button" type="button">→</button>
+        </div>
+        <button id="bookmarkButton" class="bookmark-wide ${marked ? "marked" : ""}" type="button">Bookmark</button>
+        <div class="mode-tabs" role="tablist" aria-label="Display views">
+          ${modes.map(([id, label, description]) => `
+            <button class="${state.mode === id ? "active" : ""}" data-mode="${id}" role="tab" type="button">
+              <strong>${label}</strong>
+              <span>${description}</span>
+            </button>
+          `).join("")}
+        </div>
+        <label class="text-size">
+          <span>Text size</span>
+          <input id="scaleInput" aria-label="Text size" max="1.25" min="0.9" step="0.05" type="range" value="${state.scale}">
+        </label>
+      </aside>
+      <div class="reading-surface">
+        ${renderLayer(data, entry, sectionTitle)}
       </div>
     </div>
-    <div class="mode-tabs" role="tablist" aria-label="Text layers">
-      ${modes.map(([id, label]) => `
-        <button class="${state.mode === id ? "active" : ""}" data-mode="${id}" role="tab" type="button">${label}</button>
-      `).join("")}
-      <label class="text-size">
-        Text size
-        <input id="scaleInput" aria-label="Text size" max="1.25" min="0.9" step="0.05" type="range" value="${state.scale}">
-      </label>
-    </div>
-    ${renderLayer(data, entry, sectionTitle)}
   `;
 
   $("prevButton").addEventListener("click", () => move(-1));
@@ -312,9 +299,9 @@ function render() {
   const entry = currentEntry(data);
   document.querySelector(".study-app").style.setProperty("--reader-scale", state.scale);
 
-  $("entryCount").textContent = data.entryCount;
-  $("sectionCount").textContent = data.sections.length;
-  $("bookmarkCount").textContent = getBookmarks(data).length;
+  if (!modes.some(([id]) => id === state.mode)) {
+    state.mode = "sanskrit";
+  }
   $("searchInput").value = state.query;
 
   renderLibrary(data);

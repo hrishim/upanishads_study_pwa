@@ -33,10 +33,22 @@ test("server-renders the Upanishad study app", async () => {
   assert.match(html, /Mundaka Upanishad/);
   assert.match(html, /Upanishads Study/);
   assert.match(html, /source entries/);
-  assert.match(html, /Word by Word/);
-  assert.match(html, /Sankaracharyas Commentary English Translation/);
+  assert.match(html, /Moola \/ Verse/);
+  assert.match(html, /Word by Word Meaning/);
+  assert.match(html, /Sankaracharya Commentary/);
+  assert.doesNotMatch(html, />Study<\/button>/);
   assert.doesNotMatch(html, /Workspace|workspace/);
   assert.doesNotMatch(html, /codex-preview|react-loading-skeleton|Your site is taking shape/);
+});
+
+test("keeps the full commentary heading in the app renderers", async () => {
+  const reactSource = await readFile(new URL("../app/UpanishadStudyApp.tsx", import.meta.url), "utf8");
+  const webSource = await readFile(new URL("../WebApp/app.js", import.meta.url), "utf8");
+
+  assert.match(reactSource, /Sankaracharya Commentary/);
+  assert.match(webSource, /Sankaracharya Commentary/);
+  assert.doesNotMatch(reactSource, /Sankaracharyas Commentary English Translation/);
+  assert.doesNotMatch(webSource, /Sankaracharyas Commentary English Translation/);
 });
 
 test("ships Mundaka as full downloaded structured data", async () => {
@@ -112,11 +124,27 @@ test("does not show commentary source headers in app data", async () => {
     "taittiriya_upanishad_full.json",
     "chandogya_upanishad_full.json",
   ];
+  const blockedHeaderPatterns = [
+    /Sri Shankara/i,
+    /Sri Adi Shankaracharya/i,
+    /Shankaracharya's Sanskrit Commentary/i,
+    /English Translation Of/i,
+    /Bhashya/i,
+    /translated by/i,
+    /^Com\.\s*[—-]/mi,
+    /Commentary by/i,
+    /English Commentary By Swami/i,
+    /Anandagiri Tika/i,
+  ];
 
   for (const file of files) {
     const source = await readFile(new URL(`../WebApp/data/${file}`, import.meta.url), "utf8");
     const data = JSON.parse(source);
-    assert.doesNotMatch(source, /Sri Shankara's Commentary \(Bhashya\) translated by S\. Sitarama Sastri/);
-    assert.ok(data.entries.every((entry) => !/^Com\.\s*[—-]/m.test(entry.notes || "")));
+    for (const entry of data.entries) {
+      const notes = entry.notes || "";
+      for (const pattern of blockedHeaderPatterns) {
+        assert.doesNotMatch(notes, pattern);
+      }
+    }
   }
 });
