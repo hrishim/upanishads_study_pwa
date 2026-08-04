@@ -113,7 +113,7 @@ test("bundles Devanagari fonts for Vedic marks", async () => {
   assert.match(source, /ꣳ/);
 });
 
-test("does not show commentary source headers in app data", async () => {
+test("does not show source attribution or duplicated tab labels in app data", async () => {
   const files = [
     "mundaka_upanishad_full.json",
     "mandukya_upanishad_full.json",
@@ -124,7 +124,16 @@ test("does not show commentary source headers in app data", async () => {
     "taittiriya_upanishad_full.json",
     "chandogya_upanishad_full.json",
   ];
+  const displayFields = ["sanskrit", "translation", "wordMeanings", "notes"];
   const blockedHeaderPatterns = [
+    /sitarama\s+sas/i,
+    /sitrama\s+sas/i,
+    /sitaram\s+sas/i,
+    /Translation by Swami/i,
+    /Commentary by Swami/i,
+    /Swami Sivananda/i,
+    /Swami Gambirananda/i,
+    /Swami Krishnananda/i,
     /Sri Shankara/i,
     /Sri Adi Shankaracharya/i,
     /Shankaracharya's Sanskrit Commentary/i,
@@ -135,15 +144,22 @@ test("does not show commentary source headers in app data", async () => {
     /Commentary by/i,
     /English Commentary By Swami/i,
     /Anandagiri Tika/i,
+    /source\s*:\s*shlokam/i,
+    /shlokam\.org/i,
+    /^\s*Verse\s+\d+\s*\n+Sanskrit:\s*\n+/i,
+    /\n+Translation:\s*\n+/i,
+    /\n+Commentary on Verse\s+\d+\s*\n+/i,
   ];
 
   for (const file of files) {
     const source = await readFile(new URL(`../WebApp/data/${file}`, import.meta.url), "utf8");
     const data = JSON.parse(source);
     for (const entry of data.entries) {
-      const notes = entry.notes || "";
-      for (const pattern of blockedHeaderPatterns) {
-        assert.doesNotMatch(notes, pattern);
+      for (const field of displayFields) {
+        const value = entry[field] || "";
+        for (const pattern of blockedHeaderPatterns) {
+          assert.doesNotMatch(value, pattern, `${file} ${entry.reference} ${field} leaked ${pattern}`);
+        }
       }
     }
   }
